@@ -1,244 +1,184 @@
 # Jupyter Bioacoustic Demo
 
-Interactive demo notebooks showcasing the [jupyter-bioacoustic](https://github.com/SchmidtDSE/jupyter_bioacoustic) JupyterLab extension for annotating and reviewing bioacoustic audio clips.
+Interactive demo notebooks for the [jupyter-bioacoustic](https://github.com/SchmidtDSE/jupyter_bioacoustic) JupyterLab extension.
+
+> **Full documentation**: [schmidtdse.github.io/jupyter_bioacoustic](https://schmidtdse.github.io/jupyter_bioacoustic/) &nbsp;|&nbsp; **Wiki**: [GitHub Wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki)
 
 ![BioacousticAnnotator Interface](assets/app-review.png)
 
 ## Overview
 
-This repository contains demonstration notebooks that show how to use `BioacousticAnnotator` for:
+These notebooks demonstrate how to use `BioacousticAnnotator` for:
 
 - **Annotation**: Assign species labels and mark time/frequency regions in audio clips
 - **Review**: Validate AI model predictions with human expertise
-- **Geo-Analysis**: Combine geographic data analysis with audio review workflows
-
-## Features Demonstrated
-
-- 📊 **Interactive Tables** — Browse, filter, and sort audio detections
-- 🎵 **Spectrogram Player** — Visualize and play audio with zoom/pan controls
-- 📝 **Configurable Forms** — YAML-driven annotation and review interfaces
-- 🎯 **Annotation Tools** — Bounding boxes, time markers, and multibox selections
-- 🗺️ **Geographic Analysis** — Select regions on interactive maps for focused review
-- 📈 **Integrated Analysis** — Species distributions, accuracy metrics, and visualizations
+- **Geo-Analysis**: Combine geographic data selection with audio review and downstream analysis
 
 ## Quick Start
 
-### Installation
+### Using Pixi (recommended)
+
+[Pixi](https://pixi.sh) manages all dependencies automatically from the `pyproject.toml`:
 
 ```bash
-# Install jupyter-bioacoustic
+git clone https://github.com/SchmidtDSE/jupyter_bioacoustic_demo.git
+cd jupyter_bioacoustic_demo
+pixi run lab
+```
+
+This installs `jupyter-bioacoustic`, `ipyleaflet`, `shapely`, `seaborn`, and all other dependencies, then launches JupyterLab with the required `iopub_data_rate_limit` setting.
+
+### Using pip
+
+```bash
+git clone https://github.com/SchmidtDSE/jupyter_bioacoustic_demo.git
+cd jupyter_bioacoustic_demo
+
 pip install jupyter-bioacoustic
-
-# For demo notebooks with analysis tools
 pip install ipyleaflet shapely seaborn requests
+
+jupyter lab --ServerApp.iopub_data_rate_limit=1e10
 ```
 
-### Run the Demos
-
-```bash
-# Clone this repository
-git clone https://github.com/your-org/jupyter-bioacoustic-demo.git
-cd jupyter-bioacoustic-demo
-
-# Start JupyterLab
-jupyter lab
-
-# Open simple-example.ipynb or geo-analysis-example.ipynb
-```
+> Spectrograms are sent as base64 images over Jupyter's IOPub channel, which can exceed the default rate limit. The `iopub_data_rate_limit` flag (or `pixi run lab`) prevents throttling.
 
 ## Demo Notebooks
 
-### 1. Simple Example (`simple-example.ipynb`)
+### Simple Example (`simple-example.ipynb`)
 
-Basic workflows for annotation and review:
+Two workflows in one notebook:
+
+**Annotation** &mdash; uses a project file to load data, config, and output paths together:
 
 ```python
-from jupyter_bioacoustic import BioacousticAnnotator
-
-# Annotation workflow
-ba_annotate = BioacousticAnnotator(
-    data_path='data/annotate-data.csv',
-    config='config/annotate-simple.yaml',
-    output='outputs/annotate-output.csv'
+ba = BioacousticAnnotator(
+    project='annotator_config/projects/simple_annotator.yaml',
+    annotator_name='brookie',
+    annotate_date=20260515
 )
-ba_annotate.open()
-
-# Review workflow
-ba_review = BioacousticAnnotator(
-    data='data/review-data.csv',
-    config='config/review-simple.yaml',
-    output='outputs/review-output.csv'
-)
-ba_review.open()
+ba.open()
 ```
 
-### 2. Geographic Analysis (`geo-analysis-example.ipynb`)
+**Review** &mdash; loads parameters directly:
 
-Advanced workflow combining map-based data selection with audio review and analysis:
+```python
+ba = BioacousticAnnotator(
+    data='data/review-data.csv',
+    config='config/review-simple.yaml',
+    output='outputs/review-output.csv',
+    reviewer_name='brookie',
+    review_date=20260414
+)
+ba.open()
+```
 
-- Select regions of interest on an interactive map
-- Review audio from selected areas
-- Analyze species distributions and model accuracy
-- Generate county-level visualizations
+### Geographic Analysis (`geo-analysis-example.ipynb`)
+
+End-to-end workflow that stays inside the Jupyter ecosystem:
+
+1. Load model predictions and county boundaries
+2. Select regions on an interactive map (click counties or draw polygons)
+3. Review selected clips with `BioacousticAnnotator`
+4. Analyze species distributions and model accuracy
+5. Generate county-level choropleth maps
 
 ## Configuration
 
-The demo uses YAML configuration files to define form layouts. The new `dynamic_forms` feature allows conditional form sections:
+The demo uses two configuration patterns:
+
+**Project files** combine data, config, and output into a single reference:
+
+```yaml
+# annotator_config/projects/simple_annotator.yaml
+project_name: Simple Annotator
+config: annotator_config/config/simple_annotator.yaml
+data:
+  path: data/annotate-data.csv
+```
+
+**Config files** define audio, display, and form parameters:
 
 ```yaml
 # config/review-simple.yaml
-form_config:
-  - select:
-      label: Is Valid
-      column: is_valid
-      items:
-        - value: 'yes'
-        - value: 'no'
-          form: correction_form  # Triggers dynamic form
+audio: audio_path
+ident_column: common_name
+display_columns: ["confidence", "county"]
 
-dynamic_forms:
-  correction_form:
-    - select:
-        label: Corrected Species
-        column: verified_common_name
+form_config:
+    select:
+        label: Is Valid
+        column: is_valid
         items:
-          path: data/categories.csv
-          value: common_name
+            - label: 'yes'
+              value: 'yes'
+            - label: 'no'
+              value: 'no'
+              form: correction_form
+    dynamic_forms:
+        correction_form:
+            - select:
+                  label: verified name
+                  column: verified_common_name
+                  items:
+                      path: data/categories-small.csv
+                      value: common_name
+    submission_buttons:
+        submit:
+            label: Verify
 ```
 
-## Data Sources
-
-The demo supports multiple data sources:
-
-- **Local files**: CSV, Parquet, JSONL
-- **Remote files**: S3, GCS, HTTPS URLs
-- **Databases**: SQL queries via DuckDB
-- **APIs**: REST endpoints returning JSON
-
-Audio can be loaded from:
-- Single file for all clips
-- Per-row file paths/URLs
-- S3/GCS URIs with partial downloads
+See the [Configuration wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/Configuration) and [Configurable Forms wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/Configurable-Forms) for all available parameters.
 
 ## Project Structure
 
 ```
-jupyter-bioacoustic-demo/
-├── simple-example.ipynb       # Basic annotation/review workflows
-├── geo-analysis-example.ipynb # Geographic analysis with maps
-├── config/                    # YAML configuration files
+jupyter_bioacoustic_demo/
+├── simple-example.ipynb              # Annotation and review workflows
+├── geo-analysis-example.ipynb        # Geographic analysis with maps
+├── annotator_config/                 # Config builder layout
+│   ├── config/                       #   annotator configs
+│   ├── forms/                        #   form configs
+│   └── projects/                     #   project files
+├── config/                           # Standalone config files
 │   ├── annotate-simple.yaml
 │   ├── review-simple.yaml
-│   └── dev-config-geo-review.yaml
-├── data/                      # Sample datasets
-│   ├── annotate-data.csv
-│   ├── review-data.csv
-│   ├── dev-review.csv
-│   └── categories-small.csv
-├── audio/                     # Sample audio files
-├── tools/                     # Analysis utilities
-│   ├── MapHandler.py         # Interactive map selection
-│   └── analysis.py           # Visualization functions
-├── outputs/                   # Generated annotations
-└── assets/                    # Images for documentation
-```
-
-## Key Differences from Previous Versions
-
-This demo is updated for the latest `jupyter-bioacoustic` (v0.5.5+):
-
-- **Class renamed**: `JupyterAudio` → `BioacousticAnnotator`
-- **New form system**: `is_valid_form` → `dynamic_forms` for flexible conditional forms
-- **Enhanced annotations**: New `spectrogram_annotations` field type
-- **Better configuration**: Cleaner YAML structure with top-level parameters
-
-## Documentation
-
-- **Full Documentation**: [jupyter-bioacoustic Wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki)
-- **API Reference**: [BioacousticAnnotator API](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/API-Reference)
-- **Configuration Guide**: [All Parameters](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/Configuration)
-- **Form Builder**: [Configurable Forms](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/Configurable-Forms)
-
-## Requirements
-
-- Python ≥ 3.9
-- JupyterLab ≥ 4.0
-- jupyter-bioacoustic ≥ 0.5.5
-- numpy, pandas, matplotlib
-- soundfile, pydub
-- boto3 (for S3 support)
-
-Optional for demos:
-- ipyleaflet (geographic maps)
-- shapely (polygon selection)
-- seaborn (visualizations)
-- requests (fetching county data)
-- duckdb (SQL queries)
-
-## Development
-
-To modify or extend the demos:
-
-```bash
-# Install in development mode
-pip install -e .
-
-# Install additional dependencies
-pip install ipyleaflet shapely seaborn requests duckdb
+│   └── forms/                        #   form configs for standalone configs
+├── data/                             # Sample datasets and category lists
+├── audio/                            # Sample FLAC audio files
+├── tools/                            # Analysis utilities
+│   ├── map_handler.py                #   Interactive map selection
+│   └── analysis.py                   #   Visualization and stats functions
+├── scripts/                          # Data generation scripts
+├── outputs/                          # Generated annotation CSVs
+├── assets/                           # Documentation images
+├── pyproject.toml                    # Pixi config and dependencies
+└── requirements.txt                  # pip fallback dependencies
 ```
 
 ## Troubleshooting
 
-### Map Widget Not Displaying
-
-If you see "Error displaying widget" when trying to load the map:
-
-1. **Using pixi** (recommended):
-```bash
-# Clean install
-pixi run install-extensions
-pixi run setup
-
-# Restart JupyterLab
-pixi run lab
-```
-
-2. **Using pip**:
-```bash
-# Ensure ipywidgets and ipyleaflet are properly installed
-pip install --upgrade ipywidgets ipyleaflet
-jupyter labextension list  # Check if jupyter-leaflet is listed
-
-# If not listed, you may need to rebuild
-jupyter lab build
-```
-
-3. **Browser issues**:
-- Try refreshing the browser (Ctrl+Shift+R or Cmd+Shift+R)
-- Clear browser cache
-- Try a different browser
-
-4. **Kernel issues**:
-- Restart the kernel (Kernel → Restart Kernel)
-- Reload the notebook
-
 ### Audio Not Loading
 
-- Check that audio files exist in the `audio/` directory
+- Verify audio files exist in `audio/` (or that S3 URIs are accessible)
 - For S3 audio, ensure AWS credentials are configured
-- Verify the audio path in the configuration matches your files
+- Check that the `audio` field in your config matches the actual file paths
 
-## Support
+### Map Widget Not Displaying
 
-- **Issues**: [GitHub Issues](https://github.com/SchmidtDSE/jupyter_bioacoustic/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/SchmidtDSE/jupyter_bioacoustic/discussions)
+- **Pixi**: dependencies are handled automatically. Restart with `pixi run lab`
+- **pip**: ensure `ipywidgets` and `ipyleaflet` are installed, then restart JupyterLab
+- Try a hard refresh (`Ctrl+Shift+R` / `Cmd+Shift+R`)
+
+## Documentation
+
+- [Full Documentation (MyST)](https://schmidtdse.github.io/jupyter_bioacoustic/)
+- [GitHub Wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki)
+- [API Reference](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/API-Reference)
+- [Configuration](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/Configuration)
+- [Configurable Forms](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki/Configurable-Forms)
 
 ## License
 
-This demo repository is provided under the BSD 3-Clause License. See LICENSE file for details.
-
-## Acknowledgments
+BSD 3-Clause. See LICENSE for details.
 
 Developed by the [Eric and Wendy Schmidt Center for Data Science and Environment](https://dse.berkeley.edu) at UC Berkeley.
-
-The jupyter-bioacoustic tool supports bioacoustic research by bridging the gap between AI model outputs and human validation, keeping the entire workflow within the Jupyter ecosystem.

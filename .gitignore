@@ -34,8 +34,7 @@ _build/
 *.csv
 *.jsonl
 
-# Demo
-*.png
+
 *.ipynb
 audio/
 outputs/
