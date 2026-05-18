@@ -1,0 +1,4 @@
+project_name: Simple Annotator
+config: annotator_config/config/simple_annotator.yaml
+data:
+  path: data/annotate-data.csv

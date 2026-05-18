@@ -1,0 +1,50 @@
+pass_value:
+- source_column: id
+  column: detection_id
+- source_column: start_time
+  column: start_time
+- source_column: end_time
+  column: end_time
+title:
+  value: REVIEW CLIP
+  progress_tracker: true
+select:
+  label: Is Valid
+  column: is_valid
+  required: true
+  items:
+  - label: 'yes'
+    value: 'yes'
+  - label: 'no'
+    value: 'no'
+    form: correction_form
+textbox:
+  label: notes
+  column: notes
+dynamic_forms:
+  correction_form:
+  - select:
+      label: verified name
+      column: verified_common_name
+      required: true
+      items:
+        path: data/categories.csv
+        value: common_name
+        filter_box: true
+        custom_value: true
+        not_available:
+          label: Unknown
+          value: unknown
+  - select:
+      label: verif. confidence
+      column: verification_confidence
+      items:
+      - low
+      - medium
+      - high
+submission_buttons:
+  line: true
+  next:
+    label: Skip
+  submit:
+    label: Verify

@@ -1,0 +1,75 @@
+#***************************************************************************
+# Codebase
+#***************************************************************************
+playground*
+scratch*
+Untitled*
+dev*
+*.ipynb
+tmp/
+logs/
+
+#***************************************************************************
+# JupyterBioacoustic Extension
+#***************************************************************************
+node_modules/
+.yarn/
+yarn.lock
+*yarn*
+lib/
+*.tsbuildinfo
+__pycache__/
+*.egg-info/
+.pixi/
+pixi.lock
+claude*
+
+# mystmd
+Dockerfile.myst
+_build/
+
+# Audio/data files (not part of the extension)
+/audio/
+*.flac
+*.csv
+*.jsonl
+
+# Demo
+*.png
+*.ipynb
+audio/
+outputs/
+spectrograms/
+
+#***************************************************************************
+# Build / Distribution
+#***************************************************************************
+.Python
+.ipynb_checkpoints
+build/
+develop-eggs/
+MANIFEST
+downloads/
+eggs/
+.eggs/
+lib64/
+bin/
+include
+parts/
+sdist/
+var/
+wheels/
+.installed.cfg
+*.egg
+
+# Keep dist/ for wheel releases
+dist/
+
+#***************************************************************************
+# OS / Editor
+#***************************************************************************
+.DS_Store
+*sftp-config.json*
+*.pyc
+pip-selfcheck.json
+jba_debug.log

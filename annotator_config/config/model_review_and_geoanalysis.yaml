@@ -1,0 +1,51 @@
+output:
+  path: outputs/model_review_and_geoanalysis.csv
+description:
+  title: Analysis Workflow
+  text: |-
+    In this example we:
+
+    1. We selected geo-referenced data-points using a map
+    2. Review those points using the BioacousticAnnotator
+    3. Perform analysis on the model predictions vs reviewed dataset
+    4. Map the data showing dominant species and model accuracy by county
+
+    ---
+
+    **Note**: because we are doing data-filtering and analysis we do not have a `project` file. Rather, the selected clips will be loaded in notebook
+
+    ```python
+    ba = BioacousticAnnotator(
+        data=handler.selected,
+        config='annotator_config/config/model_review_and_geoanalysis.yaml',
+        output='outputs/review-data.csv',
+        reviewer_name='brookie',
+        review_date=20260413
+    )
+    ba.open()
+    ```
+  open: false
+audio:
+  path: audio/test1.flac
+data_columns:
+- common_name
+- confidence
+- start_time
+- county
+ident_column: common_name
+display_columns:
+- confidence
+- county
+- start_time
+- audio_path
+capture: Save Spectrogram
+capture_dir: spectrograms
+data:
+  path: data/dev-review.csv
+  columns:
+  - common_name
+  - confidence
+  - start_time
+  - rank
+  - county
+form_config: annotator_config/forms/model_review_and_geoanalysis.yaml

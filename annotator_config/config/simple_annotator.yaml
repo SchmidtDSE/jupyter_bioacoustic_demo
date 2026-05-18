@@ -1,0 +1,16 @@
+output:
+  path: outputs/simple_annotator.csv
+audio:
+  uri: s3://dse-soundhub/public/audio/dev/20230525_000000.flac
+  # path: audio/test1.flac
+ident_column: common_name
+capture: Save Spectrogram
+capture_dir: spectrograms
+default_buffer: 0
+data:
+  columns:
+  - common_name
+  - confidence
+  - start_time
+  - county
+form_config: annotator_config/forms/simple_annotator.yaml
