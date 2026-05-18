@@ -2,9 +2,10 @@
 
 Interactive demo notebooks for the [jupyter-bioacoustic](https://github.com/SchmidtDSE/jupyter_bioacoustic) JupyterLab extension.
 
-> **Full documentation**: [schmidtdse.github.io/jupyter_bioacoustic](https://schmidtdse.github.io/jupyter_bioacoustic/) &nbsp;|&nbsp; **Wiki**: [GitHub Wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki)
+- **Site**: [schmidtdse.github.io/jupyter_bioacoustic](https://schmidtdse.github.io/jupyter_bioacoustic/)
+- **Wiki**: [GitHub Wiki](https://github.com/SchmidtDSE/jupyter_bioacoustic/wiki)
 
-![BioacousticAnnotator Interface](assets/app-review.png)
+![BioacousticAnnotator Interface](assets/demo-geo.png)
 
 ## Overview
 
