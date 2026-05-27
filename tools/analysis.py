@@ -30,13 +30,12 @@ sns.set_theme(style='whitegrid', palette='muted', font_scale=FONT_SCALE)
 # MAIN
 #
 def species_histogram(df: pd.DataFrame, title: str = 'Detections by species',
-                      column: str = 'common_name', figsize=None):
+                      column: str = 'common_name', max_species: int = 25, figsize=None):
     """Horizontal bar chart of counts by species, sorted most to least."""
     figsize = figsize or HIST_FIGSIZE
     counts = df[column].value_counts().reset_index()
     counts.columns = [column, 'count']
-    counts = counts.sort_values('count', ascending=True)
-
+    counts = counts.sort_values('count', ascending=True)[-max_species:]
     fig, ax = plt.subplots(figsize=figsize)
     sns.barplot(data=counts, y=column, x='count', hue=column, ax=ax, orient='h',
                 palette=HIST_PALETTE, edgecolor='none', legend=False)

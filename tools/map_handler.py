@@ -2,7 +2,7 @@
 
 import pandas as pd
 from IPython.display import display
-from ipyleaflet import CircleMarker, GeoJSON, DrawControl
+from ipyleaflet import GeoJSON, DrawControl
 
 
 class MapHandler:
@@ -74,7 +74,7 @@ class MapHandler:
 
 
         # Build color map
-        color_map: dict[str, str] = {}
+        self._color_map: dict[str, str] = {}
         if color_column and color_column in self._df.columns:
             palette = [
                 '#89b4fa', '#a6e3a1', '#f38ba8', '#fab387', '#cba6f7',
@@ -82,21 +82,13 @@ class MapHandler:
                 '#b4befe', '#a6adc8', '#f5c2e7', '#bac2de', '#f2cdcd',
             ]
             for i, val in enumerate(self._df[color_column].unique()):
-                color_map[val] = palette[i % len(palette)]
+                self._color_map[val] = palette[i % len(palette)]
 
-        # Points
-        self._markers = []
-        for _, row in self._df.iterrows():
-            c = color_map.get(row.get(color_column), point_color) if color_map else point_color
-            marker = CircleMarker(
-                location=(row[lat_column], row[lon_column]),
-                radius=point_radius,
-                color=c,
-                fill_color=c,
-                fill_opacity=0.7,
-                weight=1,
-            )
-            self._markers.append(marker)
+        # Points as single GeoJSON layer
+        self._point_color = point_color
+        self._point_radius = point_radius
+        self._color_column = color_column
+        self._points_layer = self._build_points_layer(self._df)
 
         # Region layer
         self.region_layer: GeoJSON | None = None
@@ -117,15 +109,9 @@ class MapHandler:
         )
         self.draw_layer.on_draw(self._on_draw)
 
-    @property
-    def point_markers(self) -> list[CircleMarker]:
-        """List of CircleMarker instances."""
-        return self._markers
-
     def add_to(self, m) -> None:
         """Add all layers (points, regions, draw) to the map."""
-        for marker in self._markers:
-            m.add(marker)
+        m.add(self._points_layer)
         if self.region_layer is not None:
             m.add(self.region_layer)
         m.add(self.draw_layer)
@@ -140,6 +126,35 @@ class MapHandler:
             self.selected[[group_col, value_col]]
             .groupby(group_col)
             .describe()
+        )
+
+    #
+    # INTERNAL
+    #
+    def _build_points_layer(self, df: pd.DataFrame) -> GeoJSON:
+        """Build a single GeoJSON layer from a DataFrame."""
+        features = []
+        for _, row in df.iterrows():
+            c = self._point_color
+            if self._color_map and self._color_column:
+                c = self._color_map.get(row.get(self._color_column), c)
+            features.append({
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Point',
+                    'coordinates': [float(row[self._lon]), float(row[self._lat])],
+                },
+                'properties': {'style': {'color': c, 'radius': self._point_radius}},
+            })
+        return GeoJSON(
+            data={'type': 'FeatureCollection', 'features': features},
+            point_style={
+                'radius': self._point_radius,
+                'fillOpacity': 0.7,
+                'weight': 1,
+            },
+            style_callback=_point_style_callback,
+            name='Points',
         )
 
     def _on_region_click(self, feature, **kwargs):
@@ -166,3 +181,15 @@ class MapHandler:
 
         self.selected = filtered
         self._last_label = f"{label} selection"
+
+
+def _point_style_callback(feature: dict) -> dict:
+    """Extract per-feature style for the GeoJSON point layer."""
+    props = feature.get('properties', {}).get('style', {})
+    return {
+        'color': props.get('color', '#89b4fa'),
+        'fillColor': props.get('color', '#89b4fa'),
+        'radius': props.get('radius', 4),
+        'fillOpacity': 0.7,
+        'weight': 1,
+    }

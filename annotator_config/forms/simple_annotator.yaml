@@ -1,36 +1,41 @@
 title:
   value: ANNOTATE
   progress_tracker: true
-select:
-  label: species
-  column: common_name
-  required: true
-  items:
-    path: data/categories-small.csv
-    value: common_name
+pass_value:
+  source_column: id
+  column: detection_id
 annotation:
-  start_time:
-    label: start
-    column: start_time
-    source_value: start_time
-  end_time:
-    label: end
-    column: end_time
-    source_value: end_time
-  min_frequency:
-    label: min freq
-    column: min_freq
-  max_frequency:
-    label: max freq
-    column: max_freq
   tools:
-  - time_marker
-  - start_end_time
+  - fixed_duration:
+      min: 1
+      step: 1
+      max: 15
+      initial_window: 1
+  - time_select
+  - start_end_time_select
   - bounding_box
   - multibox
+  form: species_form
 submission_buttons:
   line: true
   next:
     label: Skip
+    icon: true
   submit:
     label: Submit
+    icon: true
+dynamic_forms:
+  species_form:
+  - text:
+      value: '[[annotator_name||Annotator]], please select a species from the list
+        below'
+  - select:
+      label: Species
+      column: species
+      required: true
+      items:
+        path: data/species_counts.N-dse.csv
+        value: common_name
+        filter_box: true
+        custom_value: true
+        not_available: Unknown

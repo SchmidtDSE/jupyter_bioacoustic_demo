@@ -15,15 +15,13 @@ python = ">=3.11"
 seaborn = "*"
 
 [tool.pixi.pypi-dependencies]
-jupyter-bioacoustic = ">=0.6.5, <1.0.0"
+##  For Testing release 
+jupyter-bioacoustic = ">=0.8.5, <0.9.0"
 ##  For development use local path when needed. 
 # jupyter-bioacoustic = { path = "../jupyter_bioacoustic", editable = true }
 ipyleaflet = "*"
 shapely = "*"
 requests = "*"
-
-[tool.pixi.tasks.lab]
-cmd = "jupyter lab --ServerApp.iopub_data_rate_limit=1e10"
 
 [tool.pixi.tasks.generate-data]
 cmd = "python scripts/generate_dev_data.py"

@@ -1,16 +1,27 @@
-output:
-  path: outputs/simple_annotator.csv
-audio:
-  uri: s3://dse-soundhub/public/audio/dev/20230525_000000.flac
-  # path: audio/test1.flac
-ident_column: common_name
-capture: Save Spectrogram
+description:
+  title: Info
+  text: |-
+    # Data Collection
+
+    This simple annotator allows the user to do time annotations on a given audio clip and label the species. Five different styles of time annotations are available:
+
+    - `time_select`: marks a single instance in time, usually the beginnig or middle, of a given sound.
+    - `start_end_time_select`: mark the start and end time of a given sound
+    - `fixed_duration`: allows user to place region of fixed duration anywhere on the audio clip and record the start and end time. This is most useful when the annotator is specifically looking for clips of a certain time. the "fixed" duration can optionally be made adjustable.
+    - `bounding_box`: allows the user to tightly annotate (stat/end_time, min/max_frequency) a single sound on an audio clip
+    - `multibox`: similar to `bounding_box` but the user is able to draw (and label) multiple bounding-boxes on a single clip
+  open: false
+capture: true
 capture_dir: spectrograms
 default_buffer: 0
+info_card_title: 'Model Prediction: [[common_name]]'
+info_card_text: 'confidence: [[confidence]]'
+display_columns:
+- deployment_code
+- recording_start_datetime
+- audio_url
 data:
-  columns:
-  - common_name
-  - confidence
-  - start_time
-  - county
+  path: data/detections.N-dse.csv
+audio:
+  column: audio_url
 form_config: annotator_config/forms/simple_annotator.yaml

@@ -1,5 +1,5 @@
 output:
-  path: outputs/model_review_and_geoanalysis.csv
+  path: outputs/model_review.N-dse.dummy-geo.csv
 description:
   title: Analysis Workflow
   text: |-
@@ -26,26 +26,17 @@ description:
     ```
   open: false
 audio:
-  path: audio/test1.flac
-data_columns:
+  column: audio_url
+display_columns:
 - common_name
 - confidence
+- rank
 - start_time
 - county
-ident_column: common_name
-display_columns:
-- confidence
-- county
-- start_time
-- audio_path
+- recording_start_datetime
+info_card_title: '[[common_name]]'
+info_card_text: 'confidence: [[confidence]]  |  rank: [[rank]]'
+default_buffer: 0.5
 capture: Save Spectrogram
 capture_dir: spectrograms
-data:
-  path: data/dev-review.csv
-  columns:
-  - common_name
-  - confidence
-  - start_time
-  - rank
-  - county
 form_config: annotator_config/forms/model_review_and_geoanalysis.yaml
