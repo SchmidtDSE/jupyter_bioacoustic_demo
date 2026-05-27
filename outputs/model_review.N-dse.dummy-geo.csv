@@ -2920,3 +2920,5 @@ detection_id,start_time,end_time,is_valid,verified_common_name,verification_conf
 168,,,yes,,,,brookie,20260413
 21,,,yes,,,strange sounds,brookie,20260413
 98,,,yes,,,,brookie,20260413
+118,,,yes,,,,brookie,20260413
+122,,,no,Western Bluebird,medium,,brookie,20260413

@@ -33,7 +33,7 @@ dynamic_forms:
       column: verified_common_name
       required: true
       items:
-        path: data/categories.csv
+        path: data/species_counts.N-dse.csv
         value: common_name
         filter_box: true
         custom_value: true

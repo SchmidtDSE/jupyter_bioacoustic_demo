@@ -10,5 +10,6 @@ display_columns:
 - scientific_name
 - confidence
 - rank
+default_buffer: 0
 capture: true
 form_config: annotator_config/forms/simple_review.yaml

@@ -19,7 +19,7 @@ dynamic_forms:
       column: corrected_species
       required: true
       items:
-        path: data/categories.csv
+        path: data/species_counts.N-dse.csv
         value: common_name
         filter_box: true
         custom_value: true
