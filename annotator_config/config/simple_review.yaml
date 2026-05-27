@@ -1,0 +1,14 @@
+description:
+  title: Model Review
+  text: This simple reviewer allows the user to review the outputs of a model. The
+    user can then either agree with the model or choose a new species.
+  open: false
+info_card_title: '[[common_name]]'
+info_card_text: 'confidence: [[confidence]],  rank: [[rank]]'
+display_columns:
+- common_name
+- scientific_name
+- confidence
+- rank
+capture: true
+form_config: annotator_config/forms/simple_review.yaml

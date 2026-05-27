@@ -1,0 +1,26 @@
+title:
+  value: Model Review
+  progress_tracker: true
+form:
+- select:
+    label: Is [[common_name]] the correct species?
+    column: is_valid
+    required: true
+    items:
+    - label: 'yes'
+      value: 'yes'
+    - label: 'no'
+      value: 'no'
+      form: correction_form
+dynamic_forms:
+  correction_form:
+  - select:
+      label: Corrected Species
+      column: corrected_species
+      required: true
+      items:
+        path: data/categories.csv
+        value: common_name
+        filter_box: true
+        custom_value: true
+        not_available: true
