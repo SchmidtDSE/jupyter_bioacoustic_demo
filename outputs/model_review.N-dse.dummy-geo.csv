@@ -1,0 +1,2922 @@
+detection_id,start_time,end_time,is_valid,verified_common_name,verification_confidence,notes,reviewer_name,review_date
+0,3.0,6.0,yes,,,Faint call,brookie,20260527
+2,6.0,9.0,yes,,,Breeding season call,sam,20260524
+8,258.0,261.0,yes,,,Typical call pattern,brookie,20260525
+9,264.0,267.0,yes,,,Confirmed with visual,casey,20260526
+11,276.0,279.0,yes,,,,jordan,20260524
+12,279.0,282.0,no,Blue-headed Vireo,medium,,sam,20260523
+15,306.0,309.0,no,Pine Warbler,medium,,alex,20260525
+16,309.0,312.0,yes,,,,alex,20260523
+19,378.0,381.0,yes,,,Contact call,sam,20260527
+20,426.0,429.0,yes,,,,casey,20260527
+26,624.0,627.0,yes,,,,alex,20260524
+28,678.0,681.0,no,Yellowhammer,medium,,brookie,20260524
+29,684.0,687.0,yes,,,Typical call pattern,alex,20260522
+35,852.0,855.0,yes,,,,brookie,20260525
+39,930.0,933.0,no,Bushtit,high,,jordan,20260527
+40,933.0,936.0,yes,,,,jordan,20260527
+43,1248.0,1251.0,yes,,,Territorial song,brookie,20260526
+47,1686.0,1689.0,yes,,,Territorial song,sam,20260526
+48,1827.0,1830.0,yes,,,Multiple species present,casey,20260522
+49,2064.0,2067.0,yes,,,Territorial song,alex,20260523
+50,2103.0,2106.0,yes,,,,jordan,20260525
+53,3441.0,3444.0,yes,,,,brookie,20260523
+56,3615.0,3618.0,no,Fireworks,high,Clear misidentification,casey,20260525
+59,3786.0,3789.0,yes,,,Faint call,brookie,20260522
+61,4392.0,4395.0,yes,,,Juvenile begging calls,alex,20260525
+64,5613.0,5616.0,yes,,,,brookie,20260525
+66,9309.0,9312.0,no,White-sided Flowerpiercer,medium,Uncertain - needs second review,brookie,20260523
+69,9681.0,9684.0,no,Engine,low,Uncertain - needs second review,sam,20260522
+70,10662.0,10665.0,yes,,,Some background noise,alex,20260523
+87,17496.0,17499.0,yes,,,Dawn chorus interference,alex,20260525
+88,17811.0,17814.0,no,Cordilleran Flycatcher,medium,Multiple species present,casey,20260525
+93,18609.0,18612.0,no,Spotted Towhee,high,,sam,20260523
+94,18612.0,18615.0,no,Cordilleran Flycatcher,high,Wrong habitat for species,brookie,20260525
+95,18615.0,18618.0,yes,,,,alex,20260526
+96,18624.0,18627.0,no,Oak Titmouse,high,Clear misidentification,brookie,20260525
+97,18630.0,18633.0,no,Eurasian Scops-Owl,high,Clear misidentification,brookie,20260526
+99,18648.0,18651.0,yes,,,Distant call,sam,20260523
+100,18657.0,18660.0,no,Gray Flycatcher,low,Dawn chorus interference,casey,20260523
+103,18672.0,18675.0,no,Cordilleran Flycatcher,low,Multiple species present,alex,20260527
+107,18693.0,18696.0,yes,,,Clear recording,alex,20260527
+115,18720.0,18723.0,yes,,,,jordan,20260522
+116,18726.0,18729.0,yes,,,,alex,20260522
+124,18801.0,18804.0,yes,,,,brookie,20260524
+125,18822.0,18825.0,no,Cordilleran Flycatcher,low,Uncertain - needs second review,alex,20260522
+127,18867.0,18870.0,yes,,,Alarm call,jordan,20260527
+128,18891.0,18894.0,yes,,,Juvenile begging calls,jordan,20260526
+131,18963.0,18966.0,yes,,,Contact call,alex,20260523
+133,19068.0,19071.0,yes,,,Territorial song,brookie,20260526
+135,19089.0,19092.0,no,Chopi Blackbird,low,Not sure but likely wrong,casey,20260522
+138,19176.0,19179.0,no,Pygmy Cupwing,low,Dawn chorus interference,brookie,20260527
+140,19194.0,19197.0,yes,,,,jordan,20260522
+142,19224.0,19227.0,yes,,,,brookie,20260525
+144,19239.0,19242.0,yes,,,,sam,20260526
+145,19263.0,19266.0,no,Cordilleran Flycatcher,medium,Distant call,sam,20260526
+150,19377.0,19380.0,yes,,,Flight call,brookie,20260523
+151,19389.0,19392.0,yes,,,,casey,20260522
+152,19410.0,19413.0,yes,,,,sam,20260522
+155,19494.0,19497.0,yes,,,Contact call,sam,20260526
+161,19599.0,19602.0,yes,,,Some background noise,brookie,20260527
+162,19614.0,19617.0,no,Engine,medium,Faint call,jordan,20260527
+163,19620.0,19623.0,no,White-browed Antpitta,high,Likely mechanical noise,jordan,20260523
+164,19641.0,19644.0,yes,,,,alex,20260525
+167,19791.0,19794.0,yes,,,Breeding season call,brookie,20260522
+170,20070.0,20073.0,yes,,,Contact call,alex,20260525
+173,20778.0,20781.0,yes,,,Partially obscured by wind,casey,20260525
+176,21213.0,21216.0,yes,,,Breeding season call,sam,20260527
+177,21588.0,21591.0,yes,,,,casey,20260522
+178,21612.0,21615.0,no,Northern Mockingbird,high,Clear misidentification,sam,20260522
+183,22296.0,22299.0,no,Pine Siskin,high,Definitely Pine Siskin,brookie,20260524
+186,23082.0,23085.0,yes,,,,jordan,20260525
+190,23262.0,23265.0,yes,,,,jordan,20260526
+193,23592.0,23595.0,no,Horned Lark,medium,Uncertain - needs second review,sam,20260523
+197,23667.0,23670.0,yes,,,Multiple species present,brookie,20260527
+200,23733.0,23736.0,no,Gray Flycatcher,high,,brookie,20260523
+208,24057.0,24060.0,no,Gray Flycatcher,medium,,brookie,20260522
+214,24390.0,24393.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,jordan,20260527
+217,24456.0,24459.0,no,Song Thrush,medium,,alex,20260527
+219,24492.0,24495.0,no,Red-faced Warbler,medium,Possibly Red-faced Warbler,jordan,20260527
+223,24723.0,24726.0,no,Cordilleran Flycatcher,high,Wrong habitat for species,jordan,20260524
+225,24747.0,24750.0,yes,,,Uncertain - needs second review,casey,20260525
+226,24756.0,24759.0,no,Gray Flycatcher,medium,Not sure but likely wrong,sam,20260526
+228,24765.0,24768.0,no,Song Thrush,medium,,alex,20260527
+231,25458.0,25461.0,yes,,,Some background noise,brookie,20260524
+232,25536.0,25539.0,yes,,,Multiple species present,sam,20260524
+234,25563.0,25566.0,no,Gray Flycatcher,high,,jordan,20260525
+242,25683.0,25686.0,no,Gray Flycatcher,medium,Uncertain - needs second review,brookie,20260524
+243,25689.0,25692.0,yes,,,,brookie,20260526
+245,25755.0,25758.0,yes,,,Faint call,jordan,20260522
+251,26262.0,26265.0,no,Gray Flycatcher,high,Frequency range incorrect,sam,20260525
+253,26376.0,26379.0,yes,,,,alex,20260524
+254,26415.0,26418.0,yes,,,,brookie,20260523
+255,26445.0,26448.0,yes,,,,sam,20260525
+256,26472.0,26475.0,no,Eurasian Scops-Owl,medium,Partially obscured by wind,sam,20260524
+257,26484.0,26487.0,yes,,,Dawn chorus interference,casey,20260525
+260,26520.0,26523.0,yes,,,,sam,20260526
+261,26592.0,26595.0,yes,,,Flight call,sam,20260527
+266,26631.0,26634.0,no,Cordilleran Flycatcher,low,Faint call,alex,20260524
+267,26634.0,26637.0,yes,,,Juvenile begging calls,sam,20260522
+268,26640.0,26643.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260522
+269,26643.0,26646.0,no,Eurasian Bullfinch,low,Distant call,casey,20260522
+270,26745.0,26748.0,yes,,,Multiple species present,casey,20260525
+271,26748.0,26751.0,no,Cordilleran Flycatcher,high,,jordan,20260526
+273,26847.0,26850.0,yes,,,,jordan,20260526
+277,27006.0,27009.0,yes,,,,jordan,20260522
+284,27090.0,27093.0,yes,,,,jordan,20260527
+285,27099.0,27102.0,no,Pacific Chorus Frog,high,Different species entirely,sam,20260524
+290,27243.0,27246.0,yes,,,,alex,20260525
+292,27261.0,27264.0,no,Gray Flycatcher,high,Likely mechanical noise,brookie,20260522
+293,27273.0,27276.0,yes,,,,jordan,20260522
+295,27288.0,27291.0,no,Gray Flycatcher,low,Faint call,alex,20260522
+297,27309.0,27312.0,no,Cordilleran Flycatcher,high,Call pattern doesn't match,brookie,20260522
+301,27456.0,27459.0,yes,,,Uncertain - needs second review,casey,20260526
+307,28167.0,28170.0,yes,,,,casey,20260524
+312,28377.0,28380.0,no,Gray Flycatcher,medium,,alex,20260527
+313,28389.0,28392.0,no,Gray Flycatcher,medium,Uncertain - needs second review,jordan,20260522
+315,28398.0,28401.0,no,Cordilleran Flycatcher,high,,brookie,20260525
+316,28401.0,28404.0,yes,,,,brookie,20260525
+317,28416.0,28419.0,yes,,,,jordan,20260526
+318,28419.0,28422.0,no,Gray Flycatcher,medium,,alex,20260523
+321,28446.0,28449.0,yes,,,,sam,20260525
+322,28503.0,28506.0,no,Common Redstart,low,,brookie,20260527
+337,29532.0,29535.0,yes,,,Distant call,alex,20260525
+338,29577.0,29580.0,no,Northern Cardinal,high,,brookie,20260524
+339,29637.0,29640.0,yes,,,,brookie,20260524
+342,29760.0,29763.0,yes,,,,brookie,20260527
+343,29865.0,29868.0,no,Townsend's Warbler,medium,Dawn chorus interference,jordan,20260522
+349,30180.0,30183.0,no,Cordilleran Flycatcher,low,,jordan,20260523
+350,30219.0,30222.0,yes,,,,alex,20260524
+352,30246.0,30249.0,yes,,,,sam,20260523
+353,30264.0,30267.0,no,Gray Flycatcher,medium,Partially obscured by wind,sam,20260526
+354,30273.0,30276.0,no,Spotted Towhee,high,Frequency range incorrect,alex,20260522
+361,30630.0,30633.0,yes,,,Breeding season call,alex,20260527
+362,30648.0,30651.0,yes,,,,casey,20260525
+367,31056.0,31059.0,no,Cordilleran Flycatcher,medium,Partially obscured by wind,sam,20260526
+371,31251.0,31254.0,yes,,,,alex,20260527
+372,31419.0,31422.0,yes,,,,brookie,20260522
+373,31455.0,31458.0,yes,,,,jordan,20260525
+376,31479.0,31482.0,no,Collared Towhee,low,Some background noise,brookie,20260527
+378,31530.0,31533.0,no,Cordilleran Flycatcher,medium,,brookie,20260522
+383,31794.0,31797.0,yes,,,,alex,20260527
+384,31800.0,31803.0,no,Northern Beardless-Tyrannulet,high,,jordan,20260524
+392,31893.0,31896.0,yes,,,,jordan,20260525
+393,31938.0,31941.0,no,Gray Flycatcher,low,Not sure but likely wrong,sam,20260527
+397,32319.0,32322.0,no,Chopi Blackbird,low,,sam,20260523
+402,0.0,3.0,yes,,,,sam,20260525
+405,18.0,21.0,no,Blue-headed Vireo,high,Call pattern doesn't match,brookie,20260525
+406,45.0,48.0,yes,,,Contact call,brookie,20260525
+409,276.0,279.0,yes,,,,jordan,20260524
+413,1005.0,1008.0,yes,,,,brookie,20260526
+418,1791.0,1794.0,yes,,,,brookie,20260526
+421,1923.0,1926.0,yes,,,,alex,20260527
+428,2646.0,2649.0,yes,,,,jordan,20260523
+434,2727.0,2730.0,yes,,,,sam,20260524
+435,2748.0,2751.0,no,Small Buttonquail,low,,sam,20260522
+439,4353.0,4356.0,yes,,,Confirmed with visual,brookie,20260523
+441,4365.0,4368.0,yes,,,,brookie,20260525
+445,4659.0,4662.0,yes,,,,brookie,20260527
+446,4884.0,4887.0,no,Bachman's Sparrow,high,Call pattern doesn't match,brookie,20260523
+449,5118.0,5121.0,yes,,,,brookie,20260522
+451,5136.0,5139.0,yes,,,,brookie,20260526
+460,6969.0,6972.0,yes,,,,sam,20260523
+471,7443.0,7446.0,yes,,,,sam,20260523
+474,7623.0,7626.0,yes,,,,jordan,20260523
+481,8082.0,8085.0,yes,,,Typical call pattern,brookie,20260522
+485,8631.0,8634.0,yes,,,,alex,20260525
+486,8754.0,8757.0,yes,,,Dawn chorus interference,alex,20260527
+492,9048.0,9051.0,yes,,,Territorial song,jordan,20260526
+498,9279.0,9282.0,yes,,,,alex,20260525
+500,9354.0,9357.0,no,Barn Owl,low,Dawn chorus interference,alex,20260526
+502,9399.0,9402.0,no,Mauritius Fody,low,Not sure but likely wrong,alex,20260524
+506,10149.0,10152.0,yes,,,,sam,20260526
+507,10152.0,10155.0,yes,,,,alex,20260523
+510,10176.0,10179.0,yes,,,,alex,20260524
+512,10584.0,10587.0,yes,,,Breeding season call,brookie,20260526
+514,10623.0,10626.0,no,White-winged Crossbill,medium,Dawn chorus interference,jordan,20260522
+515,10716.0,10719.0,yes,,,,sam,20260527
+516,10749.0,10752.0,yes,,,,brookie,20260524
+520,11511.0,11514.0,yes,,,,jordan,20260522
+522,11559.0,11562.0,yes,,,Multiple species present,casey,20260526
+526,12456.0,12459.0,yes,,,,alex,20260526
+528,12654.0,12657.0,yes,,,,casey,20260525
+531,13047.0,13050.0,yes,,,Clear recording,brookie,20260522
+535,13350.0,13353.0,no,Blue-throated Mountain-gem,low,,alex,20260525
+538,13527.0,13530.0,yes,,,Distant call,brookie,20260527
+542,14004.0,14007.0,yes,,,,casey,20260524
+546,14301.0,14304.0,yes,,,,casey,20260523
+549,1548.0,1551.0,yes,,,,brookie,20260523
+559,15156.0,15159.0,no,Tawny Owl,high,,brookie,20260522
+563,15210.0,15213.0,no,Cedar Waxwing,medium,,brookie,20260525
+564,15228.0,15231.0,yes,,,,brookie,20260523
+566,15264.0,15267.0,yes,,,,alex,20260525
+567,15279.0,15282.0,no,Long-eared Owl,medium,,sam,20260524
+573,15384.0,15387.0,no,Wrentit,medium,,jordan,20260523
+578,15567.0,15570.0,no,Long-eared Owl,low,Dawn chorus interference,sam,20260525
+579,15648.0,15651.0,yes,,,,jordan,20260526
+581,15789.0,15792.0,yes,,,,jordan,20260527
+588,15972.0,15975.0,yes,,,,alex,20260523
+590,16029.0,16032.0,yes,,,,casey,20260523
+598,16551.0,16554.0,yes,,,Confirmed with visual,jordan,20260526
+599,16629.0,16632.0,no,Short-crested Flycatcher,low,Distant call,sam,20260522
+600,16689.0,16692.0,yes,,,Flight call,alex,20260522
+604,16950.0,16953.0,yes,,,,alex,20260524
+605,16965.0,16968.0,yes,,,,brookie,20260527
+608,17031.0,17034.0,yes,,,Distant call,casey,20260526
+610,17184.0,17187.0,yes,,,Typical call pattern,sam,20260522
+612,17247.0,17250.0,yes,,,Faint call,brookie,20260526
+614,17286.0,17289.0,yes,,,,brookie,20260525
+616,17340.0,17343.0,yes,,,,alex,20260525
+623,17838.0,17841.0,no,Long-eared Owl,high,Different species entirely,brookie,20260527
+625,17895.0,17898.0,yes,,,,sam,20260523
+629,18144.0,18147.0,yes,,,,alex,20260523
+634,18699.0,18702.0,no,Long-eared Owl,medium,Some background noise,casey,20260526
+638,18759.0,18762.0,yes,,,,alex,20260525
+640,18837.0,18840.0,no,Yellowhammer,high,Call pattern doesn't match,brookie,20260522
+641,18876.0,18879.0,no,Long-eared Owl,high,Likely mechanical noise,brookie,20260524
+647,19317.0,19320.0,yes,,,,alex,20260526
+649,19350.0,19353.0,yes,,,,jordan,20260522
+650,19353.0,19356.0,no,Cordilleran Flycatcher,high,,brookie,20260523
+652,19359.0,19362.0,yes,,,,alex,20260525
+654,19380.0,19383.0,no,Hazel Grouse,low,Not sure but likely wrong,alex,20260525
+655,19383.0,19386.0,no,Western Kingbird,medium,Uncertain - needs second review,casey,20260524
+657,19395.0,19398.0,yes,,,,alex,20260526
+658,19407.0,19410.0,no,Black-throated Gray Warbler,medium,,brookie,20260525
+660,19419.0,19422.0,yes,,,Confirmed with visual,casey,20260526
+662,19428.0,19431.0,yes,,,Confirmed with visual,sam,20260522
+663,19431.0,19434.0,yes,,,Alarm call,alex,20260524
+664,19437.0,19440.0,yes,,,Strong vocalization,brookie,20260524
+665,19440.0,19443.0,no,Southern Wood Cricket,medium,Distant call,jordan,20260523
+667,19452.0,19455.0,yes,,,Typical call pattern,casey,20260522
+668,19455.0,19458.0,yes,,,,alex,20260525
+670,19464.0,19467.0,yes,,,,alex,20260526
+671,19467.0,19470.0,no,Gray Flycatcher,medium,Partially obscured by wind,alex,20260525
+672,19470.0,19473.0,yes,,,,sam,20260527
+673,19473.0,19476.0,yes,,,,alex,20260522
+680,19497.0,19500.0,no,Western Capercaillie,high,Likely mechanical noise,brookie,20260525
+683,19509.0,19512.0,no,Mountain Bamboo-Partridge,high,,alex,20260524
+689,19527.0,19530.0,no,Cordilleran Flycatcher,low,,jordan,20260523
+695,19551.0,19554.0,yes,,,,alex,20260525
+696,19554.0,19557.0,yes,,,,jordan,20260522
+698,19560.0,19563.0,yes,,,,alex,20260524
+699,19563.0,19566.0,yes,,,,jordan,20260527
+702,19572.0,19575.0,yes,,,,brookie,20260525
+707,19593.0,19596.0,no,Cordilleran Flycatcher,high,,brookie,20260525
+713,19611.0,19614.0,yes,,,Good example,sam,20260526
+715,19617.0,19620.0,yes,,,,brookie,20260525
+716,19620.0,19623.0,no,Gray Flycatcher,high,,alex,20260526
+719,19629.0,19632.0,no,Gray Flycatcher,high,,brookie,20260523
+723,19644.0,19647.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,brookie,20260522
+725,19650.0,19653.0,no,Gray Flycatcher,low,Partially obscured by wind,casey,20260522
+727,19656.0,19659.0,yes,,,,brookie,20260522
+728,19659.0,19662.0,no,Cordilleran Flycatcher,high,Definitely Cordilleran Flycatcher,sam,20260525
+734,19677.0,19680.0,no,Eurasian Scops-Owl,medium,,brookie,20260526
+735,19680.0,19683.0,yes,,,,alex,20260527
+736,19683.0,19686.0,yes,,,Territorial song,sam,20260524
+743,19710.0,19713.0,no,Cordilleran Flycatcher,medium,Not sure but likely wrong,casey,20260527
+745,19716.0,19719.0,yes,,,,sam,20260524
+747,19722.0,19725.0,no,Gray Flycatcher,low,Possibly Gray Flycatcher,sam,20260527
+748,19725.0,19728.0,yes,,,,alex,20260527
+750,19731.0,19734.0,yes,,,,jordan,20260525
+759,19761.0,19764.0,yes,,,,jordan,20260522
+762,19773.0,19776.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,brookie,20260525
+763,19776.0,19779.0,no,Collared Towhee,medium,,alex,20260523
+765,19782.0,19785.0,yes,,,,brookie,20260523
+766,19785.0,19788.0,no,California Towhee,high,,brookie,20260524
+767,19788.0,19791.0,no,Cordilleran Flycatcher,medium,Possibly Cordilleran Flycatcher,jordan,20260526
+771,19800.0,19803.0,no,Gray Flycatcher,medium,,alex,20260522
+773,19806.0,19809.0,yes,,,Alarm call,sam,20260523
+775,19812.0,19815.0,yes,,,,brookie,20260524
+777,19818.0,19821.0,yes,,,Strong vocalization,casey,20260524
+782,19833.0,19836.0,no,Eurasian Scops-Owl,medium,,brookie,20260526
+783,19836.0,19839.0,yes,,,,sam,20260524
+784,19836.0,19839.0,yes,,,Territorial song,sam,20260522
+787,19848.0,19851.0,yes,,,,brookie,20260527
+791,19860.0,19863.0,yes,,,,casey,20260526
+793,19869.0,19872.0,yes,,,Good example,casey,20260525
+795,19875.0,19878.0,yes,,,,sam,20260523
+799,19887.0,19890.0,yes,,,,brookie,20260527
+802,19896.0,19899.0,yes,,,,alex,20260523
+803,19899.0,19902.0,yes,,,,brookie,20260526
+804,19905.0,19908.0,yes,,,Alarm call,sam,20260522
+805,19908.0,19911.0,yes,,,,alex,20260526
+806,19911.0,19914.0,yes,,,,brookie,20260524
+807,19914.0,19917.0,no,California Towhee,medium,Not sure but likely wrong,alex,20260526
+808,19920.0,19923.0,no,California Towhee,low,Partially obscured by wind,brookie,20260524
+810,19926.0,19929.0,yes,,,Confirmed with visual,brookie,20260523
+816,19950.0,19953.0,yes,,,Confirmed with visual,sam,20260526
+818,19956.0,19959.0,yes,,,,brookie,20260523
+819,19959.0,19962.0,yes,,,,alex,20260527
+826,19986.0,19989.0,no,California Towhee,low,,brookie,20260527
+827,19989.0,19992.0,no,Long-eared Owl,low,Dawn chorus interference,casey,20260522
+828,19992.0,19995.0,no,Fieldfare,medium,,alex,20260522
+833,20007.0,20010.0,no,Collared Towhee,high,Frequency range incorrect,brookie,20260526
+835,20013.0,20016.0,yes,,,,alex,20260523
+839,20025.0,20028.0,yes,,,Distant call,brookie,20260522
+840,20028.0,20031.0,yes,,,,sam,20260524
+841,20031.0,20034.0,no,California Towhee,low,Uncertain - needs second review,casey,20260525
+842,20034.0,20037.0,no,Clay-colored Sparrow,medium,,jordan,20260527
+844,20040.0,20043.0,no,Canyon Towhee,medium,Dawn chorus interference,brookie,20260523
+847,20046.0,20049.0,yes,,,Typical call pattern,casey,20260526
+851,20055.0,20058.0,yes,,,Confirmed with visual,brookie,20260527
+852,20058.0,20061.0,no,Collared Towhee,high,Frequency range incorrect,brookie,20260523
+853,20061.0,20064.0,yes,,,Multiple species present,alex,20260525
+857,20076.0,20079.0,yes,,,,sam,20260522
+869,20118.0,20121.0,yes,,,Strong vocalization,brookie,20260524
+870,20121.0,20124.0,yes,,,Territorial song,jordan,20260523
+872,20130.0,20133.0,yes,,,Clear recording,brookie,20260523
+873,20130.0,20133.0,no,Spotted Towhee,low,Distant call,sam,20260524
+874,20136.0,20139.0,no,California Towhee,high,Wrong habitat for species,brookie,20260526
+876,20139.0,20142.0,yes,,,,alex,20260524
+878,20148.0,20151.0,no,Canyon Towhee,medium,,jordan,20260524
+880,20160.0,20163.0,yes,,,,alex,20260524
+892,20205.0,20208.0,yes,,,,sam,20260526
+894,20211.0,20214.0,yes,,,,brookie,20260527
+895,20214.0,20217.0,yes,,,Contact call,sam,20260522
+896,20217.0,20220.0,yes,,,,sam,20260522
+898,20223.0,20226.0,yes,,,,casey,20260527
+901,20235.0,20238.0,yes,,,,sam,20260526
+902,20238.0,20241.0,yes,,,,jordan,20260524
+906,20253.0,20256.0,no,California Towhee,high,,brookie,20260523
+908,20259.0,20262.0,no,Collared Towhee,medium,Not sure but likely wrong,alex,20260522
+910,20265.0,20268.0,yes,,,Juvenile begging calls,casey,20260523
+914,20286.0,20289.0,yes,,,,sam,20260525
+915,20295.0,20298.0,no,Say's Phoebe,medium,Uncertain - needs second review,sam,20260526
+917,20304.0,20307.0,yes,,,,casey,20260523
+922,20358.0,20361.0,yes,,,,jordan,20260526
+924,20373.0,20376.0,yes,,,,jordan,20260525
+925,20376.0,20379.0,yes,,,,brookie,20260526
+931,20397.0,20400.0,no,Spotted Towhee,medium,Multiple species present,casey,20260526
+942,20445.0,20448.0,yes,,,Multiple species present,sam,20260525
+943,20445.0,20448.0,no,Canyon Towhee,medium,Not sure but likely wrong,casey,20260522
+944,20448.0,20451.0,yes,,,,brookie,20260525
+945,20451.0,20454.0,yes,,,,alex,20260522
+948,20457.0,20460.0,yes,,,,brookie,20260526
+949,20457.0,20460.0,no,Canyon Towhee,high,,sam,20260522
+950,20460.0,20463.0,yes,,,,jordan,20260526
+952,20463.0,20466.0,no,Spotted Towhee,medium,Possibly Spotted Towhee,brookie,20260523
+956,20472.0,20475.0,no,Hutton's Vireo,high,,jordan,20260523
+957,20472.0,20475.0,yes,,,Alarm call,brookie,20260522
+959,20478.0,20481.0,yes,,,Clear recording,casey,20260524
+961,20484.0,20487.0,no,Pacific Chorus Frog,medium,Faint call,brookie,20260527
+965,20496.0,20499.0,no,Collared Towhee,low,Distant call,jordan,20260527
+969,20505.0,20508.0,no,Clicker Round-winged Katydid,high,Different species entirely,sam,20260524
+971,20511.0,20514.0,yes,,,,brookie,20260527
+975,20523.0,20526.0,no,Collared Towhee,low,Some background noise,sam,20260527
+979,20538.0,20541.0,yes,,,,sam,20260523
+983,20556.0,20559.0,yes,,,,sam,20260527
+989,20577.0,20580.0,yes,,,Flight call,alex,20260527
+990,20580.0,20583.0,yes,,,,jordan,20260523
+994,20589.0,20592.0,yes,,,,jordan,20260527
+997,20598.0,20601.0,yes,,,,sam,20260523
+999,20607.0,20610.0,no,Collared Towhee,high,,jordan,20260524
+1001,20628.0,20631.0,yes,,,,sam,20260524
+1004,20637.0,20640.0,yes,,,,alex,20260523
+1006,20643.0,20646.0,yes,,,,alex,20260527
+1007,20646.0,20649.0,no,Wren-like Rushbird,high,Frequency range incorrect,brookie,20260524
+1008,20745.0,20748.0,no,Collared Towhee,low,Uncertain - needs second review,sam,20260525
+1010,20751.0,20754.0,yes,,,,alex,20260523
+1013,20766.0,20769.0,no,California Towhee,medium,,alex,20260522
+1018,20793.0,20796.0,yes,,,,casey,20260522
+1019,20799.0,20802.0,yes,,,,casey,20260524
+1022,20808.0,20811.0,no,California Towhee,low,Partially obscured by wind,casey,20260526
+1025,20820.0,20823.0,yes,,,Breeding season call,alex,20260524
+1026,20823.0,20826.0,yes,,,Clear recording,alex,20260526
+1027,20826.0,20829.0,yes,,,Confirmed with visual,brookie,20260522
+1032,20844.0,20847.0,no,California Towhee,high,Likely mechanical noise,brookie,20260523
+1033,20853.0,20856.0,no,Collared Towhee,low,,jordan,20260526
+1034,20856.0,20859.0,yes,,,,sam,20260523
+1035,20862.0,20865.0,no,California Towhee,medium,,jordan,20260522
+1039,20880.0,20883.0,yes,,,Good example,brookie,20260523
+1042,20895.0,20898.0,yes,,,,casey,20260526
+1044,20907.0,20910.0,no,Eurasian Collared-Dove,high,Likely mechanical noise,sam,20260523
+1045,20910.0,20913.0,yes,,,Alarm call,sam,20260526
+1048,20919.0,20922.0,yes,,,,brookie,20260522
+1051,20928.0,20931.0,yes,,,,brookie,20260523
+1053,20937.0,20940.0,yes,,,,brookie,20260526
+1062,20985.0,20988.0,yes,,,,jordan,20260527
+1063,20988.0,20991.0,yes,,,,alex,20260525
+1065,20997.0,21000.0,yes,,,,jordan,20260525
+1070,21018.0,21021.0,yes,,,Alarm call,sam,20260526
+1071,21024.0,21027.0,no,Black-throated Green Warbler,medium,Some background noise,sam,20260523
+1074,21039.0,21042.0,yes,,,,sam,20260522
+1080,21072.0,21075.0,yes,,,,brookie,20260525
+1083,21090.0,21093.0,no,California Towhee,high,Definitely California Towhee,brookie,20260524
+1084,21099.0,21102.0,yes,,,,sam,20260523
+1085,21105.0,21108.0,yes,,,,brookie,20260524
+1086,21111.0,21114.0,yes,,,,sam,20260527
+1091,21126.0,21129.0,no,Collared Towhee,low,,jordan,20260523
+1093,21132.0,21135.0,no,Yellow Warbler,medium,,alex,20260524
+1094,21138.0,21141.0,yes,,,Territorial song,brookie,20260526
+1097,21153.0,21156.0,yes,,,Confirmed with visual,jordan,20260525
+1098,21159.0,21162.0,yes,,,Confirmed with visual,sam,20260526
+1099,21165.0,21168.0,yes,,,Typical call pattern,sam,20260524
+1111,21216.0,21219.0,yes,,,,brookie,20260527
+1115,21231.0,21234.0,yes,,,,jordan,20260524
+1116,21237.0,21240.0,no,Rose-breasted Grosbeak,low,Dawn chorus interference,casey,20260522
+1118,21249.0,21252.0,yes,,,Clear recording,casey,20260524
+1122,21264.0,21267.0,no,Black-throated Green Warbler,high,Different species entirely,brookie,20260522
+1123,21267.0,21270.0,yes,,,,brookie,20260524
+1125,21276.0,21279.0,yes,,,,alex,20260523
+1127,21288.0,21291.0,yes,,,,casey,20260525
+1130,21297.0,21300.0,yes,,,,sam,20260526
+1132,21309.0,21312.0,yes,,,,jordan,20260525
+1136,21321.0,21324.0,yes,,,,jordan,20260523
+1139,21327.0,21330.0,yes,,,Alarm call,alex,20260524
+1140,21330.0,21333.0,yes,,,Breeding season call,sam,20260524
+1142,21339.0,21342.0,yes,,,,sam,20260527
+1154,21366.0,21369.0,yes,,,Territorial song,alex,20260522
+1155,21369.0,21372.0,yes,,,,casey,20260526
+1160,21390.0,21393.0,yes,,,,sam,20260526
+1161,21396.0,21399.0,yes,,,,jordan,20260523
+1164,21417.0,21420.0,yes,,,Good example,jordan,20260522
+1167,21426.0,21429.0,yes,,,,alex,20260524
+1172,21441.0,21444.0,yes,,,Territorial song,casey,20260524
+1175,21459.0,21462.0,no,Rufous-crowned Sparrow,high,,jordan,20260525
+1176,21465.0,21468.0,yes,,,Flight call,alex,20260523
+1177,21474.0,21477.0,yes,,,,jordan,20260523
+1186,21516.0,21519.0,yes,,,,sam,20260522
+1187,21522.0,21525.0,yes,,,,alex,20260527
+1188,21528.0,21531.0,no,Spotted Crake,high,Different species entirely,brookie,20260527
+1190,21537.0,21540.0,no,Collared Towhee,low,Dawn chorus interference,casey,20260524
+1192,21543.0,21546.0,no,California Towhee,medium,,jordan,20260524
+1196,21564.0,21567.0,yes,,,Typical call pattern,brookie,20260524
+1197,21567.0,21570.0,yes,,,,jordan,20260524
+1203,21591.0,21594.0,yes,,,,brookie,20260526
+1208,21612.0,21615.0,yes,,,Contact call,alex,20260525
+1212,21639.0,21642.0,no,Collared Towhee,medium,,brookie,20260526
+1216,21657.0,21660.0,no,California Towhee,low,Some background noise,sam,20260522
+1217,21663.0,21666.0,yes,,,Breeding season call,sam,20260524
+1218,21666.0,21669.0,yes,,,Faint call,sam,20260527
+1219,21675.0,21678.0,no,Collared Towhee,medium,Multiple species present,alex,20260524
+1220,21678.0,21681.0,yes,,,,brookie,20260526
+1222,21690.0,21693.0,yes,,,,alex,20260523
+1226,21714.0,21717.0,yes,,,,brookie,20260524
+1229,21726.0,21729.0,no,Eurasian Scops-Owl,medium,Distant call,brookie,20260526
+1230,21732.0,21735.0,yes,,,,alex,20260526
+1233,21741.0,21744.0,no,Eastern Phoebe,low,Some background noise,casey,20260522
+1235,21762.0,21765.0,no,California Towhee,medium,,alex,20260523
+1242,21804.0,21807.0,yes,,,,jordan,20260523
+1243,21810.0,21813.0,no,Collared Towhee,low,Faint call,alex,20260525
+1252,21852.0,21855.0,yes,,,Juvenile begging calls,sam,20260525
+1257,21879.0,21882.0,no,California Towhee,medium,,jordan,20260524
+1258,21885.0,21888.0,no,California Towhee,medium,,jordan,20260526
+1259,21891.0,21894.0,no,Collared Towhee,medium,,brookie,20260526
+1262,21909.0,21912.0,yes,,,Breeding season call,sam,20260523
+1264,21918.0,21921.0,yes,,,Strong vocalization,brookie,20260525
+1269,21957.0,21960.0,yes,,,,brookie,20260524
+1272,21978.0,21981.0,yes,,,,casey,20260522
+1274,21987.0,21990.0,yes,,,Uncertain - needs second review,alex,20260522
+1275,21990.0,21993.0,yes,,,,brookie,20260522
+1276,21993.0,21996.0,no,Common Greenshank,medium,,alex,20260522
+1277,21996.0,21999.0,yes,,,Alarm call,sam,20260527
+1280,22017.0,22020.0,yes,,,,alex,20260525
+1282,22023.0,22026.0,yes,,,Multiple species present,sam,20260527
+1283,22026.0,22029.0,yes,,,,sam,20260525
+1285,22032.0,22035.0,yes,,,,alex,20260525
+1290,22053.0,22056.0,no,Collared Towhee,medium,,alex,20260522
+1291,22056.0,22059.0,yes,,,Breeding season call,sam,20260524
+1295,22080.0,22083.0,yes,,,Juvenile begging calls,sam,20260523
+1296,22086.0,22089.0,yes,,,Alarm call,brookie,20260525
+1297,22092.0,22095.0,yes,,,,jordan,20260527
+1308,22164.0,22167.0,yes,,,,jordan,20260522
+1311,22176.0,22179.0,no,Rufous-capped Warbler,high,,brookie,20260524
+1313,22194.0,22197.0,no,Collared Towhee,medium,Faint call,casey,20260525
+1316,22206.0,22209.0,yes,,,,casey,20260526
+1319,22221.0,22224.0,yes,,,,sam,20260524
+1323,22242.0,22245.0,no,House Finch,high,,sam,20260524
+1326,22251.0,22254.0,yes,,,Confirmed with visual,sam,20260524
+1329,22269.0,22272.0,yes,,,,brookie,20260524
+1330,22272.0,22275.0,no,Bachman's Sparrow,low,Multiple species present,brookie,20260523
+1331,22278.0,22281.0,yes,,,,brookie,20260526
+1336,22296.0,22299.0,yes,,,,alex,20260526
+1338,22305.0,22308.0,yes,,,,brookie,20260525
+1341,22320.0,22323.0,yes,,,Juvenile begging calls,jordan,20260524
+1342,22326.0,22329.0,no,Collared Towhee,medium,Dawn chorus interference,alex,20260527
+1346,22347.0,22350.0,yes,,,Territorial song,casey,20260525
+1348,22359.0,22362.0,yes,,,Juvenile begging calls,brookie,20260525
+1355,22416.0,22419.0,no,California Scrub-Jay,medium,,casey,20260525
+1363,22461.0,22464.0,yes,,,,casey,20260522
+1367,22476.0,22479.0,yes,,,Strong vocalization,alex,20260527
+1369,22482.0,22485.0,yes,,,Contact call,casey,20260524
+1371,22491.0,22494.0,yes,,,,alex,20260527
+1372,22494.0,22497.0,yes,,,,jordan,20260525
+1373,22500.0,22503.0,yes,,,,alex,20260523
+1374,22509.0,22512.0,yes,,,,alex,20260527
+1381,22542.0,22545.0,yes,,,,brookie,20260525
+1382,22545.0,22548.0,yes,,,Contact call,alex,20260526
+1383,22551.0,22554.0,yes,,,,casey,20260524
+1384,22554.0,22557.0,yes,,,,sam,20260524
+1387,22569.0,22572.0,yes,,,Juvenile begging calls,brookie,20260523
+1388,22575.0,22578.0,yes,,,,jordan,20260523
+1390,22578.0,22581.0,yes,,,Good example,alex,20260522
+1391,22584.0,22587.0,yes,,,,brookie,20260523
+1397,22605.0,22608.0,no,Collared Towhee,high,,jordan,20260523
+1398,22608.0,22611.0,yes,,,Territorial song,alex,20260525
+1400,22614.0,22617.0,no,Collared Towhee,high,,jordan,20260526
+1402,22620.0,22623.0,no,California Towhee,high,,brookie,20260522
+1403,22623.0,22626.0,yes,,,,brookie,20260524
+1404,22629.0,22632.0,no,California Towhee,low,,alex,20260526
+1406,22638.0,22641.0,yes,,,,jordan,20260524
+1407,22641.0,22644.0,yes,,,Breeding season call,brookie,20260527
+1410,22653.0,22656.0,yes,,,,sam,20260524
+1411,22659.0,22662.0,no,Collared Towhee,medium,,alex,20260523
+1418,22698.0,22701.0,yes,,,Breeding season call,brookie,20260527
+1419,22704.0,22707.0,no,Collared Towhee,high,,brookie,20260523
+1421,22710.0,22713.0,yes,,,,jordan,20260525
+1423,22719.0,22722.0,yes,,,,brookie,20260523
+1425,22725.0,22728.0,yes,,,,sam,20260526
+1429,22746.0,22749.0,yes,,,,alex,20260523
+1432,22758.0,22761.0,yes,,,Alarm call,sam,20260527
+1436,22773.0,22776.0,yes,,,,brookie,20260522
+1439,22791.0,22794.0,yes,,,Strong vocalization,sam,20260524
+1441,22797.0,22800.0,no,Collared Towhee,medium,,sam,20260522
+1448,22830.0,22833.0,no,California Towhee,high,,jordan,20260522
+1450,22839.0,22842.0,yes,,,Juvenile begging calls,alex,20260526
+1453,22851.0,22854.0,yes,,,,jordan,20260525
+1459,22872.0,22875.0,yes,,,,sam,20260527
+1461,22881.0,22884.0,no,Engine,low,Not sure but likely wrong,casey,20260524
+1470,22941.0,22944.0,yes,,,Strong vocalization,brookie,20260526
+1472,22947.0,22950.0,yes,,,,alex,20260525
+1474,22959.0,22962.0,yes,,,,alex,20260527
+1481,22998.0,23001.0,yes,,,,brookie,20260522
+1482,23004.0,23007.0,yes,,,,sam,20260526
+1483,23007.0,23010.0,no,California Towhee,medium,,alex,20260525
+1485,23019.0,23022.0,yes,,,Territorial song,casey,20260523
+1486,23025.0,23028.0,yes,,,,alex,20260524
+1491,23049.0,23052.0,yes,,,,jordan,20260524
+1496,23079.0,23082.0,yes,,,Clear recording,sam,20260524
+1498,23088.0,23091.0,yes,,,Juvenile begging calls,jordan,20260527
+1499,23091.0,23094.0,no,California Towhee,low,Dawn chorus interference,alex,20260523
+1500,23094.0,23097.0,yes,,,,alex,20260527
+1501,23100.0,23103.0,yes,,,Strong vocalization,alex,20260523
+1502,23106.0,23109.0,no,California Towhee,medium,,jordan,20260525
+1503,23112.0,23115.0,no,Collared Towhee,medium,,sam,20260524
+1506,23136.0,23139.0,yes,,,,alex,20260524
+1508,23145.0,23148.0,yes,,,,alex,20260525
+1511,23163.0,23166.0,yes,,,Alarm call,brookie,20260524
+1512,23166.0,23169.0,no,Western Tanager,high,Likely mechanical noise,brookie,20260525
+1513,23172.0,23175.0,no,Cordilleran Flycatcher,high,Call pattern doesn't match,alex,20260523
+1518,23187.0,23190.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,alex,20260525
+1519,23190.0,23193.0,no,California Towhee,high,Frequency range incorrect,brookie,20260525
+1521,23196.0,23199.0,yes,,,,casey,20260524
+1523,23202.0,23205.0,no,Eurasian Green Woodpecker,low,Faint call,casey,20260525
+1524,23205.0,23208.0,yes,,,Flight call,brookie,20260524
+1525,23211.0,23214.0,yes,,,,sam,20260527
+1533,23235.0,23238.0,yes,,,,jordan,20260525
+1534,23238.0,23241.0,yes,,,,jordan,20260524
+1537,23247.0,23250.0,no,Gray Flycatcher,low,,alex,20260525
+1540,23256.0,23259.0,yes,,,,alex,20260526
+1542,23259.0,23262.0,no,Little Spiderhunter,high,,alex,20260526
+1546,23277.0,23280.0,yes,,,Flight call,alex,20260522
+1547,23280.0,23283.0,no,Collared Towhee,medium,,sam,20260522
+1549,23286.0,23289.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,jordan,20260526
+1550,23286.0,23289.0,yes,,,,alex,20260525
+1552,23292.0,23295.0,yes,,,,jordan,20260525
+1558,23304.0,23307.0,yes,,,Typical call pattern,brookie,20260526
+1566,23334.0,23337.0,yes,,,,sam,20260526
+1567,23337.0,23340.0,no,Gray Flycatcher,medium,Partially obscured by wind,casey,20260522
+1568,23340.0,23343.0,no,Collared Towhee,medium,Multiple species present,brookie,20260523
+1571,23346.0,23349.0,yes,,,,sam,20260523
+1573,23358.0,23361.0,yes,,,Breeding season call,casey,20260522
+1589,23427.0,23430.0,yes,,,,jordan,20260527
+1590,23433.0,23436.0,yes,,,Juvenile begging calls,brookie,20260526
+1594,23448.0,23451.0,yes,,,,jordan,20260527
+1595,23451.0,23454.0,yes,,,,sam,20260527
+1596,23457.0,23460.0,no,California Towhee,high,Frequency range incorrect,sam,20260526
+1597,23463.0,23466.0,yes,,,,brookie,20260525
+1602,23487.0,23490.0,yes,,,Good example,casey,20260525
+1603,23499.0,23502.0,yes,,,,casey,20260527
+1604,23502.0,23505.0,yes,,,,sam,20260524
+1607,23511.0,23514.0,no,Engine,high,Call pattern doesn't match,jordan,20260523
+1612,23529.0,23532.0,no,Eurasian Woodcock,low,Partially obscured by wind,sam,20260525
+1613,23532.0,23535.0,yes,,,,brookie,20260527
+1614,23535.0,23538.0,no,Cordilleran Flycatcher,medium,Multiple species present,brookie,20260524
+1615,23538.0,23541.0,yes,,,Breeding season call,sam,20260522
+1618,23544.0,23547.0,yes,,,,jordan,20260526
+1621,23556.0,23559.0,yes,,,,jordan,20260523
+1622,23559.0,23562.0,no,Collared Towhee,high,Call pattern doesn't match,brookie,20260526
+1624,23562.0,23565.0,yes,,,,jordan,20260524
+1626,23565.0,23568.0,no,California Towhee,high,,brookie,20260526
+1629,23574.0,23577.0,yes,,,,brookie,20260523
+1632,23586.0,23589.0,no,Gray Flycatcher,low,Distant call,sam,20260524
+1633,23586.0,23589.0,yes,,,,jordan,20260524
+1634,23589.0,23592.0,yes,,,,jordan,20260526
+1636,23592.0,23595.0,no,Bewick's Wren,low,Partially obscured by wind,jordan,20260522
+1637,23595.0,23598.0,yes,,,Breeding season call,brookie,20260522
+1638,23598.0,23601.0,no,Cordilleran Flycatcher,medium,Distant call,sam,20260526
+1649,23634.0,23637.0,no,Cordilleran Flycatcher,medium,,alex,20260524
+1651,23640.0,23643.0,yes,,,,alex,20260522
+1656,23652.0,23655.0,yes,,,Breeding season call,sam,20260525
+1663,23667.0,23670.0,no,Collared Towhee,high,Definitely Collared Towhee,sam,20260524
+1664,23670.0,23673.0,yes,,,,brookie,20260522
+1665,23673.0,23676.0,no,Yellow-breasted Chat,low,Dawn chorus interference,casey,20260522
+1669,23688.0,23691.0,no,Southern Wood Cricket,high,Clear misidentification,brookie,20260526
+1671,23697.0,23700.0,no,Collared Towhee,low,,alex,20260527
+1672,23700.0,23703.0,no,Mistle Thrush,medium,,sam,20260525
+1676,23709.0,23712.0,no,Western Tanager,medium,,jordan,20260525
+1682,23736.0,23739.0,no,Common Nightingale,low,,jordan,20260527
+1684,23739.0,23742.0,no,Carmiol's Tanager,high,Likely mechanical noise,alex,20260523
+1687,23745.0,23748.0,no,Short-crested Flycatcher,medium,Uncertain - needs second review,jordan,20260525
+1690,23754.0,23757.0,yes,,,Confirmed with visual,sam,20260523
+1692,23760.0,23763.0,yes,,,,jordan,20260523
+1698,23775.0,23778.0,yes,,,Flight call,brookie,20260522
+1699,23775.0,23778.0,yes,,,,sam,20260523
+1702,23781.0,23784.0,yes,,,,sam,20260525
+1710,23802.0,23805.0,no,Lesser Goldfinch,high,Clear misidentification,brookie,20260524
+1711,23805.0,23808.0,no,Canyon Towhee,high,Frequency range incorrect,brookie,20260523
+1712,23808.0,23811.0,yes,,,,sam,20260524
+1716,23820.0,23823.0,no,Cherrie's Antwren,high,,brookie,20260524
+1717,23826.0,23829.0,yes,,,,jordan,20260524
+1723,23850.0,23853.0,yes,,,Good example,alex,20260527
+1728,23865.0,23868.0,yes,,,,jordan,20260527
+1730,23871.0,23874.0,no,Cordilleran Flycatcher,high,,brookie,20260527
+1736,23889.0,23892.0,yes,,,,alex,20260522
+1737,23892.0,23895.0,yes,,,Flight call,sam,20260527
+1744,23907.0,23910.0,yes,,,,casey,20260524
+1746,23913.0,23916.0,no,Scaled Quail,high,,sam,20260527
+1754,23940.0,23943.0,no,Gray Flycatcher,low,,jordan,20260522
+1756,23952.0,23955.0,yes,,,,brookie,20260524
+1758,23958.0,23961.0,no,House Finch,medium,Possibly House Finch,alex,20260527
+1760,23964.0,23967.0,yes,,,Flight call,casey,20260527
+1765,23979.0,23982.0,yes,,,,alex,20260525
+1766,23982.0,23985.0,yes,,,,jordan,20260523
+1767,23985.0,23988.0,no,Cordilleran Flycatcher,medium,,alex,20260523
+1768,23994.0,23997.0,yes,,,,jordan,20260524
+1771,24006.0,24009.0,no,Black Antbird,low,Distant call,jordan,20260526
+1777,24054.0,24057.0,yes,,,,jordan,20260525
+1783,24147.0,24150.0,yes,,,,sam,20260527
+1786,24180.0,24183.0,yes,,,,alex,20260525
+1787,24186.0,24189.0,yes,,,,brookie,20260524
+1788,24192.0,24195.0,no,Gray Flycatcher,low,Distant call,sam,20260522
+1794,24204.0,24207.0,yes,,,Typical call pattern,alex,20260525
+1796,24222.0,24225.0,yes,,,Clear recording,sam,20260526
+1797,24228.0,24231.0,yes,,,,alex,20260523
+1801,24243.0,24246.0,no,Collared Towhee,high,,alex,20260524
+1802,24246.0,24249.0,yes,,,,jordan,20260523
+1806,24264.0,24267.0,no,California Towhee,high,,alex,20260522
+1808,24270.0,24273.0,no,Collared Towhee,low,Dawn chorus interference,casey,20260527
+1814,24303.0,24306.0,no,Ash-throated Flycatcher,medium,,alex,20260522
+1815,24306.0,24309.0,yes,,,Strong vocalization,alex,20260522
+1816,24309.0,24312.0,yes,,,Strong vocalization,sam,20260522
+1820,24327.0,24330.0,yes,,,,sam,20260527
+1822,24333.0,24336.0,yes,,,,brookie,20260523
+1827,24357.0,24360.0,yes,,,Territorial song,casey,20260524
+1830,24372.0,24375.0,yes,,,,alex,20260523
+1835,24399.0,24402.0,no,California Quail,low,,jordan,20260526
+1836,24402.0,24405.0,no,California Towhee,high,Different species entirely,brookie,20260523
+1839,24411.0,24414.0,no,Common Chiffchaff,low,,jordan,20260526
+1844,24435.0,24438.0,yes,,,,jordan,20260525
+1848,24456.0,24459.0,yes,,,Juvenile begging calls,brookie,20260524
+1849,24459.0,24462.0,yes,,,Territorial song,alex,20260527
+1853,24483.0,24486.0,yes,,,Contact call,brookie,20260522
+1854,24489.0,24492.0,yes,,,Flight call,casey,20260522
+1855,24495.0,24498.0,yes,,,,brookie,20260526
+1856,24498.0,24501.0,yes,,,,alex,20260525
+1857,24504.0,24507.0,yes,,,,brookie,20260523
+1858,24510.0,24513.0,no,Engine,medium,,sam,20260525
+1859,24516.0,24519.0,yes,,,,brookie,20260522
+1860,24522.0,24525.0,yes,,,,jordan,20260523
+1864,24534.0,24537.0,yes,,,Strong vocalization,sam,20260526
+1865,24537.0,24540.0,yes,,,Juvenile begging calls,casey,20260525
+1866,24540.0,24543.0,yes,,,Strong vocalization,casey,20260523
+1868,24546.0,24549.0,yes,,,Clear recording,casey,20260525
+1870,24555.0,24558.0,no,Iberian Magpie,high,Definitely Iberian Magpie,jordan,20260524
+1872,24567.0,24570.0,yes,,,Flight call,casey,20260527
+1877,24585.0,24588.0,yes,,,Flight call,brookie,20260525
+1879,24597.0,24600.0,yes,,,,alex,20260524
+1880,24600.0,24603.0,no,Chestnut-backed Chickadee,high,Different species entirely,sam,20260522
+1882,24606.0,24609.0,yes,,,,brookie,20260526
+1886,24618.0,24621.0,yes,,,,sam,20260522
+1887,24621.0,24624.0,yes,,,Territorial song,casey,20260525
+1888,24636.0,24639.0,no,Gray Flycatcher,high,Call pattern doesn't match,jordan,20260523
+1891,24651.0,24654.0,yes,,,,jordan,20260527
+1892,24654.0,24657.0,yes,,,,sam,20260522
+1893,24657.0,24660.0,yes,,,,casey,20260524
+1895,24663.0,24666.0,no,Cordilleran Flycatcher,low,Dawn chorus interference,casey,20260526
+1898,24675.0,24678.0,no,Collared Towhee,low,,sam,20260527
+1899,24678.0,24681.0,yes,,,,casey,20260525
+1903,24693.0,24696.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,brookie,20260525
+1904,24699.0,24702.0,no,Gray Flycatcher,high,Call pattern doesn't match,brookie,20260526
+1906,24708.0,24711.0,no,Cordilleran Flycatcher,low,Distant call,alex,20260522
+1907,24714.0,24717.0,yes,,,,jordan,20260522
+1910,24723.0,24726.0,no,Robust Woodpecker,medium,Some background noise,sam,20260525
+1914,24738.0,24741.0,no,Cordilleran Flycatcher,high,Different species entirely,brookie,20260522
+1918,24753.0,24756.0,yes,,,,sam,20260527
+1928,24798.0,24801.0,yes,,,,alex,20260524
+1935,24828.0,24831.0,yes,,,,casey,20260525
+1939,24840.0,24843.0,no,Gray Flycatcher,medium,,alex,20260522
+1948,24870.0,24873.0,yes,,,,jordan,20260526
+1952,24882.0,24885.0,no,Gray Flycatcher,high,Different species entirely,brookie,20260527
+1955,24894.0,24897.0,no,Gray Flycatcher,high,Wrong habitat for species,brookie,20260526
+1957,24912.0,24915.0,yes,,,,brookie,20260527
+1964,24936.0,24939.0,no,Nelson's Sparrow,high,,brookie,20260524
+1965,24939.0,24942.0,no,Cordilleran Flycatcher,medium,Possibly Cordilleran Flycatcher,sam,20260525
+1975,24972.0,24975.0,yes,,,Strong vocalization,casey,20260524
+1976,24975.0,24978.0,no,Akohekohe,medium,Distant call,sam,20260523
+1977,24978.0,24981.0,yes,,,,brookie,20260525
+1980,24987.0,24990.0,no,Cordilleran Flycatcher,high,Likely mechanical noise,brookie,20260525
+1982,24993.0,24996.0,yes,,,,alex,20260523
+1983,24996.0,24999.0,no,Common House-Martin,high,Likely mechanical noise,brookie,20260526
+1985,25002.0,25005.0,no,Cordilleran Flycatcher,medium,Possibly Cordilleran Flycatcher,jordan,20260524
+1990,25023.0,25026.0,yes,,,Typical call pattern,casey,20260523
+1991,25026.0,25029.0,no,Cherrie's Antwren,low,Dawn chorus interference,alex,20260525
+1993,25035.0,25038.0,no,Gray Flycatcher,medium,Dawn chorus interference,sam,20260523
+1997,25047.0,25050.0,no,Cordilleran Flycatcher,medium,,alex,20260526
+1999,25053.0,25056.0,no,Gray Flycatcher,low,Some background noise,sam,20260524
+2000,25056.0,25059.0,no,Gray Flycatcher,high,,jordan,20260522
+2001,25062.0,25065.0,no,Nelson's Sparrow,medium,Distant call,alex,20260522
+2004,25071.0,25074.0,yes,,,Good example,jordan,20260526
+2006,25077.0,25080.0,yes,,,,casey,20260527
+2009,25089.0,25092.0,yes,,,,casey,20260527
+2011,25095.0,25098.0,no,Cordilleran Flycatcher,low,Some background noise,casey,20260526
+2015,25119.0,25122.0,yes,,,,sam,20260523
+2018,25170.0,25173.0,yes,,,,alex,20260524
+2019,25173.0,25176.0,no,Gray Flycatcher,high,,jordan,20260523
+2021,25179.0,25182.0,yes,,,Territorial song,brookie,20260524
+2022,25182.0,25185.0,no,Cordilleran Flycatcher,low,,brookie,20260525
+2024,25188.0,25191.0,yes,,,Flight call,casey,20260522
+2031,25215.0,25218.0,no,Cordilleran Flycatcher,low,,alex,20260524
+2036,25236.0,25239.0,no,Gray Flycatcher,medium,Some background noise,brookie,20260527
+2038,25242.0,25245.0,yes,,,Juvenile begging calls,sam,20260522
+2039,25245.0,25248.0,yes,,,Juvenile begging calls,sam,20260525
+2040,25248.0,25251.0,no,California Scrub-Jay,low,Faint call,alex,20260525
+2041,25251.0,25254.0,yes,,,Flight call,casey,20260522
+2042,25257.0,25260.0,yes,,,Strong vocalization,brookie,20260524
+2046,25269.0,25272.0,no,Gray Flycatcher,low,Multiple species present,brookie,20260526
+2048,25275.0,25278.0,yes,,,,brookie,20260527
+2055,25296.0,25299.0,no,Gray Flycatcher,medium,,jordan,20260522
+2056,25299.0,25302.0,no,Gray Flycatcher,medium,,brookie,20260525
+2058,25305.0,25308.0,no,Cordilleran Flycatcher,medium,Distant call,alex,20260527
+2059,25308.0,25311.0,no,Gray Flycatcher,low,,sam,20260524
+2060,25311.0,25314.0,yes,,,,brookie,20260527
+2061,25314.0,25317.0,yes,,,,jordan,20260523
+2070,25377.0,25380.0,no,Cordilleran Flycatcher,medium,Multiple species present,brookie,20260527
+2071,25380.0,25383.0,yes,,,,brookie,20260524
+2073,25389.0,25392.0,yes,,,,jordan,20260527
+2074,25392.0,25395.0,no,Cordilleran Flycatcher,low,,brookie,20260522
+2076,25401.0,25404.0,yes,,,,alex,20260526
+2081,25416.0,25419.0,yes,,,,sam,20260525
+2082,25419.0,25422.0,no,Cordilleran Flycatcher,medium,,alex,20260523
+2085,25428.0,25431.0,yes,,,,brookie,20260525
+2087,25437.0,25440.0,yes,,,,alex,20260525
+2091,25449.0,25452.0,yes,,,,alex,20260522
+2094,25458.0,25461.0,no,Mistle Thrush,medium,Partially obscured by wind,jordan,20260523
+2097,25473.0,25476.0,yes,,,Strong vocalization,sam,20260524
+2102,25491.0,25494.0,yes,,,,alex,20260526
+2105,25503.0,25506.0,yes,,,,brookie,20260525
+2108,25515.0,25518.0,no,Gray Flycatcher,low,Possibly Gray Flycatcher,casey,20260526
+2109,25518.0,25521.0,no,Great Tit,high,,brookie,20260527
+2110,25521.0,25524.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260527
+2111,25524.0,25527.0,no,Cordilleran Flycatcher,low,Uncertain - needs second review,alex,20260523
+2112,25527.0,25530.0,yes,,,,brookie,20260524
+2113,25530.0,25533.0,no,Cordilleran Flycatcher,medium,Dawn chorus interference,sam,20260523
+2114,25533.0,25536.0,no,Savi's Warbler,medium,Dawn chorus interference,casey,20260525
+2116,25539.0,25542.0,no,White-winged Crossbill,high,Wrong habitat for species,sam,20260526
+2118,25545.0,25548.0,yes,,,,alex,20260524
+2119,25548.0,25551.0,yes,,,,brookie,20260527
+2123,25560.0,25563.0,no,Gray Flycatcher,medium,,brookie,20260525
+2129,25578.0,25581.0,yes,,,Breeding season call,sam,20260526
+2131,25584.0,25587.0,yes,,,Contact call,jordan,20260526
+2138,25611.0,25614.0,no,Cordilleran Flycatcher,medium,Some background noise,brookie,20260524
+2143,25626.0,25629.0,yes,,,,brookie,20260525
+2145,25638.0,25641.0,no,Cordilleran Flycatcher,high,Clear misidentification,brookie,20260524
+2147,25644.0,25647.0,yes,,,,brookie,20260525
+2149,25650.0,25653.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260523
+2150,25653.0,25656.0,no,Cordilleran Flycatcher,medium,Some background noise,alex,20260527
+2156,25674.0,25677.0,no,Brown-backed Solitaire,high,,brookie,20260525
+2157,25677.0,25680.0,yes,,,,brookie,20260527
+2159,25683.0,25686.0,yes,,,Juvenile begging calls,brookie,20260524
+2161,25689.0,25692.0,no,Cordilleran Flycatcher,high,,jordan,20260522
+2162,25692.0,25695.0,yes,,,,jordan,20260524
+2164,25701.0,25704.0,yes,,,Territorial song,brookie,20260527
+2168,25713.0,25716.0,yes,,,Strong vocalization,brookie,20260523
+2170,25719.0,25722.0,yes,,,,sam,20260522
+2171,25725.0,25728.0,yes,,,,sam,20260525
+2174,25734.0,25737.0,yes,,,Contact call,sam,20260525
+2177,25743.0,25746.0,yes,,,Strong vocalization,brookie,20260525
+2179,25749.0,25752.0,no,Corn Crake,medium,Uncertain - needs second review,brookie,20260523
+2181,25755.0,25758.0,no,Cordilleran Flycatcher,medium,,jordan,20260525
+2183,25761.0,25764.0,no,Cordilleran Flycatcher,medium,Uncertain - needs second review,brookie,20260522
+2185,25767.0,25770.0,no,Cordilleran Flycatcher,high,,jordan,20260526
+2187,25773.0,25776.0,yes,,,,jordan,20260526
+2190,25782.0,25785.0,no,Gray Flycatcher,medium,Multiple species present,jordan,20260523
+2192,25788.0,25791.0,no,Cordilleran Flycatcher,medium,Possibly Cordilleran Flycatcher,alex,20260525
+2194,25794.0,25797.0,no,Grasshopper Sparrow,low,Some background noise,sam,20260522
+2197,25800.0,25803.0,yes,,,,sam,20260524
+2199,25806.0,25809.0,yes,,,Breeding season call,alex,20260523
+2200,25809.0,25812.0,no,Cordilleran Flycatcher,medium,Some background noise,sam,20260522
+2202,25815.0,25818.0,no,Tawny Frogmouth,low,,alex,20260527
+2207,25830.0,25833.0,yes,,,Good example,jordan,20260522
+2208,25833.0,25836.0,no,Cordilleran Flycatcher,medium,,jordan,20260525
+2211,25839.0,25842.0,no,Cordilleran Flycatcher,low,Possibly Cordilleran Flycatcher,brookie,20260525
+2212,25842.0,25845.0,yes,,,,brookie,20260524
+2214,25848.0,25851.0,no,Cordilleran Flycatcher,high,Definitely Cordilleran Flycatcher,jordan,20260525
+2217,25854.0,25857.0,no,Cordilleran Flycatcher,high,,jordan,20260523
+2219,25860.0,25863.0,no,Collared Towhee,high,,jordan,20260523
+2221,25869.0,25872.0,no,Collared Towhee,high,Call pattern doesn't match,alex,20260526
+2226,25890.0,25893.0,no,Cordilleran Flycatcher,medium,Uncertain - needs second review,alex,20260522
+2230,25908.0,25911.0,no,Collared Towhee,medium,Partially obscured by wind,sam,20260522
+2231,25911.0,25914.0,yes,,,Breeding season call,alex,20260526
+2236,25932.0,25935.0,yes,,,,sam,20260523
+2237,25935.0,25938.0,yes,,,,jordan,20260526
+2238,25938.0,25941.0,yes,,,Juvenile begging calls,sam,20260527
+2239,25941.0,25944.0,no,Hepatic Tanager,low,Multiple species present,casey,20260526
+2247,25971.0,25974.0,yes,,,Breeding season call,casey,20260527
+2251,25983.0,25986.0,no,Collared Towhee,low,,alex,20260523
+2252,25989.0,25992.0,yes,,,,jordan,20260525
+2256,26007.0,26010.0,no,Collared Towhee,medium,Faint call,brookie,20260523
+2263,26034.0,26037.0,yes,,,Territorial song,brookie,20260522
+2266,26046.0,26049.0,yes,,,,brookie,20260527
+2271,26061.0,26064.0,yes,,,,alex,20260523
+2272,26067.0,26070.0,no,California Towhee,medium,,alex,20260525
+2273,26070.0,26073.0,yes,,,,alex,20260525
+2274,26076.0,26079.0,no,Collared Towhee,high,,jordan,20260522
+2275,26082.0,26085.0,no,Collared Towhee,medium,Faint call,alex,20260525
+2282,26103.0,26106.0,yes,,,,alex,20260524
+2285,26112.0,26115.0,no,Collared Towhee,low,,alex,20260526
+2286,26115.0,26118.0,yes,,,,jordan,20260526
+2288,26118.0,26121.0,yes,,,,brookie,20260526
+2295,26148.0,26151.0,yes,,,,sam,20260525
+2299,26166.0,26169.0,yes,,,Contact call,brookie,20260524
+2300,26172.0,26175.0,no,Collared Towhee,medium,Partially obscured by wind,alex,20260525
+2304,26196.0,26199.0,yes,,,,brookie,20260525
+2307,26208.0,26211.0,yes,,,,brookie,20260522
+2310,26220.0,26223.0,no,California Towhee,high,Definitely California Towhee,brookie,20260525
+2315,26235.0,26238.0,yes,,,,brookie,20260522
+2316,26238.0,26241.0,yes,,,,alex,20260522
+2318,26244.0,26247.0,no,Collared Towhee,high,Call pattern doesn't match,brookie,20260522
+2321,26265.0,26268.0,yes,,,Territorial song,brookie,20260526
+2323,26271.0,26274.0,yes,,,,alex,20260523
+2324,26283.0,26286.0,yes,,,Confirmed with visual,sam,20260523
+2327,26301.0,26304.0,yes,,,,jordan,20260522
+2329,26310.0,26313.0,no,California Towhee,medium,Possibly California Towhee,brookie,20260523
+2332,26325.0,26328.0,yes,,,Juvenile begging calls,brookie,20260526
+2333,26334.0,26337.0,yes,,,Partially obscured by wind,sam,20260526
+2334,26352.0,26355.0,no,Spotted Pardalote,high,Clear misidentification,brookie,20260525
+2337,26370.0,26373.0,yes,,,,jordan,20260522
+2339,26382.0,26385.0,yes,,,,jordan,20260523
+2341,26397.0,26400.0,no,California Towhee,high,Different species entirely,sam,20260526
+2344,26415.0,26418.0,yes,,,Contact call,jordan,20260526
+2351,26445.0,26448.0,no,California Towhee,high,,brookie,20260523
+2354,26457.0,26460.0,yes,,,,jordan,20260527
+2355,26460.0,26463.0,no,Collared Towhee,high,,jordan,20260525
+2359,26484.0,26487.0,no,California Towhee,medium,Possibly California Towhee,sam,20260524
+2363,26508.0,26511.0,yes,,,,sam,20260524
+2365,26520.0,26523.0,yes,,,,jordan,20260524
+2367,26535.0,26538.0,yes,,,Breeding season call,casey,20260526
+2369,26547.0,26550.0,yes,,,,sam,20260523
+2370,26553.0,26556.0,no,Western Tanager,medium,,jordan,20260527
+2372,26565.0,26568.0,yes,,,,sam,20260523
+2378,26607.0,26610.0,yes,,,Contact call,brookie,20260527
+2381,26619.0,26622.0,yes,,,,jordan,20260523
+2382,26628.0,26631.0,no,Collared Towhee,low,,alex,20260524
+2384,26637.0,26640.0,yes,,,Faint call,brookie,20260523
+2385,26640.0,26643.0,yes,,,,jordan,20260526
+2389,26667.0,26670.0,yes,,,Clear recording,sam,20260525
+2393,26691.0,26694.0,yes,,,Breeding season call,sam,20260522
+2395,26703.0,26706.0,yes,,,,brookie,20260522
+2397,26712.0,26715.0,yes,,,,jordan,20260522
+2400,26727.0,26730.0,yes,,,,casey,20260526
+2407,26760.0,26763.0,no,Corn Crake,high,Different species entirely,brookie,20260526
+2408,26763.0,26766.0,yes,,,,sam,20260523
+2409,26766.0,26769.0,no,Cordilleran Flycatcher,medium,,brookie,20260523
+2411,26772.0,26775.0,yes,,,Alarm call,brookie,20260522
+2415,26781.0,26784.0,no,Gray Flycatcher,high,,brookie,20260524
+2416,26784.0,26787.0,yes,,,,brookie,20260526
+2417,26787.0,26790.0,yes,,,,jordan,20260525
+2421,26799.0,26802.0,yes,,,,jordan,20260526
+2422,26802.0,26805.0,yes,,,,jordan,20260527
+2423,26802.0,26805.0,no,Cordilleran Flycatcher,medium,Possibly Cordilleran Flycatcher,alex,20260526
+2424,26805.0,26808.0,yes,,,,brookie,20260527
+2427,26814.0,26817.0,no,Cordilleran Flycatcher,low,,alex,20260523
+2428,26817.0,26820.0,yes,,,,alex,20260526
+2433,26832.0,26835.0,no,Oriental Greenfinch,high,Wrong habitat for species,brookie,20260525
+2434,26835.0,26838.0,yes,,,,alex,20260524
+2435,26838.0,26841.0,no,California Towhee,medium,Not sure but likely wrong,brookie,20260526
+2436,26841.0,26844.0,yes,,,Clear recording,sam,20260523
+2437,26844.0,26847.0,no,Gray Flycatcher,medium,Distant call,brookie,20260525
+2441,26853.0,26856.0,yes,,,,brookie,20260523
+2443,26856.0,26859.0,yes,,,Faint call,brookie,20260526
+2444,26859.0,26862.0,no,Engine,medium,Uncertain - needs second review,brookie,20260523
+2445,26862.0,26865.0,no,Rock Wren,high,Clear misidentification,brookie,20260523
+2446,26865.0,26868.0,no,Gray Flycatcher,low,,sam,20260523
+2449,26874.0,26877.0,yes,,,,jordan,20260522
+2451,26880.0,26883.0,no,Collared Towhee,low,Multiple species present,sam,20260526
+2455,26889.0,26892.0,no,Grasshopper Sparrow,medium,,jordan,20260522
+2458,26898.0,26901.0,yes,,,,brookie,20260525
+2459,26901.0,26904.0,yes,,,Flight call,sam,20260525
+2462,26907.0,26910.0,no,Cordilleran Flycatcher,medium,Uncertain - needs second review,casey,20260523
+2468,26925.0,26928.0,no,Cordilleran Flycatcher,high,Likely mechanical noise,sam,20260525
+2470,26931.0,26934.0,yes,,,Clear recording,alex,20260523
+2471,26934.0,26937.0,no,Eastern Phoebe,medium,Dawn chorus interference,alex,20260523
+2474,26940.0,26943.0,yes,,,,brookie,20260525
+2477,26952.0,26955.0,yes,,,Clear recording,jordan,20260523
+2478,26955.0,26958.0,yes,,,Some background noise,casey,20260524
+2480,26958.0,26961.0,yes,,,,alex,20260526
+2484,26970.0,26973.0,no,Collared Towhee,low,Distant call,brookie,20260526
+2486,26973.0,26976.0,no,Lesser Goldfinch,low,Not sure but likely wrong,brookie,20260524
+2487,26976.0,26979.0,yes,,,,brookie,20260526
+2488,26976.0,26979.0,yes,,,,alex,20260525
+2489,26979.0,26982.0,yes,,,,jordan,20260526
+2491,26985.0,26988.0,no,Northern Beardless-Tyrannulet,medium,,jordan,20260527
+2493,27000.0,27003.0,yes,,,,jordan,20260522
+2494,27000.0,27003.0,yes,,,Some background noise,sam,20260523
+2497,27009.0,27012.0,no,Mistle Thrush,high,Call pattern doesn't match,brookie,20260522
+2498,27012.0,27015.0,yes,,,,casey,20260522
+2499,27018.0,27021.0,no,Gray Flycatcher,low,Multiple species present,brookie,20260526
+2500,27021.0,27024.0,yes,,,,jordan,20260526
+2508,27045.0,27048.0,no,Cordilleran Flycatcher,medium,Not sure but likely wrong,sam,20260527
+2514,27063.0,27066.0,no,Gray Flycatcher,high,Different species entirely,brookie,20260524
+2515,27066.0,27069.0,no,Cordilleran Flycatcher,high,Clear misidentification,alex,20260523
+2516,27072.0,27075.0,no,American Bullfrog,high,,sam,20260527
+2519,27081.0,27084.0,yes,,,Breeding season call,sam,20260524
+2525,27099.0,27102.0,yes,,,,brookie,20260522
+2527,27105.0,27108.0,no,Cordilleran Flycatcher,medium,,jordan,20260522
+2530,27114.0,27117.0,yes,,,,alex,20260525
+2532,27120.0,27123.0,yes,,,Typical call pattern,casey,20260524
+2535,27129.0,27132.0,no,Cordilleran Flycatcher,high,Wrong habitat for species,brookie,20260527
+2538,27138.0,27141.0,yes,,,Territorial song,brookie,20260527
+2543,27153.0,27156.0,no,Gray Flycatcher,low,,sam,20260527
+2548,27174.0,27177.0,no,Gray Flycatcher,low,Faint call,sam,20260522
+2552,27186.0,27189.0,yes,,,Typical call pattern,casey,20260523
+2554,27192.0,27195.0,no,Cordilleran Flycatcher,high,,jordan,20260526
+2555,27195.0,27198.0,yes,,,Territorial song,brookie,20260527
+2556,27198.0,27201.0,no,Cordilleran Flycatcher,high,Definitely Cordilleran Flycatcher,sam,20260525
+2558,27204.0,27207.0,yes,,,,jordan,20260527
+2560,27210.0,27213.0,no,Bearded Bellbird,high,Likely mechanical noise,jordan,20260523
+2561,27219.0,27222.0,yes,,,,jordan,20260523
+2565,27237.0,27240.0,yes,,,Breeding season call,brookie,20260527
+2566,27249.0,27252.0,yes,,,,alex,20260527
+2576,27279.0,27282.0,yes,,,Typical call pattern,sam,20260525
+2577,27282.0,27285.0,yes,,,Some background noise,sam,20260522
+2578,27285.0,27288.0,no,Pacific-slope Flycatcher,high,,jordan,20260527
+2579,27288.0,27291.0,yes,,,,jordan,20260527
+2584,27312.0,27315.0,no,Gray Flycatcher,low,,alex,20260524
+2589,27333.0,27336.0,no,California Towhee,low,,alex,20260524
+2591,27342.0,27345.0,yes,,,,casey,20260527
+2592,27348.0,27351.0,yes,,,,alex,20260522
+2594,27354.0,27357.0,no,Collared Towhee,medium,,alex,20260527
+2601,27372.0,27375.0,no,California Quail,high,Clear misidentification,sam,20260527
+2605,27402.0,27405.0,yes,,,,jordan,20260526
+2608,27414.0,27417.0,yes,,,Contact call,casey,20260527
+2610,27423.0,27426.0,yes,,,Alarm call,casey,20260526
+2612,27429.0,27432.0,yes,,,Confirmed with visual,sam,20260524
+2614,27432.0,27435.0,no,Cordilleran Flycatcher,medium,Dawn chorus interference,jordan,20260522
+2619,27450.0,27453.0,no,California Towhee,high,,brookie,20260524
+2620,27453.0,27456.0,yes,,,Territorial song,sam,20260524
+2621,27456.0,27459.0,no,Cordilleran Flycatcher,high,,jordan,20260525
+2622,27462.0,27465.0,yes,,,Flight call,sam,20260525
+2623,27468.0,27471.0,no,California Towhee,high,,brookie,20260523
+2624,27474.0,27477.0,yes,,,,sam,20260523
+2632,27495.0,27498.0,yes,,,,jordan,20260526
+2637,27510.0,27513.0,yes,,,Good example,sam,20260522
+2638,27513.0,27516.0,yes,,,,casey,20260524
+2640,27516.0,27519.0,yes,,,Flight call,casey,20260525
+2641,27519.0,27522.0,no,Western Capercaillie,high,Likely mechanical noise,sam,20260523
+2643,27522.0,27525.0,yes,,,,sam,20260522
+2644,27528.0,27531.0,yes,,,Flight call,casey,20260523
+2649,27546.0,27549.0,no,Cordilleran Flycatcher,high,Clear misidentification,alex,20260526
+2653,27564.0,27567.0,yes,,,,jordan,20260525
+2655,27570.0,27573.0,no,Goeldi's Antbird,high,,jordan,20260525
+2657,27579.0,27582.0,yes,,,Some background noise,sam,20260522
+2658,27579.0,27582.0,yes,,,,alex,20260524
+2659,27585.0,27588.0,yes,,,,sam,20260525
+2660,27585.0,27588.0,no,California Towhee,high,Different species entirely,brookie,20260526
+2664,27600.0,27603.0,yes,,,Territorial song,jordan,20260524
+2665,27603.0,27606.0,yes,,,Good example,brookie,20260522
+2666,27603.0,27606.0,no,Fieldfare,low,Partially obscured by wind,casey,20260524
+2667,27606.0,27609.0,yes,,,,alex,20260522
+2670,27609.0,27612.0,no,Collared Towhee,medium,,alex,20260523
+2671,27615.0,27618.0,no,California Towhee,high,Frequency range incorrect,casey,20260522
+2673,27621.0,27624.0,yes,,,Confirmed with visual,brookie,20260524
+2676,27627.0,27630.0,yes,,,,jordan,20260527
+2677,27633.0,27636.0,yes,,,Flight call,sam,20260527
+2678,27636.0,27639.0,no,Cordilleran Flycatcher,low,Some background noise,brookie,20260523
+2679,27639.0,27642.0,no,Collared Towhee,low,,brookie,20260525
+2680,27642.0,27645.0,yes,,,,sam,20260523
+2682,27645.0,27648.0,yes,,,,brookie,20260522
+2686,27660.0,27663.0,yes,,,,sam,20260523
+2688,27672.0,27675.0,no,Collared Towhee,low,,jordan,20260524
+2690,27675.0,27678.0,no,California Towhee,low,Uncertain - needs second review,sam,20260523
+2692,27690.0,27693.0,yes,,,,jordan,20260525
+2694,27702.0,27705.0,yes,,,,casey,20260522
+2695,27708.0,27711.0,yes,,,Faint call,jordan,20260525
+2696,27714.0,27717.0,no,California Towhee,high,Definitely California Towhee,sam,20260522
+2699,27729.0,27732.0,yes,,,Juvenile begging calls,brookie,20260523
+2700,27732.0,27735.0,yes,,,Typical call pattern,casey,20260527
+2713,27771.0,27774.0,yes,,,Alarm call,brookie,20260523
+2721,27792.0,27795.0,no,Cordilleran Flycatcher,medium,Distant call,brookie,20260525
+2723,27798.0,27801.0,no,Gray Flycatcher,high,,sam,20260527
+2727,27807.0,27810.0,yes,,,Clear recording,brookie,20260525
+2734,27825.0,27828.0,no,Carmiol's Tanager,high,,alex,20260523
+2737,27834.0,27837.0,no,Cordilleran Flycatcher,high,,alex,20260526
+2740,27840.0,27843.0,no,Gray Flycatcher,high,Likely mechanical noise,brookie,20260525
+2741,27843.0,27846.0,yes,,,Typical call pattern,brookie,20260527
+2749,27867.0,27870.0,no,California Towhee,low,,alex,20260526
+2755,27885.0,27888.0,yes,,,,brookie,20260524
+2756,27888.0,27891.0,yes,,,,jordan,20260523
+2758,27894.0,27897.0,yes,,,,jordan,20260526
+2763,27915.0,27918.0,yes,,,,jordan,20260527
+2764,27918.0,27921.0,yes,,,Flight call,alex,20260525
+2765,27921.0,27924.0,yes,,,Confirmed with visual,sam,20260527
+2768,27933.0,27936.0,yes,,,,jordan,20260527
+2770,27939.0,27942.0,no,Gray Flycatcher,medium,,alex,20260523
+2771,27942.0,27945.0,no,White-backed Woodpecker,medium,Not sure but likely wrong,alex,20260522
+2775,27957.0,27960.0,no,Gray Flycatcher,low,Faint call,sam,20260522
+2777,27963.0,27966.0,no,Gray Flycatcher,low,Distant call,sam,20260522
+2778,27966.0,27969.0,no,Collared Towhee,medium,Dawn chorus interference,casey,20260526
+2781,27981.0,27984.0,no,Gray Flycatcher,low,,brookie,20260526
+2783,27990.0,27993.0,no,Woodhouse's Scrub-Jay,high,Likely mechanical noise,brookie,20260524
+2787,28011.0,28014.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260525
+2790,28026.0,28029.0,yes,,,,sam,20260526
+2791,28035.0,28038.0,yes,,,Clear recording,brookie,20260527
+2798,28062.0,28065.0,no,Gray Flycatcher,high,Call pattern doesn't match,brookie,20260522
+2799,28065.0,28068.0,no,Cordilleran Flycatcher,high,Definitely Cordilleran Flycatcher,brookie,20260522
+2801,28074.0,28077.0,yes,,,Clear recording,jordan,20260526
+2804,28083.0,28086.0,no,California Towhee,medium,Faint call,brookie,20260525
+2805,28086.0,28089.0,no,Cordilleran Flycatcher,high,Different species entirely,brookie,20260526
+2808,28092.0,28095.0,yes,,,Alarm call,sam,20260524
+2812,28104.0,28107.0,no,Pale-vented Thrush,low,Not sure but likely wrong,alex,20260525
+2816,28125.0,28128.0,no,Gray Flycatcher,low,Faint call,casey,20260526
+2817,28128.0,28131.0,no,Striped Cuckoo,low,Dawn chorus interference,alex,20260523
+2820,28134.0,28137.0,yes,,,,brookie,20260522
+2823,28143.0,28146.0,no,Cordilleran Flycatcher,medium,Partially obscured by wind,brookie,20260522
+2824,28146.0,28149.0,no,Clicker Round-winged Katydid,medium,Partially obscured by wind,alex,20260526
+2828,28158.0,28161.0,yes,,,Breeding season call,alex,20260525
+2830,28164.0,28167.0,yes,,,Clear recording,brookie,20260522
+2836,28182.0,28185.0,no,Wrentit,medium,,jordan,20260527
+2838,28188.0,28191.0,yes,,,,sam,20260522
+2841,28200.0,28203.0,no,Gray Flycatcher,high,,alex,20260524
+2845,28215.0,28218.0,no,Collared Towhee,low,Partially obscured by wind,alex,20260526
+2846,28218.0,28221.0,no,Gray Flycatcher,low,,sam,20260524
+2848,28224.0,28227.0,no,Cordilleran Flycatcher,medium,Some background noise,sam,20260522
+2853,28242.0,28245.0,no,Gray Flycatcher,medium,Not sure but likely wrong,sam,20260523
+2854,28245.0,28248.0,no,Cordilleran Flycatcher,medium,,alex,20260524
+2859,28260.0,28263.0,yes,,,,sam,20260525
+2866,28281.0,28284.0,no,Cordilleran Flycatcher,medium,,jordan,20260526
+2867,28284.0,28287.0,no,Gray Flycatcher,low,Some background noise,sam,20260522
+2868,28287.0,28290.0,yes,,,,jordan,20260526
+2872,28299.0,28302.0,yes,,,,jordan,20260527
+2875,28308.0,28311.0,no,Pacific Chorus Frog,medium,,brookie,20260523
+2876,28311.0,28314.0,yes,,,Good example,sam,20260523
+2887,28353.0,28356.0,no,Cordilleran Flycatcher,medium,Dawn chorus interference,sam,20260525
+2890,28365.0,28368.0,yes,,,,jordan,20260525
+2893,28377.0,28380.0,yes,,,Clear recording,brookie,20260525
+2895,28383.0,28386.0,no,Cordilleran Flycatcher,high,,brookie,20260522
+2904,28419.0,28422.0,no,Gray Flycatcher,medium,,brookie,20260527
+2905,28422.0,28425.0,yes,,,,brookie,20260524
+2906,28428.0,28431.0,yes,,,,jordan,20260522
+2907,28431.0,28434.0,no,Gray Flycatcher,high,Definitely Gray Flycatcher,jordan,20260523
+2910,28446.0,28449.0,no,California Towhee,low,,alex,20260524
+2912,28455.0,28458.0,no,Abert's Towhee,medium,Multiple species present,brookie,20260527
+2913,28458.0,28461.0,no,Green Shrike-Vireo,low,Not sure but likely wrong,brookie,20260525
+2914,28461.0,28464.0,no,California Towhee,medium,Dawn chorus interference,jordan,20260525
+2916,28470.0,28473.0,yes,,,Juvenile begging calls,brookie,20260522
+2918,28476.0,28479.0,yes,,,,jordan,20260526
+2919,28479.0,28482.0,yes,,,Flight call,alex,20260525
+2920,28482.0,28485.0,yes,,,Strong vocalization,jordan,20260523
+2926,28506.0,28509.0,no,Collared Towhee,medium,Not sure but likely wrong,jordan,20260522
+2931,28527.0,28530.0,yes,,,,brookie,20260524
+2932,28530.0,28533.0,yes,,,,jordan,20260525
+2934,28539.0,28542.0,no,Collared Towhee,low,Distant call,casey,20260526
+2935,28542.0,28545.0,yes,,,,brookie,20260524
+2940,28566.0,28569.0,yes,,,,brookie,20260524
+2945,28578.0,28581.0,no,Gray Flycatcher,high,Call pattern doesn't match,jordan,20260526
+2947,28587.0,28590.0,yes,,,Breeding season call,sam,20260525
+2948,28590.0,28593.0,yes,,,,brookie,20260527
+2950,28596.0,28599.0,no,Rufous-crowned Sparrow,high,,brookie,20260524
+2954,28611.0,28614.0,no,Eurasian Bullfinch,high,Definitely Eurasian Bullfinch,brookie,20260523
+2960,28629.0,28632.0,yes,,,,alex,20260522
+2961,28635.0,28638.0,yes,,,,sam,20260522
+2963,28638.0,28641.0,no,California Towhee,medium,,jordan,20260522
+2964,28644.0,28647.0,no,Gray Flycatcher,medium,Partially obscured by wind,casey,20260525
+2966,28650.0,28653.0,yes,,,Juvenile begging calls,sam,20260527
+2969,28656.0,28659.0,yes,,,,casey,20260524
+2971,28662.0,28665.0,yes,,,,jordan,20260522
+2972,28665.0,28668.0,no,Gray Flycatcher,high,,jordan,20260526
+2975,28674.0,28677.0,yes,,,,jordan,20260527
+2977,28680.0,28683.0,no,Collared Towhee,medium,Some background noise,alex,20260526
+2978,28680.0,28683.0,no,Chestnut-backed Chickadee,medium,,alex,20260527
+2981,28689.0,28692.0,no,Collared Towhee,medium,Uncertain - needs second review,casey,20260527
+2984,28698.0,28701.0,no,Cordilleran Flycatcher,low,Partially obscured by wind,brookie,20260526
+2986,28707.0,28710.0,no,Gray Flycatcher,medium,Some background noise,jordan,20260526
+2987,28710.0,28713.0,no,Blue-headed Vireo,high,Clear misidentification,jordan,20260523
+2991,28725.0,28728.0,no,Gray Flycatcher,high,,brookie,20260526
+2993,28731.0,28734.0,yes,,,,alex,20260522
+2996,28764.0,28767.0,yes,,,,sam,20260527
+2997,28779.0,28782.0,no,Cordilleran Flycatcher,high,,brookie,20260526
+2999,28788.0,28791.0,no,Corn Crake,high,,brookie,20260525
+3001,28797.0,28800.0,yes,,,,jordan,20260526
+3003,28812.0,28815.0,yes,,,,alex,20260525
+3007,28833.0,28836.0,yes,,,Confirmed with visual,sam,20260522
+3013,28956.0,28959.0,no,Gray Flycatcher,high,Different species entirely,jordan,20260525
+3016,28965.0,28968.0,yes,,,,jordan,20260523
+3019,28977.0,28980.0,yes,,,,jordan,20260522
+3021,28983.0,28986.0,yes,,,,brookie,20260523
+3023,28989.0,28992.0,no,Gray Flycatcher,high,,sam,20260523
+3025,28995.0,28998.0,yes,,,,alex,20260525
+3026,29001.0,29004.0,no,Broad-winged Hawk,high,,sam,20260526
+3027,29004.0,29007.0,yes,,,,brookie,20260522
+3028,29016.0,29019.0,yes,,,,brookie,20260524
+3029,29025.0,29028.0,no,Golden-winged Warbler,high,,brookie,20260527
+3030,29028.0,29031.0,yes,,,,sam,20260527
+3032,29034.0,29037.0,no,Gray Flycatcher,high,Different species entirely,brookie,20260524
+3034,29046.0,29049.0,no,Bell's Vireo,high,Call pattern doesn't match,alex,20260526
+3035,29052.0,29055.0,yes,,,,brookie,20260525
+3037,29058.0,29061.0,no,Yellow-eyed Junco,high,,jordan,20260526
+3039,29067.0,29070.0,no,Carolina Wren,high,Call pattern doesn't match,brookie,20260523
+3040,29076.0,29079.0,no,Rufous Scrub-bird,medium,,brookie,20260523
+3045,29118.0,29121.0,no,Gray Flycatcher,medium,Partially obscured by wind,alex,20260527
+3046,29121.0,29124.0,no,Cordilleran Flycatcher,medium,Multiple species present,brookie,20260523
+3049,29130.0,29133.0,yes,,,,alex,20260523
+3050,29133.0,29136.0,yes,,,Confirmed with visual,brookie,20260526
+3051,29136.0,29139.0,no,Gray Flycatcher,high,Wrong habitat for species,brookie,20260522
+3053,29169.0,29172.0,yes,,,,alex,20260527
+3055,29178.0,29181.0,yes,,,Partially obscured by wind,brookie,20260525
+3056,29181.0,29184.0,no,Cedar Waxwing,low,Faint call,jordan,20260525
+3057,29184.0,29187.0,yes,,,Typical call pattern,jordan,20260524
+3058,29187.0,29190.0,no,Cordilleran Flycatcher,high,Likely mechanical noise,sam,20260523
+3060,29193.0,29196.0,no,Short-crested Flycatcher,high,,jordan,20260523
+3062,29205.0,29208.0,no,Cordilleran Flycatcher,high,Clear misidentification,sam,20260527
+3064,29211.0,29214.0,no,Gray Flycatcher,medium,Uncertain - needs second review,sam,20260525
+3067,29220.0,29223.0,yes,,,Clear recording,brookie,20260524
+3068,29223.0,29226.0,yes,,,,jordan,20260523
+3072,29241.0,29244.0,yes,,,Uncertain - needs second review,brookie,20260527
+3074,29244.0,29247.0,yes,,,,jordan,20260525
+3077,29262.0,29265.0,no,Gray Flycatcher,medium,Partially obscured by wind,casey,20260522
+3083,29283.0,29286.0,yes,,,,casey,20260526
+3085,29289.0,29292.0,no,Gray Flycatcher,low,Distant call,casey,20260526
+3087,29295.0,29298.0,no,Common Chiffchaff,high,,jordan,20260527
+3092,29310.0,29313.0,no,California Towhee,high,Frequency range incorrect,jordan,20260527
+3094,29316.0,29319.0,no,Collared Flycatcher,high,Wrong habitat for species,brookie,20260524
+3095,29319.0,29322.0,no,Scaled Quail,medium,Multiple species present,alex,20260523
+3099,29331.0,29334.0,no,Gray Flycatcher,low,,brookie,20260524
+3101,29337.0,29340.0,yes,,,,alex,20260527
+3103,29346.0,29349.0,no,Gray Flycatcher,medium,Uncertain - needs second review,casey,20260526
+3104,29349.0,29352.0,no,Gray Flycatcher,medium,,alex,20260527
+3105,29355.0,29358.0,no,Gray Flycatcher,medium,Some background noise,sam,20260527
+3113,29391.0,29394.0,no,Cordilleran Flycatcher,high,,jordan,20260522
+3116,29400.0,29403.0,no,Cordilleran Flycatcher,high,Call pattern doesn't match,sam,20260526
+3118,29406.0,29409.0,no,Cordilleran Flycatcher,low,Partially obscured by wind,alex,20260527
+3119,29409.0,29412.0,no,Gray Flycatcher,high,Different species entirely,sam,20260522
+3125,29427.0,29430.0,yes,,,,alex,20260524
+3127,29433.0,29436.0,no,Engine,high,Call pattern doesn't match,brookie,20260526
+3131,29445.0,29448.0,no,Cordilleran Flycatcher,high,,brookie,20260524
+3133,29451.0,29454.0,yes,,,Juvenile begging calls,brookie,20260524
+3135,29457.0,29460.0,no,Cordilleran Flycatcher,high,,alex,20260522
+3136,29469.0,29472.0,no,Cordilleran Flycatcher,low,Faint call,sam,20260527
+3139,29490.0,29493.0,no,Wild Turkey,high,Call pattern doesn't match,jordan,20260526
+3145,29652.0,29655.0,yes,,,,jordan,20260522
+3148,29679.0,29682.0,yes,,,,jordan,20260525
+3151,29754.0,29757.0,no,California Towhee,medium,,brookie,20260525
+3152,29757.0,29760.0,yes,,,Uncertain - needs second review,alex,20260525
+3155,29772.0,29775.0,no,California Towhee,high,,jordan,20260522
+3157,29781.0,29784.0,no,Engine,high,,brookie,20260522
+3160,29892.0,29895.0,yes,,,,sam,20260523
+3161,29901.0,29904.0,yes,,,,jordan,20260526
+3162,29901.0,29904.0,yes,,,Strong vocalization,sam,20260524
+3169,29940.0,29943.0,no,Collared Towhee,high,Likely mechanical noise,sam,20260525
+3171,29949.0,29952.0,no,Collared Towhee,medium,,sam,20260527
+3172,29958.0,29961.0,no,Collared Towhee,high,Definitely Collared Towhee,brookie,20260526
+3175,29970.0,29973.0,yes,,,,brookie,20260522
+3178,29982.0,29985.0,no,California Towhee,high,Wrong habitat for species,casey,20260522
+3179,29985.0,29988.0,yes,,,,brookie,20260523
+3180,29988.0,29991.0,yes,,,,brookie,20260522
+3183,30000.0,30003.0,no,Collared Towhee,high,,jordan,20260527
+3185,30012.0,30015.0,yes,,,Confirmed with visual,sam,20260524
+3191,30045.0,30048.0,yes,,,,jordan,20260527
+3200,30084.0,30087.0,yes,,,,alex,20260523
+3203,30099.0,30102.0,no,Pygmy Cupwing,medium,Some background noise,alex,20260523
+3209,30123.0,30126.0,yes,,,Breeding season call,alex,20260524
+3212,30159.0,30162.0,no,Blue-headed Vireo,high,,brookie,20260522
+3221,30210.0,30213.0,yes,,,,jordan,20260523
+3225,30234.0,30237.0,yes,,,,jordan,20260522
+3229,30255.0,30258.0,yes,,,Distant call,alex,20260525
+3235,30285.0,30288.0,yes,,,Strong vocalization,brookie,20260525
+3237,30291.0,30294.0,no,California Towhee,high,,alex,20260524
+3238,30294.0,30297.0,no,California Towhee,medium,,brookie,20260522
+3245,30315.0,30318.0,yes,,,,alex,20260527
+3246,30321.0,30324.0,no,Gray Flycatcher,medium,,jordan,20260523
+3247,30324.0,30327.0,no,Cordilleran Flycatcher,high,Clear misidentification,jordan,20260527
+3254,30354.0,30357.0,no,Costa's Hummingbird,medium,Dawn chorus interference,jordan,20260527
+3258,30366.0,30369.0,yes,,,,alex,20260524
+3259,30369.0,30372.0,no,Gray Flycatcher,low,Multiple species present,sam,20260527
+3261,30372.0,30375.0,yes,,,Breeding season call,casey,20260526
+3263,30384.0,30387.0,yes,,,,casey,20260525
+3264,30387.0,30390.0,no,Pygmy Cupwing,medium,Multiple species present,jordan,20260524
+3265,30396.0,30399.0,yes,,,,jordan,20260527
+3268,30408.0,30411.0,yes,,,,jordan,20260526
+3270,30414.0,30417.0,yes,,,Clear recording,alex,20260524
+3272,30426.0,30429.0,no,Collared Towhee,high,Definitely Collared Towhee,brookie,20260524
+3278,30462.0,30465.0,yes,,,,brookie,20260523
+3281,30477.0,30480.0,no,Collared Towhee,medium,,brookie,20260522
+3287,30498.0,30501.0,no,Collared Towhee,medium,,sam,20260525
+3289,30507.0,30510.0,yes,,,Typical call pattern,sam,20260527
+3290,30513.0,30516.0,yes,,,,jordan,20260523
+3303,30561.0,30564.0,no,Hooded Warbler,medium,Distant call,brookie,20260523
+3304,30564.0,30567.0,yes,,,,casey,20260526
+3306,30573.0,30576.0,yes,,,,alex,20260523
+3307,30576.0,30579.0,no,Green Shrike-Vireo,low,Partially obscured by wind,jordan,20260527
+3312,30621.0,30624.0,yes,,,Dawn chorus interference,casey,20260525
+3314,30642.0,30645.0,no,California Towhee,high,Likely mechanical noise,brookie,20260522
+3315,30660.0,30663.0,yes,,,,brookie,20260523
+3317,30666.0,30669.0,yes,,,Partially obscured by wind,alex,20260522
+3318,30672.0,30675.0,no,Downy Woodpecker,high,,jordan,20260522
+3319,30681.0,30684.0,yes,,,Juvenile begging calls,brookie,20260525
+3320,30684.0,30687.0,no,California Towhee,high,,brookie,20260527
+3326,30720.0,30723.0,yes,,,,jordan,20260526
+3328,30732.0,30735.0,yes,,,Juvenile begging calls,jordan,20260524
+3329,30735.0,30738.0,yes,,,,brookie,20260527
+3330,30744.0,30747.0,no,Corn Crake,medium,Some background noise,jordan,20260526
+3331,30750.0,30753.0,yes,,,Clear recording,sam,20260526
+3335,30765.0,30768.0,no,California Towhee,low,,sam,20260523
+3336,30768.0,30771.0,no,Rufous-capped Warbler,high,Definitely Rufous-capped Warbler,jordan,20260527
+3337,30780.0,30783.0,no,Collared Towhee,low,Possibly Collared Towhee,sam,20260522
+3338,30786.0,30789.0,yes,,,Typical call pattern,jordan,20260525
+3339,30789.0,30792.0,yes,,,Strong vocalization,casey,20260523
+3340,30792.0,30795.0,yes,,,,jordan,20260523
+3346,30810.0,30813.0,yes,,,,brookie,20260524
+3354,30846.0,30849.0,yes,,,Partially obscured by wind,sam,20260526
+3359,30876.0,30879.0,yes,,,Juvenile begging calls,sam,20260526
+3365,30906.0,30909.0,yes,,,Territorial song,brookie,20260522
+3367,30915.0,30918.0,yes,,,,alex,20260527
+3370,30924.0,30927.0,yes,,,,sam,20260522
+3373,30936.0,30939.0,yes,,,,brookie,20260525
+3374,30939.0,30942.0,yes,,,Juvenile begging calls,casey,20260524
+3379,30978.0,30981.0,yes,,,,sam,20260524
+3387,31026.0,31029.0,yes,,,Alarm call,alex,20260522
+3389,31041.0,31044.0,no,California Towhee,high,,brookie,20260526
+3390,31047.0,31050.0,yes,,,,brookie,20260525
+3391,31053.0,31056.0,yes,,,,sam,20260522
+3395,31074.0,31077.0,yes,,,Good example,alex,20260527
+3396,31077.0,31080.0,yes,,,Good example,sam,20260524
+3400,31098.0,31101.0,yes,,,Alarm call,jordan,20260522
+3408,31137.0,31140.0,yes,,,Clear recording,brookie,20260524
+3410,31146.0,31149.0,yes,,,,alex,20260525
+3412,31152.0,31155.0,yes,,,,brookie,20260523
+3413,31155.0,31158.0,no,Collared Towhee,medium,,alex,20260523
+3420,31209.0,31212.0,yes,,,,brookie,20260523
+3425,31233.0,31236.0,yes,,,,sam,20260524
+3434,31284.0,31287.0,no,Collared Towhee,high,,jordan,20260523
+3435,31284.0,31287.0,yes,,,,sam,20260525
+3439,31302.0,31305.0,no,California Towhee,high,,alex,20260522
+3442,31311.0,31314.0,yes,,,,alex,20260522
+3446,31326.0,31329.0,yes,,,,brookie,20260526
+3447,31326.0,31329.0,yes,,,,brookie,20260527
+3449,31335.0,31338.0,yes,,,,sam,20260527
+3450,31341.0,31344.0,no,California Towhee,high,Clear misidentification,brookie,20260526
+3458,31386.0,31389.0,no,Collared Towhee,high,,jordan,20260523
+3459,31392.0,31395.0,yes,,,,alex,20260526
+3460,31407.0,31410.0,yes,,,Good example,sam,20260523
+3463,31434.0,31437.0,yes,,,,brookie,20260524
+3464,31440.0,31443.0,no,California Towhee,high,,brookie,20260527
+3466,31452.0,31455.0,yes,,,Contact call,sam,20260525
+3469,31461.0,31464.0,yes,,,,jordan,20260525
+3472,31467.0,31470.0,no,Gray Flycatcher,high,,jordan,20260526
+3475,31473.0,31476.0,yes,,,,jordan,20260527
+3476,31476.0,31479.0,yes,,,,sam,20260522
+3478,31482.0,31485.0,no,Wrentit,medium,,jordan,20260526
+3479,31488.0,31491.0,no,Chipping Sparrow,high,,sam,20260522
+3480,31491.0,31494.0,no,Collared Towhee,high,Clear misidentification,casey,20260522
+3484,31497.0,31500.0,yes,,,Strong vocalization,casey,20260523
+3488,31506.0,31509.0,no,Gray Flycatcher,high,,jordan,20260526
+3489,31509.0,31512.0,no,California Towhee,low,Possibly California Towhee,alex,20260524
+3491,31515.0,31518.0,yes,,,,alex,20260525
+3495,31527.0,31530.0,yes,,,,sam,20260527
+3497,31533.0,31536.0,yes,,,,brookie,20260526
+3499,31539.0,31542.0,yes,,,,brookie,20260526
+3500,31545.0,31548.0,no,Baltimore Oriole,high,Definitely Baltimore Oriole,brookie,20260522
+3501,31548.0,31551.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260525
+3503,31554.0,31557.0,no,Cordilleran Flycatcher,high,,brookie,20260526
+3513,31584.0,31587.0,yes,,,Alarm call,sam,20260526
+3514,31587.0,31590.0,no,Cordilleran Flycatcher,high,,jordan,20260525
+3517,31596.0,31599.0,yes,,,,jordan,20260523
+3526,31629.0,31632.0,no,Cordilleran Flycatcher,medium,,jordan,20260523
+3529,31638.0,31641.0,yes,,,,sam,20260524
+3535,31659.0,31662.0,yes,,,Flight call,sam,20260523
+3536,31662.0,31665.0,yes,,,,brookie,20260524
+3538,31671.0,31674.0,no,Cordilleran Flycatcher,low,Possibly Cordilleran Flycatcher,sam,20260523
+3539,31677.0,31680.0,no,Cordilleran Flycatcher,low,Faint call,casey,20260524
+3540,31680.0,31683.0,no,Grasshopper Sparrow,medium,,brookie,20260526
+3541,31683.0,31686.0,yes,,,Juvenile begging calls,sam,20260522
+3543,31689.0,31692.0,yes,,,Partially obscured by wind,brookie,20260523
+3546,31695.0,31698.0,yes,,,Breeding season call,brookie,20260527
+3548,31701.0,31704.0,yes,,,Distant call,brookie,20260525
+3553,31725.0,31728.0,yes,,,Clear recording,brookie,20260523
+3555,31731.0,31734.0,yes,,,Good example,sam,20260525
+3557,31737.0,31740.0,no,Collared Flycatcher,medium,Not sure but likely wrong,jordan,20260526
+3564,31830.0,31833.0,no,Common Nightingale,high,,jordan,20260526
+3570,31866.0,31869.0,yes,,,,brookie,20260522
+3571,31869.0,31872.0,no,Small Buttonquail,medium,Uncertain - needs second review,jordan,20260526
+3572,31872.0,31875.0,yes,,,,sam,20260526
+3574,31881.0,31884.0,no,Rufous-capped Warbler,medium,,alex,20260522
+3575,31884.0,31887.0,yes,,,,alex,20260522
+3576,31887.0,31890.0,no,Gray Flycatcher,high,,brookie,20260524
+3578,31899.0,31902.0,no,Gray Flycatcher,low,Some background noise,brookie,20260523
+3579,31902.0,31905.0,no,Rose-breasted Grosbeak,high,Definitely Rose-breasted Grosbeak,jordan,20260527
+3584,31929.0,31932.0,no,Gray Flycatcher,medium,Some background noise,brookie,20260526
+3585,31953.0,31956.0,no,Cordilleran Flycatcher,low,Uncertain - needs second review,sam,20260525
+3587,32007.0,32010.0,no,Gray Vireo,medium,Some background noise,sam,20260524
+3588,32010.0,32013.0,yes,,,,jordan,20260524
+3590,32016.0,32019.0,no,California Towhee,medium,,alex,20260524
+3592,32025.0,32028.0,no,Gray Flycatcher,high,Clear misidentification,jordan,20260524
+3594,32034.0,32037.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260522
+3595,32034.0,32037.0,yes,,,Clear recording,brookie,20260522
+3596,32037.0,32040.0,no,California Towhee,low,Possibly California Towhee,sam,20260525
+3600,32058.0,32061.0,no,Gray Flycatcher,medium,Uncertain - needs second review,casey,20260522
+3603,32067.0,32070.0,yes,,,Multiple species present,brookie,20260526
+3604,32067.0,32070.0,yes,,,,jordan,20260522
+3608,32079.0,32082.0,no,Cordilleran Flycatcher,high,Different species entirely,brookie,20260523
+3613,32094.0,32097.0,yes,,,,brookie,20260524
+3615,32100.0,32103.0,no,Chipping Sparrow,low,,alex,20260524
+3617,32106.0,32109.0,no,California Towhee,high,Different species entirely,jordan,20260524
+3620,32112.0,32115.0,no,Collared Towhee,high,,brookie,20260526
+3622,32118.0,32121.0,yes,,,,brookie,20260524
+3623,32124.0,32127.0,no,California Towhee,medium,Multiple species present,casey,20260524
+3627,32133.0,32136.0,no,Collared Towhee,medium,Partially obscured by wind,brookie,20260523
+3628,32136.0,32139.0,yes,,,Alarm call,jordan,20260524
+3631,32157.0,32160.0,no,Chestnut-backed Antbird,high,,jordan,20260522
+3634,32166.0,32169.0,no,Collared Towhee,medium,,alex,20260523
+3636,32172.0,32175.0,yes,,,,alex,20260525
+3644,32196.0,32199.0,yes,,,Clear recording,sam,20260527
+3646,32205.0,32208.0,no,Grasshopper Sparrow,high,Definitely Grasshopper Sparrow,sam,20260527
+3654,32241.0,32244.0,no,Little Spiderhunter,high,Call pattern doesn't match,brookie,20260524
+3655,32244.0,32247.0,yes,,,,sam,20260522
+3657,32253.0,32256.0,no,Gray Flycatcher,high,,brookie,20260525
+3659,32265.0,32268.0,no,Cordilleran Flycatcher,medium,Distant call,alex,20260524
+3662,32286.0,32289.0,no,Gray Flycatcher,medium,Faint call,casey,20260525
+3666,32301.0,32304.0,yes,,,,sam,20260522
+3667,32304.0,32307.0,yes,,,,sam,20260524
+3670,32316.0,32319.0,no,Cordilleran Flycatcher,high,,brookie,20260526
+3671,32319.0,32322.0,yes,,,,sam,20260523
+3672,32325.0,32328.0,no,Cordilleran Flycatcher,high,,jordan,20260525
+3674,32337.0,32340.0,no,Gray Flycatcher,low,Not sure but likely wrong,brookie,20260527
+3677,32355.0,32358.0,no,Gray Flycatcher,medium,Possibly Gray Flycatcher,casey,20260523
+3678,32364.0,32367.0,yes,,,Good example,sam,20260527
+3686,6894.0,6897.0,yes,,,,sam,20260526
+3687,7149.0,7152.0,yes,,,,brookie,20260527
+3688,18489.0,18492.0,no,Spotted Towhee,low,Some background noise,sam,20260522
+3696,18639.0,18642.0,yes,,,Some background noise,brookie,20260522
+3697,18699.0,18702.0,no,Canyon Towhee,high,Different species entirely,sam,20260522
+3699,18747.0,18750.0,yes,,,Some background noise,jordan,20260527
+3703,18765.0,18768.0,no,Spotted Towhee,high,,brookie,20260525
+3705,18771.0,18774.0,no,Spotted Towhee,medium,Multiple species present,brookie,20260527
+3706,18774.0,18777.0,yes,,,,jordan,20260522
+3707,18807.0,18810.0,yes,,,Distant call,alex,20260524
+3710,18828.0,18831.0,yes,,,Clear recording,casey,20260527
+3711,18846.0,18849.0,yes,,,Distant call,brookie,20260522
+3712,18870.0,18873.0,no,Chestnut-sided Warbler,medium,Faint call,brookie,20260527
+3713,18876.0,18879.0,no,Corn Crake,low,,jordan,20260524
+3724,19173.0,19176.0,yes,,,,brookie,20260526
+3727,19191.0,19194.0,yes,,,,alex,20260523
+3728,19197.0,19200.0,yes,,,Flight call,alex,20260527
+3731,19221.0,19224.0,yes,,,,sam,20260522
+3732,19227.0,19230.0,yes,,,,sam,20260527
+3733,19251.0,19254.0,no,Canyon Towhee,high,Wrong habitat for species,sam,20260524
+3734,19266.0,19269.0,yes,,,,jordan,20260526
+3735,19281.0,19284.0,yes,,,Some background noise,alex,20260522
+3736,19296.0,19299.0,no,Western Capercaillie,high,,brookie,20260526
+3739,19320.0,19323.0,yes,,,Good example,sam,20260526
+3744,19437.0,19440.0,yes,,,,jordan,20260523
+3745,19440.0,19443.0,no,Spotted Towhee,low,Faint call,casey,20260527
+3746,19443.0,19446.0,yes,,,Faint call,jordan,20260522
+3749,19449.0,19452.0,yes,,,Faint call,sam,20260526
+3751,19455.0,19458.0,yes,,,,jordan,20260523
+3753,19473.0,19476.0,no,Canyon Towhee,low,,brookie,20260524
+3756,19488.0,19491.0,no,Canyon Towhee,high,,jordan,20260522
+3758,19503.0,19506.0,no,Spotted Towhee,low,,alex,20260524
+3759,19506.0,19509.0,yes,,,,alex,20260522
+3760,19512.0,19515.0,no,Say's Phoebe,high,,brookie,20260525
+3776,19650.0,19653.0,no,Engine,high,,brookie,20260526
+3777,19659.0,19662.0,no,Spotted Towhee,medium,,alex,20260526
+3778,19662.0,19665.0,no,Spotted Towhee,high,Different species entirely,brookie,20260524
+3782,19677.0,19680.0,yes,,,,brookie,20260527
+3783,19692.0,19695.0,no,Spotted Towhee,medium,Partially obscured by wind,sam,20260525
+3786,19713.0,19716.0,yes,,,Strong vocalization,jordan,20260525
+3788,19734.0,19737.0,no,Collared Towhee,low,Dawn chorus interference,brookie,20260522
+3789,19740.0,19743.0,yes,,,Some background noise,brookie,20260522
+3792,19818.0,19821.0,yes,,,,casey,20260522
+3795,19836.0,19839.0,yes,,,,jordan,20260527
+3797,19842.0,19845.0,no,Canyon Towhee,high,Call pattern doesn't match,brookie,20260525
+3802,19869.0,19872.0,yes,,,,alex,20260522
+3805,19905.0,19908.0,yes,,,,alex,20260526
+3806,19908.0,19911.0,no,Spotted Towhee,low,Faint call,casey,20260522
+3807,19914.0,19917.0,yes,,,,brookie,20260526
+3809,19923.0,19926.0,no,Common Redstart,high,,alex,20260527
+3810,19926.0,19929.0,yes,,,,alex,20260524
+3817,19974.0,19977.0,yes,,,,jordan,20260524
+3827,20007.0,20010.0,yes,,,Contact call,casey,20260526
+3828,20010.0,20013.0,no,Spotted Towhee,high,,brookie,20260524
+3830,20016.0,20019.0,no,Cordilleran Flycatcher,high,Wrong habitat for species,jordan,20260524
+3837,20040.0,20043.0,yes,,,Clear recording,alex,20260525
+3842,20058.0,20061.0,yes,,,,alex,20260525
+3843,20061.0,20064.0,yes,,,Clear recording,brookie,20260526
+3845,20070.0,20073.0,no,Canyon Towhee,medium,Faint call,casey,20260523
+3847,20076.0,20079.0,yes,,,,brookie,20260525
+3849,20082.0,20085.0,no,Canyon Towhee,high,Likely mechanical noise,brookie,20260522
+3852,20100.0,20103.0,yes,,,Alarm call,sam,20260524
+3854,20106.0,20109.0,no,Spotted Towhee,medium,,casey,20260522
+3858,20136.0,20139.0,no,Southern Wood Cricket,medium,,sam,20260522
+3859,20139.0,20142.0,yes,,,,brookie,20260522
+3860,20142.0,20145.0,yes,,,,alex,20260524
+3862,20151.0,20154.0,yes,,,Territorial song,casey,20260526
+3863,20157.0,20160.0,yes,,,,alex,20260522
+3864,20160.0,20163.0,no,Spotted Towhee,high,,jordan,20260526
+3865,20163.0,20166.0,no,Spotted Towhee,low,,sam,20260524
+3868,20172.0,20175.0,no,Eurasian Thick-knee,low,Faint call,casey,20260522
+3870,20178.0,20181.0,yes,,,Some background noise,brookie,20260526
+3872,20187.0,20190.0,no,Canyon Towhee,medium,,sam,20260523
+3879,20220.0,20223.0,yes,,,,casey,20260526
+3884,20244.0,20247.0,no,Canyon Towhee,low,Faint call,alex,20260522
+3889,20259.0,20262.0,no,Spotted Towhee,medium,Not sure but likely wrong,brookie,20260522
+3890,20262.0,20265.0,yes,,,Typical call pattern,brookie,20260525
+3893,20271.0,20274.0,no,Common Raven,medium,Distant call,sam,20260524
+3894,20274.0,20277.0,no,Spotted Towhee,medium,Partially obscured by wind,sam,20260524
+3895,20277.0,20280.0,yes,,,,alex,20260522
+3898,20289.0,20292.0,no,Canyon Towhee,low,Not sure but likely wrong,alex,20260524
+3901,20307.0,20310.0,yes,,,,brookie,20260527
+3903,20316.0,20319.0,yes,,,,jordan,20260522
+3909,20334.0,20337.0,no,Canyon Towhee,high,Call pattern doesn't match,brookie,20260522
+3911,20340.0,20343.0,no,Canyon Towhee,low,Faint call,sam,20260522
+3912,20343.0,20346.0,yes,,,,alex,20260522
+3914,20349.0,20352.0,yes,,,,brookie,20260525
+3918,20364.0,20367.0,no,Collared Towhee,medium,,alex,20260523
+3919,20367.0,20370.0,no,Spotted Towhee,medium,Dawn chorus interference,brookie,20260525
+3920,20370.0,20373.0,no,Pinyon Jay,medium,Partially obscured by wind,sam,20260522
+3921,20373.0,20376.0,no,Spotted Towhee,low,Faint call,brookie,20260524
+3922,20376.0,20379.0,yes,,,Typical call pattern,jordan,20260525
+3923,20379.0,20382.0,yes,,,,jordan,20260527
+3925,20385.0,20388.0,yes,,,,brookie,20260526
+3928,20394.0,20397.0,yes,,,Good example,sam,20260525
+3932,20406.0,20409.0,yes,,,,brookie,20260524
+3933,20409.0,20412.0,yes,,,Contact call,sam,20260525
+3938,20430.0,20433.0,yes,,,Flight call,sam,20260526
+3939,20433.0,20436.0,no,Spotted Towhee,high,,brookie,20260527
+3940,20436.0,20439.0,yes,,,Strong vocalization,sam,20260526
+3941,20439.0,20442.0,yes,,,Breeding season call,casey,20260524
+3944,20448.0,20451.0,no,Canyon Towhee,medium,Not sure but likely wrong,jordan,20260523
+3947,20472.0,20475.0,yes,,,,sam,20260523
+3948,20484.0,20487.0,no,Canyon Towhee,high,Call pattern doesn't match,brookie,20260527
+3949,20487.0,20490.0,no,Canyon Towhee,high,,brookie,20260526
+3952,20496.0,20499.0,yes,,,Territorial song,sam,20260527
+3953,20499.0,20502.0,yes,,,Strong vocalization,brookie,20260523
+3954,20502.0,20505.0,yes,,,,jordan,20260523
+3956,20508.0,20511.0,yes,,,Strong vocalization,sam,20260526
+3958,20514.0,20517.0,yes,,,Dawn chorus interference,brookie,20260522
+3961,20523.0,20526.0,no,Yellowhammer,high,Likely mechanical noise,sam,20260524
+3965,20535.0,20538.0,yes,,,Good example,alex,20260527
+3969,20550.0,20553.0,yes,,,,brookie,20260527
+3976,20577.0,20580.0,yes,,,,casey,20260522
+3977,20580.0,20583.0,yes,,,,jordan,20260522
+3981,20598.0,20601.0,yes,,,,casey,20260526
+3982,20601.0,20604.0,yes,,,Contact call,jordan,20260522
+3983,20604.0,20607.0,yes,,,,jordan,20260526
+3984,20607.0,20610.0,yes,,,,brookie,20260525
+3987,20631.0,20634.0,no,Hooded Warbler,medium,,jordan,20260523
+3989,20637.0,20640.0,yes,,,Distant call,brookie,20260526
+3993,20649.0,20652.0,no,Canyon Towhee,high,Call pattern doesn't match,brookie,20260527
+3995,20655.0,20658.0,no,Canyon Towhee,low,,alex,20260525
+3996,20658.0,20661.0,yes,,,Juvenile begging calls,brookie,20260522
+3997,20661.0,20664.0,no,Clark's Nutcracker,medium,,brookie,20260524
+4002,20676.0,20679.0,yes,,,,casey,20260522
+4006,20688.0,20691.0,no,White-backed Woodpecker,high,,sam,20260526
+4008,20694.0,20697.0,no,Water Pipit,medium,Faint call,casey,20260527
+4013,20712.0,20715.0,no,Canyon Towhee,high,,sam,20260527
+4018,20730.0,20733.0,yes,,,,casey,20260523
+4019,20733.0,20736.0,yes,,,,jordan,20260523
+4022,20745.0,20748.0,yes,,,,brookie,20260523
+4024,20751.0,20754.0,no,Canyon Towhee,high,Definitely Canyon Towhee,brookie,20260524
+4025,20754.0,20757.0,yes,,,,alex,20260526
+4026,20757.0,20760.0,yes,,,Contact call,sam,20260527
+4028,20763.0,20766.0,yes,,,,jordan,20260527
+4029,20766.0,20769.0,no,Canyon Towhee,high,Likely mechanical noise,alex,20260527
+4030,20769.0,20772.0,no,Spotted Towhee,high,Call pattern doesn't match,sam,20260524
+4033,20784.0,20787.0,yes,,,Breeding season call,brookie,20260526
+4034,20787.0,20790.0,yes,,,Territorial song,casey,20260525
+4036,20796.0,20799.0,no,Canyon Towhee,medium,Faint call,sam,20260523
+4037,20802.0,20805.0,no,Spotted Towhee,medium,Distant call,brookie,20260522
+4042,20823.0,20826.0,no,Spotted Towhee,medium,Uncertain - needs second review,casey,20260522
+4045,20832.0,20835.0,yes,,,,alex,20260522
+4047,20838.0,20841.0,yes,,,,alex,20260522
+4049,20847.0,20850.0,no,Spotted Towhee,low,Multiple species present,casey,20260523
+4053,20859.0,20862.0,yes,,,,brookie,20260522
+4055,20865.0,20868.0,yes,,,Territorial song,casey,20260524
+4059,20877.0,20880.0,yes,,,,jordan,20260525
+4066,20904.0,20907.0,no,Rook,high,Call pattern doesn't match,brookie,20260527
+4067,20904.0,20907.0,yes,,,,casey,20260527
+4069,20910.0,20913.0,yes,,,,sam,20260523
+4072,20946.0,20949.0,yes,,,Territorial song,casey,20260524
+4074,20952.0,20955.0,yes,,,Clear recording,alex,20260527
+4077,20961.0,20964.0,no,Spotted Towhee,high,,jordan,20260522
+4078,20964.0,20967.0,no,Spotted Towhee,low,,brookie,20260525
+4080,20970.0,20973.0,yes,,,,jordan,20260524
+4081,20973.0,20976.0,no,Canyon Towhee,low,,alex,20260522
+4082,20976.0,20979.0,yes,,,,jordan,20260527
+4083,20979.0,20982.0,no,Spotted Towhee,medium,Partially obscured by wind,brookie,20260526
+4085,20985.0,20988.0,yes,,,,jordan,20260523
+4086,20988.0,20991.0,yes,,,Strong vocalization,sam,20260527
+4091,21003.0,21006.0,yes,,,,alex,20260527
+4092,21006.0,21009.0,yes,,,,brookie,20260525
+4093,21009.0,21012.0,no,Spotted Towhee,low,Possibly Spotted Towhee,brookie,20260527
+4098,21024.0,21027.0,no,Ash-throated Flycatcher,low,Faint call,sam,20260526
+4102,21036.0,21039.0,yes,,,,alex,20260526
+4103,21039.0,21042.0,yes,,,,casey,20260522
+4109,21057.0,21060.0,no,Spotted Towhee,low,,jordan,20260523
+4111,21063.0,21066.0,yes,,,,alex,20260526
+4112,21066.0,21069.0,no,Spotted Towhee,high,,brookie,20260525
+4116,21078.0,21081.0,no,Oak Titmouse,medium,Uncertain - needs second review,sam,20260525
+4118,21096.0,21099.0,yes,,,Dawn chorus interference,brookie,20260527
+4119,21099.0,21102.0,yes,,,,casey,20260522
+4120,21102.0,21105.0,no,Black-throated Gray Warbler,medium,Partially obscured by wind,sam,20260527
+4122,21108.0,21111.0,no,Canyon Towhee,high,,jordan,20260526
+4126,21153.0,21156.0,yes,,,Juvenile begging calls,casey,20260523
+4127,21156.0,21159.0,yes,,,,jordan,20260523
+4128,21162.0,21165.0,yes,,,Territorial song,brookie,20260525
+4129,21165.0,21168.0,no,Spotted Towhee,high,,brookie,20260522
+4130,21177.0,21180.0,yes,,,,sam,20260523
+4131,21180.0,21183.0,yes,,,,jordan,20260524
+4134,21204.0,21207.0,yes,,,Multiple species present,sam,20260525
+4135,21210.0,21213.0,no,Canyon Towhee,medium,Partially obscured by wind,brookie,20260527
+4138,21234.0,21237.0,yes,,,,sam,20260522
+4147,21330.0,21333.0,no,Canyon Towhee,low,,brookie,20260522
+4149,21339.0,21342.0,no,Canyon Towhee,medium,Partially obscured by wind,sam,20260522
+4151,21351.0,21354.0,yes,,,Uncertain - needs second review,alex,20260523
+4153,21363.0,21366.0,no,Spotted Towhee,high,Frequency range incorrect,sam,20260522
+4155,21372.0,21375.0,no,Canyon Towhee,low,Possibly Canyon Towhee,casey,20260525
+4157,21381.0,21384.0,no,Canyon Towhee,high,Wrong habitat for species,brookie,20260526
+4163,21423.0,21426.0,yes,,,Clear recording,casey,20260525
+4164,21438.0,21441.0,yes,,,Breeding season call,casey,20260527
+4166,21444.0,21447.0,yes,,,,sam,20260527
+4168,21456.0,21459.0,no,Spotted Towhee,medium,Uncertain - needs second review,sam,20260524
+4171,21471.0,21474.0,yes,,,,alex,20260526
+4173,21477.0,21480.0,yes,,,Faint call,sam,20260526
+4177,21519.0,21522.0,no,Hepatic Tanager,high,Frequency range incorrect,brookie,20260526
+4180,21540.0,21543.0,no,Spotted Towhee,low,Not sure but likely wrong,sam,20260525
+4181,21543.0,21546.0,yes,,,,alex,20260525
+4182,21555.0,21558.0,yes,,,Good example,brookie,20260525
+4183,21567.0,21570.0,yes,,,,jordan,20260522
+4186,21597.0,21600.0,yes,,,Breeding season call,brookie,20260527
+4189,21618.0,21621.0,yes,,,Distant call,brookie,20260526
+4191,21624.0,21627.0,yes,,,Flight call,alex,20260526
+4193,21642.0,21645.0,yes,,,Dawn chorus interference,sam,20260522
+4196,21660.0,21663.0,yes,,,Breeding season call,sam,20260522
+4198,21666.0,21669.0,yes,,,Distant call,brookie,20260523
+4202,21690.0,21693.0,no,Flammulated Owl,medium,Multiple species present,casey,20260526
+4203,21693.0,21696.0,no,Canyon Towhee,high,,alex,20260524
+4205,21699.0,21702.0,yes,,,Confirmed with visual,jordan,20260526
+4206,21702.0,21705.0,yes,,,Contact call,brookie,20260523
+4209,21711.0,21714.0,no,Canyon Towhee,medium,,jordan,20260525
+4210,21714.0,21717.0,yes,,,,brookie,20260526
+4212,21720.0,21723.0,yes,,,,brookie,20260523
+4219,21741.0,21744.0,no,Baltimore Oriole,high,Different species entirely,sam,20260526
+4222,21753.0,21756.0,yes,,,Some background noise,jordan,20260526
+4231,21798.0,21801.0,yes,,,,alex,20260522
+4232,21801.0,21804.0,yes,,,,alex,20260524
+4233,21804.0,21807.0,no,Spotted Towhee,high,Call pattern doesn't match,sam,20260522
+4235,21810.0,21813.0,yes,,,Good example,brookie,20260523
+4238,21828.0,21831.0,yes,,,Contact call,jordan,20260524
+4242,21843.0,21846.0,no,Eurasian Crag-Martin,high,,brookie,20260526
+4243,21846.0,21849.0,yes,,,,jordan,20260527
+4244,21849.0,21852.0,no,Spotted Towhee,high,,jordan,20260522
+4245,21858.0,21861.0,yes,,,Multiple species present,brookie,20260525
+4246,21864.0,21867.0,yes,,,,alex,20260524
+4248,21882.0,21885.0,yes,,,Uncertain - needs second review,brookie,20260523
+4250,21891.0,21894.0,no,Anna's Hummingbird,low,Partially obscured by wind,casey,20260524
+4256,21921.0,21924.0,yes,,,Alarm call,alex,20260527
+4262,21981.0,21984.0,yes,,,,sam,20260525
+4265,22119.0,22122.0,yes,,,,jordan,20260527
+4266,22131.0,22134.0,no,Corn Crake,medium,,alex,20260522
+4268,22185.0,22188.0,no,Canyon Towhee,high,Likely mechanical noise,brookie,20260524
+4273,22206.0,22209.0,yes,,,Strong vocalization,brookie,20260523
+4276,22218.0,22221.0,no,Spotted Towhee,high,Frequency range incorrect,sam,20260525
+4279,22230.0,22233.0,yes,,,,alex,20260523
+4280,22236.0,22239.0,no,Spotted Towhee,low,Multiple species present,brookie,20260525
+4282,22242.0,22245.0,yes,,,Some background noise,sam,20260523
+4284,22251.0,22254.0,yes,,,,brookie,20260522
+4285,22257.0,22260.0,yes,,,,sam,20260522
+4291,22308.0,22311.0,yes,,,,alex,20260524
+4292,22311.0,22314.0,yes,,,Confirmed with visual,jordan,20260527
+4294,22353.0,22356.0,no,Blue-headed Vireo,high,,alex,20260526
+4295,22368.0,22371.0,no,Canyon Towhee,high,,jordan,20260523
+4297,22383.0,22386.0,yes,,,,brookie,20260526
+4299,22407.0,22410.0,yes,,,Breeding season call,jordan,20260527
+4302,22431.0,22434.0,yes,,,Breeding season call,brookie,20260522
+4303,22437.0,22440.0,no,Oak Titmouse,medium,,alex,20260527
+4307,22455.0,22458.0,no,Canyon Towhee,medium,Faint call,jordan,20260526
+4310,22473.0,22476.0,yes,,,,jordan,20260522
+4311,22485.0,22488.0,no,Hermit Warbler,low,,alex,20260527
+4313,22497.0,22500.0,no,Canyon Towhee,high,,brookie,20260526
+4315,22512.0,22515.0,yes,,,,jordan,20260527
+4318,22611.0,22614.0,yes,,,,brookie,20260525
+4319,22647.0,22650.0,yes,,,,brookie,20260523
+4321,22677.0,22680.0,no,Canyon Towhee,high,Definitely Canyon Towhee,brookie,20260524
+4322,22689.0,22692.0,yes,,,,casey,20260522
+4327,22725.0,22728.0,yes,,,Some background noise,sam,20260525
+4328,22755.0,22758.0,yes,,,Strong vocalization,brookie,20260524
+4330,22782.0,22785.0,no,Canyon Towhee,medium,Faint call,brookie,20260525
+4334,22821.0,22824.0,yes,,,,brookie,20260527
+4335,22827.0,22830.0,yes,,,Multiple species present,brookie,20260524
+4340,22890.0,22893.0,yes,,,,brookie,20260527
+4342,22914.0,22917.0,no,Violet-green Swallow,high,,jordan,20260522
+4344,23052.0,23055.0,no,Western Tanager,low,Some background noise,sam,20260524
+4345,23088.0,23091.0,yes,,,,sam,20260524
+4347,23112.0,23115.0,yes,,,Breeding season call,brookie,20260526
+4349,23121.0,23124.0,no,Canyon Towhee,low,Possibly Canyon Towhee,sam,20260524
+4352,23130.0,23133.0,no,Spotted Towhee,low,,sam,20260527
+4354,23148.0,23151.0,yes,,,,alex,20260525
+4357,23166.0,23169.0,no,Spotted Towhee,medium,,alex,20260524
+4358,23169.0,23172.0,yes,,,Breeding season call,sam,20260526
+4359,23172.0,23175.0,yes,,,Breeding season call,jordan,20260525
+4362,23181.0,23184.0,yes,,,,brookie,20260527
+4364,23187.0,23190.0,yes,,,,sam,20260523
+4366,23202.0,23205.0,yes,,,Strong vocalization,sam,20260522
+4370,23214.0,23217.0,yes,,,,alex,20260522
+4373,23223.0,23226.0,yes,,,Good example,sam,20260523
+4376,23232.0,23235.0,no,Spotted Towhee,high,Clear misidentification,sam,20260527
+4377,23235.0,23238.0,no,Cedar Waxwing,medium,Faint call,brookie,20260527
+4380,23247.0,23250.0,yes,,,,alex,20260525
+4384,23259.0,23262.0,yes,,,,casey,20260522
+4385,23262.0,23265.0,yes,,,Confirmed with visual,sam,20260523
+4387,23265.0,23268.0,no,Canyon Towhee,high,,jordan,20260523
+4389,23271.0,23274.0,yes,,,,jordan,20260527
+4390,23274.0,23277.0,no,Spotted Towhee,medium,,alex,20260523
+4391,23277.0,23280.0,yes,,,,brookie,20260525
+4393,23286.0,23289.0,yes,,,Good example,jordan,20260522
+4401,23340.0,23343.0,yes,,,,brookie,20260522
+4403,23349.0,23352.0,yes,,,,brookie,20260527
+4404,23352.0,23355.0,yes,,,,jordan,20260525
+4407,23361.0,23364.0,yes,,,,sam,20260526
+4412,23376.0,23379.0,yes,,,Juvenile begging calls,brookie,20260522
+4413,23379.0,23382.0,no,Spotted Towhee,high,Frequency range incorrect,brookie,20260523
+4414,23388.0,23391.0,yes,,,,jordan,20260522
+4417,23403.0,23406.0,yes,,,Typical call pattern,brookie,20260526
+4419,23409.0,23412.0,yes,,,,jordan,20260527
+4420,23412.0,23415.0,yes,,,Contact call,brookie,20260526
+4424,23424.0,23427.0,yes,,,,brookie,20260525
+4427,23433.0,23436.0,no,Spotted Towhee,high,,jordan,20260525
+4430,23466.0,23469.0,no,Downy Woodpecker,high,Frequency range incorrect,sam,20260527
+4433,23487.0,23490.0,no,Bell's Vireo,medium,Dawn chorus interference,brookie,20260525
+4436,23496.0,23499.0,no,Great Horned Owl,low,Partially obscured by wind,sam,20260523
+4437,23502.0,23505.0,no,Spotted Towhee,low,Faint call,casey,20260526
+4448,23538.0,23541.0,no,Pale-vented Thrush,medium,,alex,20260525
+4450,23544.0,23547.0,yes,,,,alex,20260524
+4451,23547.0,23550.0,yes,,,,jordan,20260526
+4454,23556.0,23559.0,yes,,,,brookie,20260526
+4456,23562.0,23565.0,no,Spotted Towhee,medium,Not sure but likely wrong,brookie,20260527
+4457,23565.0,23568.0,no,Spotted Towhee,high,,brookie,20260523
+4459,23571.0,23574.0,yes,,,,jordan,20260526
+4468,23598.0,23601.0,yes,,,,alex,20260522
+4469,23604.0,23607.0,yes,,,,brookie,20260526
+4470,23607.0,23610.0,yes,,,,jordan,20260527
+4472,23613.0,23616.0,yes,,,,alex,20260523
+4473,23616.0,23619.0,yes,,,,sam,20260523
+4478,23631.0,23634.0,yes,,,,jordan,20260522
+4483,23652.0,23655.0,yes,,,Clear recording,jordan,20260526
+4485,23658.0,23661.0,yes,,,,jordan,20260526
+4487,23664.0,23667.0,yes,,,,alex,20260522
+4490,23673.0,23676.0,yes,,,Confirmed with visual,casey,20260522
+4500,23703.0,23706.0,yes,,,,alex,20260527
+4508,23793.0,23796.0,yes,,,,alex,20260522
+4509,23799.0,23802.0,yes,,,Distant call,casey,20260524
+4511,23808.0,23811.0,yes,,,,brookie,20260525
+4516,23829.0,23832.0,yes,,,,jordan,20260522
+4518,23841.0,23844.0,yes,,,Confirmed with visual,brookie,20260526
+4522,23877.0,23880.0,yes,,,Flight call,sam,20260524
+4526,23973.0,23976.0,yes,,,,alex,20260526
+4529,24012.0,24015.0,yes,,,Breeding season call,sam,20260524
+4532,24030.0,24033.0,yes,,,,sam,20260525
+4534,24045.0,24048.0,yes,,,,brookie,20260525
+4539,24060.0,24063.0,yes,,,,casey,20260524
+4540,24063.0,24066.0,yes,,,,casey,20260527
+4542,24069.0,24072.0,no,Common Yellowthroat,medium,Multiple species present,alex,20260525
+4554,24105.0,24108.0,yes,,,Alarm call,brookie,20260526
+4556,24111.0,24114.0,no,Spotted Towhee,medium,Some background noise,sam,20260527
+4559,24120.0,24123.0,yes,,,,brookie,20260522
+4563,24132.0,24135.0,yes,,,Good example,brookie,20260522
+4564,24135.0,24138.0,no,Southern Boobook,high,,brookie,20260525
+4565,24138.0,24141.0,no,Canyon Towhee,high,Frequency range incorrect,alex,20260522
+4567,24144.0,24147.0,no,Canyon Towhee,medium,Possibly Canyon Towhee,alex,20260523
+4571,24186.0,24189.0,yes,,,,alex,20260523
+4573,24195.0,24198.0,yes,,,,brookie,20260527
+4577,24210.0,24213.0,yes,,,Alarm call,sam,20260525
+4579,24237.0,24240.0,yes,,,,alex,20260523
+4584,24270.0,24273.0,yes,,,,sam,20260523
+4585,24273.0,24276.0,yes,,,Partially obscured by wind,sam,20260524
+4587,24285.0,24288.0,yes,,,,alex,20260526
+4591,24306.0,24309.0,no,Spotted Towhee,high,Definitely Spotted Towhee,brookie,20260525
+4593,24324.0,24327.0,no,Woodhouse's Scrub-Jay,medium,,brookie,20260526
+4595,24330.0,24333.0,no,Canyon Towhee,medium,Distant call,sam,20260523
+4601,24372.0,24375.0,yes,,,Uncertain - needs second review,sam,20260522
+4605,24390.0,24393.0,yes,,,Good example,casey,20260522
+4606,24393.0,24396.0,yes,,,Confirmed with visual,alex,20260526
+4607,24399.0,24402.0,yes,,,,brookie,20260524
+4609,24402.0,24405.0,yes,,,Juvenile begging calls,sam,20260527
+4612,24411.0,24414.0,no,Pacific-slope Flycatcher,medium,,jordan,20260527
+4613,24417.0,24420.0,yes,,,,jordan,20260526
+4615,24426.0,24429.0,yes,,,,brookie,20260523
+4620,24444.0,24447.0,yes,,,,brookie,20260522
+4628,24480.0,24483.0,yes,,,,sam,20260523
+4630,24489.0,24492.0,yes,,,,alex,20260523
+4633,24528.0,24531.0,yes,,,Flight call,jordan,20260525
+4634,24531.0,24534.0,yes,,,Territorial song,brookie,20260522
+4639,24549.0,24552.0,yes,,,,alex,20260527
+4643,24561.0,24564.0,yes,,,,brookie,20260526
+4644,24564.0,24567.0,yes,,,Flight call,brookie,20260525
+4646,24570.0,24573.0,yes,,,Alarm call,brookie,20260525
+4651,24603.0,24606.0,no,Spotted Towhee,high,Clear misidentification,jordan,20260525
+4654,24618.0,24621.0,yes,,,Juvenile begging calls,brookie,20260524
+4655,24621.0,24624.0,yes,,,Clear recording,casey,20260527
+4656,24633.0,24636.0,yes,,,Typical call pattern,brookie,20260526
+4658,24642.0,24645.0,no,Canyon Towhee,medium,,brookie,20260526
+4660,24651.0,24654.0,yes,,,Territorial song,sam,20260524
+4661,24654.0,24657.0,no,Canyon Towhee,medium,Not sure but likely wrong,alex,20260524
+4663,24663.0,24666.0,no,Western Kingbird,high,Different species entirely,jordan,20260527
+4666,24681.0,24684.0,yes,,,Contact call,brookie,20260525
+4667,24684.0,24687.0,yes,,,,jordan,20260522
+4668,24687.0,24690.0,yes,,,,jordan,20260525
+4669,24690.0,24693.0,no,Tropical Mockingbird,medium,,jordan,20260524
+4678,24753.0,24756.0,no,Canyon Towhee,high,Likely mechanical noise,jordan,20260526
+4683,24789.0,24792.0,yes,,,Juvenile begging calls,brookie,20260526
+4685,24792.0,24795.0,yes,,,,alex,20260526
+4687,24798.0,24801.0,no,Canyon Towhee,high,Wrong habitat for species,brookie,20260522
+4691,24822.0,24825.0,yes,,,,jordan,20260527
+4693,24858.0,24861.0,no,Spotted Towhee,medium,Uncertain - needs second review,sam,20260525
+4694,24876.0,24879.0,yes,,,Flight call,sam,20260524
+4704,25560.0,25563.0,yes,,,,jordan,20260527
+4705,25563.0,25566.0,no,Canyon Towhee,low,,brookie,20260522
+4708,25575.0,25578.0,no,Spotted Towhee,high,,sam,20260524
+4711,25584.0,25587.0,no,Canyon Towhee,low,Not sure but likely wrong,brookie,20260524
+4712,25587.0,25590.0,no,Hooded Warbler,medium,Partially obscured by wind,jordan,20260524
+4713,25590.0,25593.0,yes,,,,brookie,20260527
+4718,25605.0,25608.0,yes,,,,jordan,20260523
+4721,25614.0,25617.0,yes,,,Alarm call,casey,20260525
+4726,25626.0,25629.0,yes,,,,sam,20260527
+4731,25641.0,25644.0,yes,,,,brookie,20260525
+4736,25656.0,25659.0,yes,,,,brookie,20260522
+4740,25668.0,25671.0,no,Canyon Towhee,medium,Faint call,sam,20260522
+4742,25677.0,25680.0,no,Spotted Towhee,high,,alex,20260525
+4745,25791.0,25794.0,yes,,,,alex,20260525
+4747,25797.0,25800.0,yes,,,Typical call pattern,casey,20260524
+4749,25803.0,25806.0,yes,,,Territorial song,brookie,20260525
+4750,25809.0,25812.0,no,Fieldfare,high,,brookie,20260527
+4751,25815.0,25818.0,yes,,,,jordan,20260524
+4752,25818.0,25821.0,no,Scaled Quail,low,,alex,20260522
+4754,25824.0,25827.0,no,Pinyon Jay,high,Call pattern doesn't match,brookie,20260526
+4755,25824.0,25827.0,yes,,,,jordan,20260522
+4756,25827.0,25830.0,yes,,,,sam,20260522
+4757,25830.0,25833.0,yes,,,Confirmed with visual,sam,20260527
+4760,25839.0,25842.0,no,Spotted Towhee,high,Different species entirely,jordan,20260524
+4761,25842.0,25845.0,yes,,,,casey,20260524
+4762,25845.0,25848.0,no,Pine Warbler,high,Clear misidentification,brookie,20260525
+4763,25848.0,25851.0,yes,,,,brookie,20260525
+4765,25854.0,25857.0,yes,,,,jordan,20260525
+4766,25857.0,25860.0,no,Eurasian Oystercatcher,medium,,jordan,20260526
+4767,25860.0,25863.0,yes,,,Flight call,sam,20260525
+4769,25866.0,25869.0,yes,,,Typical call pattern,alex,20260523
+4771,25872.0,25875.0,no,Tufted Titmouse,low,Some background noise,alex,20260526
+4774,25881.0,25884.0,no,Canyon Towhee,high,Call pattern doesn't match,casey,20260525
+4775,25884.0,25887.0,yes,,,Confirmed with visual,brookie,20260522
+4777,25890.0,25893.0,no,California Quail,low,Possibly California Quail,sam,20260525
+4783,25908.0,25911.0,yes,,,Alarm call,brookie,20260527
+4791,25932.0,25935.0,no,Canyon Towhee,medium,,sam,20260526
+4799,26013.0,26016.0,yes,,,,sam,20260522
+4800,26130.0,26133.0,no,Canyon Towhee,low,Not sure but likely wrong,casey,20260525
+4810,26175.0,26178.0,yes,,,,brookie,20260525
+4812,26184.0,26187.0,yes,,,,brookie,20260524
+4814,26196.0,26199.0,yes,,,,jordan,20260527
+4817,26223.0,26226.0,yes,,,Alarm call,sam,20260522
+4818,26226.0,26229.0,yes,,,Juvenile begging calls,brookie,20260523
+4821,26262.0,26265.0,yes,,,,brookie,20260527
+4831,26403.0,26406.0,no,Canyon Towhee,high,Clear misidentification,brookie,20260525
+4838,26427.0,26430.0,yes,,,,jordan,20260526
+4840,26433.0,26436.0,yes,,,,sam,20260522
+4848,26460.0,26463.0,yes,,,,brookie,20260526
+4850,26466.0,26469.0,yes,,,,casey,20260522
+4851,26469.0,26472.0,no,Spotted Towhee,medium,Uncertain - needs second review,brookie,20260526
+4857,26487.0,26490.0,yes,,,,brookie,20260525
+4862,26505.0,26508.0,yes,,,Confirmed with visual,brookie,20260527
+4863,26508.0,26511.0,yes,,,,alex,20260526
+4864,26511.0,26514.0,no,Canyon Towhee,medium,,jordan,20260523
+4868,26523.0,26526.0,no,Southern Boobook,medium,Uncertain - needs second review,jordan,20260522
+4870,26538.0,26541.0,yes,,,Good example,brookie,20260523
+4873,26559.0,26562.0,no,Canyon Towhee,low,Possibly Canyon Towhee,casey,20260523
+4877,26601.0,26604.0,yes,,,,alex,20260527
+4878,26604.0,26607.0,no,Spotted Towhee,medium,,alex,20260524
+4879,26622.0,26625.0,no,Striped Cuckoo,medium,,jordan,20260527
+4882,26667.0,26670.0,yes,,,Good example,alex,20260522
+4883,26676.0,26679.0,no,Spotted Towhee,low,Uncertain - needs second review,sam,20260527
+4884,26682.0,26685.0,yes,,,,brookie,20260525
+4886,26691.0,26694.0,yes,,,,sam,20260525
+4889,26700.0,26703.0,no,Seaside Sparrow,high,Frequency range incorrect,brookie,20260522
+4892,26709.0,26712.0,yes,,,,sam,20260522
+4895,26736.0,26739.0,yes,,,Alarm call,casey,20260523
+4901,26838.0,26841.0,yes,,,,brookie,20260527
+4905,26853.0,26856.0,no,Yellow Warbler,medium,,jordan,20260527
+4908,26868.0,26871.0,yes,,,Flight call,brookie,20260524
+4909,26880.0,26883.0,no,Spotted Towhee,low,Not sure but likely wrong,sam,20260525
+4910,26883.0,26886.0,yes,,,,alex,20260523
+4915,26904.0,26907.0,yes,,,,brookie,20260527
+4922,26982.0,26985.0,yes,,,Typical call pattern,brookie,20260523
+4926,27003.0,27006.0,yes,,,Confirmed with visual,brookie,20260527
+4927,27006.0,27009.0,yes,,,Clear recording,jordan,20260522
+4931,27078.0,27081.0,no,Nuttall's Woodpecker,low,Some background noise,sam,20260522
+4935,27204.0,27207.0,no,Spotted Towhee,high,Likely mechanical noise,sam,20260523
+4939,27246.0,27249.0,no,Canyon Towhee,medium,Uncertain - needs second review,casey,20260522
+4942,27261.0,27264.0,no,Wrentit,high,,sam,20260526
+4948,27354.0,27357.0,no,Spotted Towhee,high,,alex,20260526
+4950,27366.0,27369.0,no,Spotted Towhee,high,Likely mechanical noise,sam,20260522
+4954,27390.0,27393.0,yes,,,Alarm call,casey,20260526
+4957,27489.0,27492.0,yes,,,Contact call,sam,20260524
+4958,27492.0,27495.0,yes,,,,brookie,20260527
+4959,27597.0,27600.0,yes,,,Juvenile begging calls,brookie,20260525
+4968,27915.0,27918.0,no,Canyon Towhee,medium,,brookie,20260524
+4969,27921.0,27924.0,yes,,,Some background noise,jordan,20260526
+4974,27939.0,27942.0,no,Black Kite,high,,brookie,20260527
+4976,27945.0,27948.0,no,Canyon Towhee,high,Likely mechanical noise,sam,20260523
+4977,27948.0,27951.0,yes,,,,brookie,20260527
+4981,27963.0,27966.0,yes,,,,alex,20260527
+4982,27969.0,27972.0,yes,,,,casey,20260524
+4985,28128.0,28131.0,yes,,,Good example,casey,20260526
+4986,28140.0,28143.0,yes,,,Territorial song,casey,20260525
+4987,28275.0,28278.0,yes,,,,casey,20260524
+4989,28317.0,28320.0,no,Spotted Towhee,low,Dawn chorus interference,sam,20260522
+4990,28338.0,28341.0,yes,,,Dawn chorus interference,brookie,20260526
+4991,28341.0,28344.0,yes,,,,brookie,20260523
+4993,28359.0,28362.0,no,Small Buttonquail,high,Call pattern doesn't match,brookie,20260522
+4996,28392.0,28395.0,yes,,,Breeding season call,sam,20260527
+5001,28437.0,28440.0,no,Evergreen-forest Warbler,medium,,alex,20260524
+5002,28455.0,28458.0,yes,,,Typical call pattern,sam,20260527
+5003,28458.0,28461.0,no,Canyon Towhee,medium,Dawn chorus interference,brookie,20260527
+5005,28470.0,28473.0,no,Canyon Towhee,low,,alex,20260526
+5009,28566.0,28569.0,no,Olive-crowned Crescentchest,high,,brookie,20260523
+5012,28575.0,28578.0,no,Black Kite,high,,alex,20260527
+5014,28593.0,28596.0,no,Spotted Towhee,high,,jordan,20260525
+5017,28662.0,28665.0,yes,,,,jordan,20260524
+5018,28794.0,28797.0,yes,,,Strong vocalization,jordan,20260526
+5020,28803.0,28806.0,yes,,,,brookie,20260522
+5027,28983.0,28986.0,yes,,,,jordan,20260523
+5029,29127.0,29130.0,yes,,,Clear recording,brookie,20260524
+5035,29178.0,29181.0,no,Spotted Towhee,medium,,jordan,20260527
+5042,29220.0,29223.0,yes,,,,alex,20260524
+5043,29223.0,29226.0,no,Canyon Towhee,high,,brookie,20260522
+5044,29226.0,29229.0,yes,,,,jordan,20260523
+5051,29268.0,29271.0,yes,,,Flight call,sam,20260525
+5052,29274.0,29277.0,yes,,,,brookie,20260526
+5054,29298.0,29301.0,yes,,,Juvenile begging calls,jordan,20260524
+5058,29682.0,29685.0,yes,,,Distant call,sam,20260522
+5059,29733.0,29736.0,yes,,,Good example,alex,20260523
+5060,29766.0,29769.0,yes,,,,jordan,20260522
+5062,29781.0,29784.0,yes,,,Uncertain - needs second review,jordan,20260522
+5063,29784.0,29787.0,no,Spotted Towhee,medium,Not sure but likely wrong,alex,20260525
+5064,29787.0,29790.0,yes,,,,brookie,20260523
+5065,29790.0,29793.0,yes,,,,brookie,20260522
+5066,29802.0,29805.0,no,Canyon Towhee,high,Wrong habitat for species,brookie,20260523
+5073,30756.0,30759.0,yes,,,,brookie,20260525
+5075,30765.0,30768.0,yes,,,,jordan,20260527
+5082,31149.0,31152.0,no,Abert's Towhee,high,,jordan,20260522
+5087,31185.0,31188.0,yes,,,,jordan,20260527
+5091,31203.0,31206.0,yes,,,,alex,20260527
+5092,31206.0,31209.0,yes,,,Juvenile begging calls,brookie,20260523
+5093,31212.0,31215.0,no,Canyon Towhee,high,Call pattern doesn't match,jordan,20260525
+5096,31248.0,31251.0,yes,,,Uncertain - needs second review,sam,20260522
+5097,31266.0,31269.0,yes,,,,alex,20260525
+5099,31491.0,31494.0,no,Rook,medium,Uncertain - needs second review,casey,20260524
+5104,31737.0,31740.0,no,Spotted Towhee,low,,alex,20260526
+5106,31746.0,31749.0,no,Gray Flycatcher,low,,jordan,20260526
+5108,31767.0,31770.0,yes,,,,alex,20260522
+5112,31782.0,31785.0,yes,,,Strong vocalization,brookie,20260523
+5113,31791.0,31794.0,no,Eurasian Eagle-Owl,high,,jordan,20260525
+5115,31818.0,31821.0,no,Evergreen-forest Warbler,medium,Uncertain - needs second review,sam,20260525
+5118,31830.0,31833.0,yes,,,,sam,20260523
+5122,31851.0,31854.0,yes,,,,sam,20260523
+5134,31929.0,31932.0,yes,,,,brookie,20260524
+5140,31956.0,31959.0,yes,,,,jordan,20260523
+5145,31983.0,31986.0,no,Pacific Chorus Frog,high,,brookie,20260523
+5148,31992.0,31995.0,yes,,,Flight call,brookie,20260523
+5152,32064.0,32067.0,no,Spotted Towhee,low,Faint call,sam,20260527
+5153,32070.0,32073.0,no,Spotted Towhee,low,Faint call,alex,20260525
+5155,32079.0,32082.0,yes,,,,alex,20260525
+5159,32100.0,32103.0,yes,,,Contact call,sam,20260524
+5160,32151.0,32154.0,yes,,,Faint call,brookie,20260524
+5163,32364.0,32367.0,yes,,,Juvenile begging calls,casey,20260526
+5164,32367.0,32370.0,no,Canyon Towhee,medium,,jordan,20260522
+5168,189.0,192.0,yes,,,,brookie,20260524
+5170,330.0,333.0,yes,,,,jordan,20260525
+5175,465.0,468.0,yes,,,Flight call,sam,20260522
+5176,546.0,549.0,no,Goeldi's Antbird,high,Frequency range incorrect,jordan,20260524
+5178,564.0,567.0,yes,,,,alex,20260525
+5179,576.0,579.0,yes,,,Faint call,jordan,20260522
+5185,951.0,954.0,yes,,,Uncertain - needs second review,alex,20260524
+5188,996.0,999.0,no,Wild Turkey,high,Wrong habitat for species,jordan,20260525
+5189,1002.0,1005.0,no,Chipping Sparrow,low,Distant call,alex,20260526
+5193,1191.0,1194.0,yes,,,,jordan,20260523
+5195,1374.0,1377.0,yes,,,Juvenile begging calls,sam,20260525
+5196,1377.0,1380.0,no,Bewick's Wren,high,Likely mechanical noise,casey,20260524
+5197,1395.0,1398.0,yes,,,,brookie,20260523
+5198,1398.0,1401.0,yes,,,Breeding season call,alex,20260523
+5201,1431.0,1434.0,no,Bushtit,medium,Not sure but likely wrong,jordan,20260525
+5204,1467.0,1470.0,yes,,,,jordan,20260527
+5207,1494.0,1497.0,yes,,,,sam,20260525
+5213,1617.0,1620.0,yes,,,Multiple species present,sam,20260523
+5216,1674.0,1677.0,yes,,,,brookie,20260526
+5221,1881.0,1884.0,yes,,,,jordan,20260524
+5222,1887.0,1890.0,no,Bachman's Sparrow,low,Multiple species present,sam,20260525
+5223,1905.0,1908.0,yes,,,,alex,20260525
+5229,2112.0,2115.0,yes,,,,jordan,20260526
+5230,5817.0,5820.0,yes,,,,jordan,20260523
+5234,10578.0,10581.0,yes,,,,jordan,20260523
+5236,11394.0,11397.0,yes,,,Territorial song,alex,20260523
+5237,11484.0,11487.0,yes,,,,alex,20260524
+5238,11517.0,11520.0,yes,,,,sam,20260522
+5245,570.0,573.0,yes,,,,alex,20260526
+5251,693.0,696.0,yes,,,,alex,20260526
+5252,696.0,699.0,no,Fireworks,high,Different species entirely,brookie,20260523
+5257,720.0,723.0,no,Vesper Sparrow,high,Frequency range incorrect,brookie,20260523
+5258,744.0,747.0,yes,,,Flight call,sam,20260522
+5259,762.0,765.0,yes,,,,jordan,20260523
+5260,771.0,774.0,no,Handsome Meadow Katydid,high,Frequency range incorrect,jordan,20260527
+5262,783.0,786.0,yes,,,Uncertain - needs second review,brookie,20260525
+5263,804.0,807.0,no,Goeldi's Antbird,high,,brookie,20260525
+5266,825.0,828.0,yes,,,,brookie,20260526
+5269,867.0,870.0,yes,,,,brookie,20260524
+5270,876.0,879.0,yes,,,,brookie,20260526
+5275,936.0,939.0,no,Hermit Thrush,low,,alex,20260523
+5277,945.0,948.0,yes,,,Contact call,casey,20260522
+5279,981.0,984.0,yes,,,,jordan,20260526
+5281,1218.0,1221.0,yes,,,,jordan,20260525
+5284,1296.0,1299.0,yes,,,,alex,20260526
+5287,1332.0,1335.0,yes,,,Contact call,sam,20260527
+5290,1362.0,1365.0,yes,,,Juvenile begging calls,sam,20260525
+5294,1485.0,1488.0,yes,,,,alex,20260525
+5295,1572.0,1575.0,yes,,,Contact call,jordan,20260522
+5297,1842.0,1845.0,no,Eurasian Bullfinch,low,,sam,20260524
+5299,1929.0,1932.0,no,Black-chinned Sparrow,high,Different species entirely,jordan,20260526
+5300,1938.0,1941.0,no,Gila Woodpecker,low,Dawn chorus interference,casey,20260523
+5304,1989.0,1992.0,yes,,,Territorial song,brookie,20260524
+5308,2247.0,2250.0,no,Carmiol's Tanager,low,Dawn chorus interference,casey,20260524
+5312,2397.0,2400.0,no,Long-eared Owl,high,,brookie,20260526
+5316,2646.0,2649.0,no,Grasshopper Sparrow,medium,Dawn chorus interference,brookie,20260525
+5317,2664.0,2667.0,no,Tawny Owl,low,Not sure but likely wrong,casey,20260527
+5319,2796.0,2799.0,no,Lesser Goldfinch,high,Different species entirely,brookie,20260522
+5320,2799.0,2802.0,yes,,,,alex,20260526
+5323,2838.0,2841.0,yes,,,Alarm call,sam,20260525
+5324,2841.0,2844.0,yes,,,Strong vocalization,brookie,20260522
+5330,3069.0,3072.0,yes,,,,casey,20260527
+5333,3090.0,3093.0,yes,,,,brookie,20260522
+5339,3165.0,3168.0,yes,,,,sam,20260522
+5342,3450.0,3453.0,yes,,,,alex,20260524
+5343,3549.0,3552.0,yes,,,,alex,20260525
+5347,4119.0,4122.0,yes,,,,brookie,20260526
+5349,4437.0,4440.0,yes,,,Alarm call,alex,20260526
+5351,4590.0,4593.0,no,Lesser Goldfinch,medium,Some background noise,brookie,20260523
+5354,4878.0,4881.0,yes,,,Multiple species present,brookie,20260524
+5360,5478.0,5481.0,yes,,,,brookie,20260522
+5362,5490.0,5493.0,yes,,,,sam,20260526
+5365,5622.0,5625.0,yes,,,,jordan,20260524
+5366,5628.0,5631.0,no,Anna's Hummingbird,high,Wrong habitat for species,alex,20260526
+5368,5634.0,5637.0,yes,,,,sam,20260524
+5370,5640.0,5643.0,yes,,,Clear recording,jordan,20260524
+5374,6051.0,6054.0,yes,,,,jordan,20260525
+5384,6723.0,6726.0,yes,,,,jordan,20260523
+5386,6741.0,6744.0,no,Tufted Titmouse,medium,Some background noise,sam,20260523
+5387,6756.0,6759.0,no,Cherrie's Antwren,low,,alex,20260524
+5389,6768.0,6771.0,no,Tropical Mockingbird,medium,,sam,20260526
+5394,6855.0,6858.0,no,Savi's Warbler,high,Clear misidentification,brookie,20260523
+5397,6915.0,6918.0,no,Olive-crowned Crescentchest,high,,brookie,20260524
+5401,7047.0,7050.0,yes,,,,alex,20260527
+5402,7347.0,7350.0,no,California Scrub-Jay,low,Multiple species present,alex,20260522
+5404,7512.0,7515.0,yes,,,,jordan,20260527
+5405,7521.0,7524.0,yes,,,,alex,20260526
+5407,7533.0,7536.0,yes,,,Clear recording,alex,20260522
+5409,8211.0,8214.0,yes,,,,jordan,20260522
+5411,9039.0,9042.0,no,Eurasian Thick-knee,high,,brookie,20260525
+5412,9039.0,9042.0,yes,,,,brookie,20260522
+5417,9147.0,9150.0,no,Golden-winged Warbler,high,Call pattern doesn't match,brookie,20260523
+5419,9156.0,9159.0,no,Song Sparrow,high,,brookie,20260522
+5420,9165.0,9168.0,yes,,,,jordan,20260523
+5421,9192.0,9195.0,yes,,,,sam,20260522
+5423,9300.0,9303.0,no,Black-headed Grosbeak,high,Wrong habitat for species,brookie,20260526
+5424,9576.0,9579.0,no,Bell's Vireo,medium,Uncertain - needs second review,brookie,20260522
+5425,9915.0,9918.0,no,Chestnut-backed Chickadee,low,,alex,20260524
+5428,10053.0,10056.0,no,Blue-headed Vireo,medium,Possibly Blue-headed Vireo,brookie,20260525
+5432,10125.0,10128.0,no,Tawny Frogmouth,high,,sam,20260525
+5438,10395.0,10398.0,yes,,,Good example,brookie,20260525
+5441,10539.0,10542.0,no,Oriental Greenfinch,medium,,brookie,20260524
+5443,10599.0,10602.0,yes,,,,brookie,20260527
+5445,10665.0,10668.0,yes,,,,jordan,20260522
+5446,10713.0,10716.0,yes,,,,alex,20260523
+5452,11001.0,11004.0,yes,,,Faint call,sam,20260525
+5455,11061.0,11064.0,yes,,,,alex,20260522
+5456,11082.0,11085.0,yes,,,Confirmed with visual,jordan,20260527
+5459,11232.0,11235.0,no,Clicker Round-winged Katydid,high,Frequency range incorrect,brookie,20260522
+5460,11286.0,11289.0,yes,,,,jordan,20260524
+5462,11364.0,11367.0,no,Northern Saw-whet Owl,high,,jordan,20260522
+5466,11700.0,11703.0,yes,,,Dawn chorus interference,brookie,20260525
+5468,11739.0,11742.0,yes,,,Alarm call,jordan,20260523
+5473,11763.0,11766.0,no,American Goldfinch,high,,brookie,20260522
+5474,11814.0,11817.0,no,Small Buttonquail,high,Frequency range incorrect,sam,20260523
+5476,11820.0,11823.0,no,Common Yellowthroat,high,,brookie,20260522
+5477,11847.0,11850.0,yes,,,Uncertain - needs second review,sam,20260522
+5481,12405.0,12408.0,yes,,,,alex,20260524
+5482,12483.0,12486.0,no,Oak Titmouse,medium,Uncertain - needs second review,brookie,20260527
+5484,12489.0,12492.0,no,Belted Kingfisher,high,Likely mechanical noise,alex,20260524
+5487,12516.0,12519.0,no,Eurasian Eagle-Owl,high,,jordan,20260522
+5492,12540.0,12543.0,yes,,,,alex,20260526
+5493,12624.0,12627.0,no,Mistle Thrush,high,,jordan,20260523
+5494,12711.0,12714.0,yes,,,Some background noise,sam,20260527
+5495,12717.0,12720.0,no,Pale-vented Thrush,low,Uncertain - needs second review,alex,20260525
+5496,12882.0,12885.0,no,Anna's Hummingbird,high,,brookie,20260526
+5497,12885.0,12888.0,yes,,,,sam,20260527
+5498,12945.0,12948.0,yes,,,,brookie,20260522
+5500,12951.0,12954.0,yes,,,Breeding season call,sam,20260526
+5501,12954.0,12957.0,yes,,,,sam,20260525
+5502,13095.0,13098.0,no,Seaside Sparrow,high,Clear misidentification,sam,20260522
+5505,13203.0,13206.0,no,Tawny Frogmouth,medium,,alex,20260527
+5506,13311.0,13314.0,no,Western Screech-Owl,high,Clear misidentification,sam,20260524
+5510,13485.0,13488.0,no,Baltimore Oriole,high,,jordan,20260523
+5512,13503.0,13506.0,no,Song Thrush,high,,jordan,20260527
+5513,13653.0,13656.0,no,Chipping Sparrow,low,,jordan,20260523
+5516,13863.0,13866.0,yes,,,Flight call,jordan,20260522
+5519,14049.0,14052.0,no,Engine,high,,alex,20260526
+5523,14268.0,14271.0,no,Gila Woodpecker,high,Likely mechanical noise,brookie,20260527
+5530,14550.0,14553.0,no,Yellowhammer,medium,,alex,20260522
+5532,14706.0,14709.0,yes,,,Uncertain - needs second review,sam,20260526
+5536,14811.0,14814.0,yes,,,,brookie,20260527
+5537,14832.0,14835.0,no,Carolina Wren,medium,,casey,20260524
+5540,14979.0,14982.0,no,Chestnut-bellied Thrush,low,,sam,20260526
+5542,15009.0,15012.0,yes,,,Faint call,casey,20260526
+5543,15030.0,15033.0,yes,,,,alex,20260526
+5547,15132.0,15135.0,no,Southern Wood Cricket,high,Frequency range incorrect,sam,20260527
+5549,15375.0,15378.0,no,Canyon Towhee,high,,jordan,20260525
+5550,15381.0,15384.0,yes,,,,jordan,20260522
+5554,15405.0,15408.0,yes,,,,alex,20260527
+5555,15408.0,15411.0,no,Golden-winged Warbler,medium,,brookie,20260524
+5557,15429.0,15432.0,no,Pinyon Jay,high,,jordan,20260522
+5559,15441.0,15444.0,yes,,,Alarm call,alex,20260522
+5560,15444.0,15447.0,no,Barn Owl,medium,Not sure but likely wrong,casey,20260527
+5563,15465.0,15468.0,yes,,,,sam,20260522
+5568,15495.0,15498.0,no,California Towhee,high,,alex,20260527
+5573,15519.0,15522.0,yes,,,,jordan,20260522
+5575,15531.0,15534.0,yes,,,,sam,20260526
+5576,15543.0,15546.0,no,Song Thrush,low,Faint call,casey,20260525
+5580,15558.0,15561.0,yes,,,Contact call,sam,20260525
+5583,15573.0,15576.0,yes,,,,jordan,20260522
+5590,15591.0,15594.0,no,Black-chinned Sparrow,medium,Partially obscured by wind,sam,20260525
+5591,15594.0,15597.0,no,Barn Owl,high,Definitely Barn Owl,brookie,20260523
+5594,15606.0,15609.0,yes,,,,sam,20260525
+5597,15630.0,15633.0,yes,,,,jordan,20260527
+5600,15639.0,15642.0,yes,,,,casey,20260523
+5601,15645.0,15648.0,yes,,,,alex,20260523
+5602,15648.0,15651.0,yes,,,,alex,20260526
+5611,15693.0,15696.0,yes,,,Contact call,alex,20260525
+5612,15696.0,15699.0,no,Short-crested Flycatcher,medium,Distant call,sam,20260522
+5613,15699.0,15702.0,yes,,,Territorial song,alex,20260522
+5615,15702.0,15705.0,no,Gray Heron,medium,,sam,20260525
+5623,15723.0,15726.0,yes,,,,jordan,20260523
+5627,15735.0,15738.0,no,Grasshopper Sparrow,high,Definitely Grasshopper Sparrow,brookie,20260525
+5628,15741.0,15744.0,yes,,,Clear recording,alex,20260525
+5629,15750.0,15753.0,no,Downy Woodpecker,low,Multiple species present,alex,20260526
+5631,15759.0,15762.0,yes,,,,alex,20260527
+5632,15768.0,15771.0,yes,,,Alarm call,casey,20260526
+5633,15777.0,15780.0,yes,,,,alex,20260522
+5636,15798.0,15801.0,yes,,,,alex,20260526
+5637,15810.0,15813.0,no,Northern Beardless-Tyrannulet,medium,Partially obscured by wind,sam,20260526
+5642,15825.0,15828.0,yes,,,Typical call pattern,casey,20260524
+5643,15828.0,15831.0,no,Barn Owl,high,,jordan,20260523
+5649,15849.0,15852.0,no,Barn Owl,medium,Distant call,alex,20260526
+5652,15855.0,15858.0,yes,,,,jordan,20260523
+5655,15864.0,15867.0,no,Olive-crowned Crescentchest,low,Faint call,casey,20260524
+5659,15876.0,15879.0,no,Barn Owl,medium,,brookie,20260527
+5661,15879.0,15882.0,no,Violet-green Swallow,medium,Faint call,casey,20260523
+5662,15882.0,15885.0,yes,,,,alex,20260524
+5663,15885.0,15888.0,no,Barn Owl,high,,brookie,20260525
+5664,15888.0,15891.0,no,Barn Owl,high,Definitely Barn Owl,brookie,20260527
+5672,15909.0,15912.0,no,Yellowhammer,low,,brookie,20260525
+5674,15921.0,15924.0,no,Lesser Spotted Woodpecker,high,Different species entirely,alex,20260526
+5678,15948.0,15951.0,no,Chestnut-sided Warbler,low,Some background noise,casey,20260522
+5679,15951.0,15954.0,yes,,,Contact call,alex,20260525
+5684,15966.0,15969.0,no,Barn Owl,low,,alex,20260527
+5686,15972.0,15975.0,no,Black-headed Grosbeak,medium,,sam,20260524
+5688,15978.0,15981.0,yes,,,Faint call,alex,20260527
+5690,15987.0,15990.0,no,Bell's Vireo,low,Possibly Bell's Vireo,brookie,20260525
+5691,15993.0,15996.0,yes,,,,brookie,20260522
+5692,15993.0,15996.0,yes,,,,brookie,20260522
+5693,15999.0,16002.0,yes,,,,brookie,20260526
+5694,16002.0,16005.0,no,Barn Owl,low,Partially obscured by wind,jordan,20260524
+5697,16026.0,16029.0,yes,,,,jordan,20260526
+5700,16035.0,16038.0,yes,,,,brookie,20260526
+5701,16038.0,16041.0,yes,,,,alex,20260522
+5704,16044.0,16047.0,no,Hermit Thrush,low,Some background noise,sam,20260527
+5705,16047.0,16050.0,no,Western Screech-Owl,medium,,sam,20260523
+5706,16056.0,16059.0,no,Violet-green Swallow,high,Clear misidentification,jordan,20260522
+5707,16059.0,16062.0,yes,,,Contact call,sam,20260522
+5712,16071.0,16074.0,no,Evergreen-forest Warbler,medium,,jordan,20260525
+5714,16080.0,16083.0,yes,,,,sam,20260522
+5715,16083.0,16086.0,no,Violet-green Swallow,high,,sam,20260527
+5716,16086.0,16089.0,no,Violet-green Swallow,high,Clear misidentification,alex,20260527
+5720,16095.0,16098.0,yes,,,Typical call pattern,sam,20260526
+5721,16098.0,16101.0,no,Hooded Warbler,low,Not sure but likely wrong,alex,20260526
+5724,16107.0,16110.0,no,Violet-green Swallow,medium,,alex,20260522
+5726,16119.0,16122.0,yes,,,Uncertain - needs second review,brookie,20260524
+5728,16125.0,16128.0,no,Violet-green Swallow,medium,Dawn chorus interference,sam,20260522
+5729,16128.0,16131.0,no,Violet-green Swallow,medium,Some background noise,casey,20260525
+5730,16131.0,16134.0,yes,,,,alex,20260522
+5731,16137.0,16140.0,yes,,,Contact call,sam,20260522
+5735,16167.0,16170.0,no,Corn Crake,high,Call pattern doesn't match,sam,20260527
+5736,16176.0,16179.0,yes,,,Breeding season call,jordan,20260526
+5739,16194.0,16197.0,no,Barn Owl,medium,,brookie,20260522
+5743,16209.0,16212.0,no,Mauritius Fody,high,Call pattern doesn't match,sam,20260523
+5744,16209.0,16212.0,yes,,,,brookie,20260525
+5746,16215.0,16218.0,yes,,,Contact call,alex,20260527
+5747,16218.0,16221.0,yes,,,,casey,20260523
+5748,16221.0,16224.0,no,Pygmy Cupwing,low,Multiple species present,casey,20260527
+5750,16233.0,16236.0,yes,,,,brookie,20260525
+5751,16239.0,16242.0,yes,,,Contact call,casey,20260525
+5752,16245.0,16248.0,yes,,,Uncertain - needs second review,casey,20260522
+5756,16263.0,16266.0,yes,,,,jordan,20260526
+5757,16266.0,16269.0,no,Violet-green Swallow,low,Uncertain - needs second review,casey,20260523
+5758,16269.0,16272.0,yes,,,Clear recording,brookie,20260523
+5759,16275.0,16278.0,no,Barn Owl,high,,jordan,20260526
+5761,16281.0,16284.0,no,Violet-green Swallow,low,,brookie,20260527
+5765,16299.0,16302.0,yes,,,Strong vocalization,brookie,20260527
+5767,16308.0,16311.0,no,Barn Owl,medium,Partially obscured by wind,brookie,20260525
+5768,16311.0,16314.0,no,Barn Owl,medium,,brookie,20260525
+5772,16329.0,16332.0,no,Violet-green Swallow,low,Not sure but likely wrong,casey,20260526
+5775,16338.0,16341.0,yes,,,,brookie,20260522
+5778,16350.0,16353.0,no,Barn Owl,medium,Dawn chorus interference,sam,20260524
+5779,16353.0,16356.0,no,Barn Owl,medium,Multiple species present,jordan,20260523
+5782,16365.0,16368.0,no,Barn Owl,low,,brookie,20260525
+5785,16374.0,16377.0,no,Violet-green Swallow,high,Clear misidentification,brookie,20260527
+5787,16380.0,16383.0,yes,,,Dawn chorus interference,brookie,20260524
+5790,16404.0,16407.0,yes,,,Breeding season call,jordan,20260523
+5793,16416.0,16419.0,yes,,,,sam,20260522
+5796,16437.0,16440.0,no,Barn Owl,medium,Partially obscured by wind,alex,20260524
+5804,16482.0,16485.0,yes,,,,alex,20260526
+5806,16488.0,16491.0,yes,,,,brookie,20260524
+5807,16491.0,16494.0,no,American Bullfrog,high,Likely mechanical noise,brookie,20260522
+5810,16506.0,16509.0,no,White-browed Antpitta,medium,Distant call,sam,20260527
+5811,16509.0,16512.0,yes,,,,alex,20260526
+5812,16515.0,16518.0,no,Barn Owl,medium,,brookie,20260524
+5813,16518.0,16521.0,yes,,,Alarm call,sam,20260525
+5818,16539.0,16542.0,yes,,,,jordan,20260527
+5820,16545.0,16548.0,yes,,,Alarm call,brookie,20260523
+5821,16548.0,16551.0,no,Fieldfare,high,,brookie,20260523
+5825,16566.0,16569.0,no,Violet-green Swallow,high,,brookie,20260524
+5828,16575.0,16578.0,yes,,,,brookie,20260525
+5829,16578.0,16581.0,no,Barn Owl,medium,Partially obscured by wind,alex,20260523
+5833,16599.0,16602.0,no,Violet-green Swallow,high,Wrong habitat for species,jordan,20260524
+5837,16611.0,16614.0,yes,,,Strong vocalization,sam,20260526
+5840,16620.0,16623.0,no,Violet-green Swallow,high,Different species entirely,brookie,20260522
+5843,16632.0,16635.0,no,Common Chiffchaff,high,,jordan,20260523
+5846,16641.0,16644.0,no,Violet-green Swallow,medium,,jordan,20260522
+5849,16650.0,16653.0,no,Violet-green Swallow,medium,Uncertain - needs second review,brookie,20260527
+5861,16695.0,16698.0,yes,,,,jordan,20260525
+5863,16707.0,16710.0,no,Brown-headed Cowbird,high,,brookie,20260525
+5864,16710.0,16713.0,no,Common Nightingale,low,Dawn chorus interference,casey,20260525
+5865,16716.0,16719.0,yes,,,,jordan,20260524
+5867,16728.0,16731.0,yes,,,Alarm call,brookie,20260527
+5869,16734.0,16737.0,yes,,,Territorial song,brookie,20260527
+5871,16740.0,16743.0,no,Barn Owl,high,Different species entirely,jordan,20260522
+5872,16743.0,16746.0,no,Short-crested Flycatcher,high,Different species entirely,jordan,20260527
+5873,16746.0,16749.0,no,Oak Titmouse,high,Frequency range incorrect,casey,20260526
+5874,16752.0,16755.0,yes,,,,alex,20260522
+5875,16755.0,16758.0,yes,,,,sam,20260527
+5877,16761.0,16764.0,no,Violet-green Swallow,low,,alex,20260526
+5881,16773.0,16776.0,no,Barn Owl,low,Dawn chorus interference,alex,20260523
+5882,16776.0,16779.0,no,Violet-green Swallow,high,,jordan,20260524
+5883,16779.0,16782.0,yes,,,,jordan,20260526
+5884,16782.0,16785.0,no,Violet-green Swallow,medium,Multiple species present,jordan,20260523
+5885,16785.0,16788.0,yes,,,,brookie,20260525
+5890,16803.0,16806.0,no,Violet-green Swallow,high,,jordan,20260527
+5898,16842.0,16845.0,no,White-browed Antpitta,low,Possibly White-browed Antpitta,casey,20260527
+5900,16866.0,16869.0,no,Long-eared Owl,low,,sam,20260523
+5903,16887.0,16890.0,no,Barn Owl,low,,alex,20260525
+5905,16893.0,16896.0,no,Townsend's Warbler,medium,Possibly Townsend's Warbler,sam,20260527
+5912,16920.0,16923.0,yes,,,,casey,20260525
+5913,16929.0,16932.0,no,Barn Owl,high,,brookie,20260523
+5916,16944.0,16947.0,yes,,,,jordan,20260525
+5918,16950.0,16953.0,yes,,,,brookie,20260522
+5920,16959.0,16962.0,yes,,,Some background noise,sam,20260522
+5921,16962.0,16965.0,no,Barn Owl,high,Definitely Barn Owl,alex,20260526
+5922,16965.0,16968.0,yes,,,Alarm call,casey,20260524
+5925,16974.0,16977.0,no,Violet-green Swallow,low,Possibly Violet-green Swallow,brookie,20260524
+5928,16986.0,16989.0,no,Pygmy Cupwing,medium,Uncertain - needs second review,sam,20260525
+5932,16998.0,17001.0,yes,,,,alex,20260524
+5937,17019.0,17022.0,no,Barn Owl,low,,brookie,20260523
+5938,17025.0,17028.0,no,Violet-green Swallow,high,,brookie,20260522
+5942,17037.0,17040.0,yes,,,,jordan,20260522
+5954,17079.0,17082.0,no,Violet-green Swallow,high,,jordan,20260523
+5955,17082.0,17085.0,no,Violet-green Swallow,low,,brookie,20260524
+5956,17085.0,17088.0,yes,,,Juvenile begging calls,jordan,20260527
+5958,17091.0,17094.0,no,Townsend's Warbler,high,Frequency range incorrect,brookie,20260524
+5960,17109.0,17112.0,no,Barn Owl,medium,Some background noise,casey,20260525
+5962,17115.0,17118.0,no,Barn Owl,high,,brookie,20260522
+5963,17121.0,17124.0,no,Barn Owl,medium,,sam,20260526
+5967,17133.0,17136.0,no,Barn Owl,low,,jordan,20260524
+5970,17145.0,17148.0,no,Violet-green Swallow,high,Different species entirely,brookie,20260526
+5971,17148.0,17151.0,yes,,,,casey,20260522
+5972,17151.0,17154.0,no,Barn Owl,medium,,alex,20260526
+5978,17169.0,17172.0,yes,,,,alex,20260527
+5979,17172.0,17175.0,no,Violet-green Swallow,low,,alex,20260527
+5980,17175.0,17178.0,no,Barn Owl,high,,brookie,20260524
+5981,17178.0,17181.0,no,Common Poorwill,high,Definitely Common Poorwill,brookie,20260527
+5984,17187.0,17190.0,no,Lazuli Bunting,medium,,alex,20260524
+5988,17199.0,17202.0,no,Violet-green Swallow,low,Dawn chorus interference,casey,20260527
+5990,17205.0,17208.0,no,Violet-green Swallow,low,Distant call,casey,20260523
+5995,17229.0,17232.0,no,Barn Owl,high,,jordan,20260522
+5997,17235.0,17238.0,no,Violet-green Swallow,low,Possibly Violet-green Swallow,casey,20260526
+6000,17247.0,17250.0,yes,,,,sam,20260523
+6001,17253.0,17256.0,no,Fireworks,medium,Not sure but likely wrong,alex,20260527
+6008,17274.0,17277.0,no,Barn Owl,high,Definitely Barn Owl,sam,20260524
+6010,17289.0,17292.0,no,Violet-green Swallow,high,Clear misidentification,brookie,20260526
+6011,17292.0,17295.0,no,Pacific-slope Flycatcher,medium,Faint call,sam,20260524
+6013,17301.0,17304.0,yes,,,,alex,20260526
+6017,17319.0,17322.0,no,Rose-breasted Grosbeak,high,,jordan,20260525
+6019,17325.0,17328.0,no,Chestnut-backed Antbird,medium,Dawn chorus interference,alex,20260526
+6020,17328.0,17331.0,yes,,,,alex,20260527
+6023,17349.0,17352.0,no,Violet-green Swallow,low,Not sure but likely wrong,sam,20260526
+6028,17373.0,17376.0,no,Violet-green Swallow,high,Clear misidentification,sam,20260525
+6034,17400.0,17403.0,no,Common Yellowthroat,low,Possibly Common Yellowthroat,brookie,20260526
+6037,17412.0,17415.0,no,Barn Owl,high,,brookie,20260523
+6045,17466.0,17469.0,no,Common House-Martin,medium,,brookie,20260522
+6047,17478.0,17481.0,yes,,,Flight call,brookie,20260526
+6049,17490.0,17493.0,no,Violet-green Swallow,medium,,alex,20260522
+6051,17502.0,17505.0,no,Red-faced Warbler,high,Frequency range incorrect,jordan,20260524
+6058,17535.0,17538.0,yes,,,,alex,20260527
+6059,17544.0,17547.0,yes,,,Contact call,casey,20260526
+6061,17556.0,17559.0,no,Gray Heron,low,Not sure but likely wrong,sam,20260526
+6062,17559.0,17562.0,no,Barn Owl,high,,brookie,20260527
+6069,17583.0,17586.0,yes,,,,brookie,20260524
+6082,17637.0,17640.0,yes,,,,jordan,20260524
+6087,17658.0,17661.0,no,Violet-green Swallow,high,Likely mechanical noise,sam,20260525
+6088,17661.0,17664.0,yes,,,Territorial song,sam,20260524
+6092,17679.0,17682.0,no,Barn Owl,high,,jordan,20260524
+6095,17691.0,17694.0,no,Fireworks,high,,brookie,20260522
+6096,17706.0,17709.0,no,Barn Owl,medium,Faint call,alex,20260524
+6097,17709.0,17712.0,no,Wren-like Rushbird,high,Definitely Wren-like Rushbird,sam,20260525
+6105,17751.0,17754.0,yes,,,,brookie,20260523
+6108,17763.0,17766.0,yes,,,,jordan,20260524
+6112,17781.0,17784.0,no,Goeldi's Antbird,low,Uncertain - needs second review,casey,20260527
+6114,17790.0,17793.0,no,Violet-green Swallow,medium,,alex,20260522
+6118,17805.0,17808.0,no,White-sided Flowerpiercer,medium,Faint call,casey,20260524
+6125,17826.0,17829.0,no,Barn Owl,medium,,jordan,20260526
+6127,17838.0,17841.0,yes,,,Strong vocalization,brookie,20260523
+6130,17850.0,17853.0,no,Barn Owl,high,Clear misidentification,brookie,20260524
+6131,17856.0,17859.0,no,Black Kite,high,,jordan,20260523
+6132,17859.0,17862.0,no,Olive-crowned Crescentchest,medium,Partially obscured by wind,sam,20260526
+6134,17865.0,17868.0,yes,,,,alex,20260522
+6140,17898.0,17901.0,no,Violet-green Swallow,high,,jordan,20260525
+6142,17904.0,17907.0,yes,,,Juvenile begging calls,jordan,20260525
+6145,17913.0,17916.0,no,Barn Owl,high,Frequency range incorrect,alex,20260527
+6147,17925.0,17928.0,yes,,,,alex,20260522
+6151,17937.0,17940.0,no,Violet-green Swallow,medium,Some background noise,brookie,20260522
+6155,17949.0,17952.0,yes,,,,jordan,20260523
+6156,17958.0,17961.0,no,Barn Owl,high,,jordan,20260524
+6157,17961.0,17964.0,yes,,,Confirmed with visual,brookie,20260522
+6160,17973.0,17976.0,yes,,,Breeding season call,sam,20260524
+6163,17982.0,17985.0,no,Bearded Bellbird,medium,,jordan,20260522
+6164,17985.0,17988.0,yes,,,Typical call pattern,brookie,20260522
+6165,17988.0,17991.0,no,Rufous-capped Warbler,high,Frequency range incorrect,sam,20260526
+6171,18021.0,18024.0,no,Barn Owl,high,Wrong habitat for species,jordan,20260522
+6172,18024.0,18027.0,no,Black Antbird,low,Multiple species present,brookie,20260524
+6173,18030.0,18033.0,no,Lesser Goldfinch,high,,brookie,20260524
+6174,18033.0,18036.0,yes,,,,jordan,20260526
+6175,18036.0,18039.0,yes,,,Typical call pattern,brookie,20260522
+6182,18066.0,18069.0,yes,,,,brookie,20260522
+6183,18072.0,18075.0,no,Barn Owl,low,Possibly Barn Owl,alex,20260526
+6185,18081.0,18084.0,no,Violet-green Swallow,low,Distant call,sam,20260523
+6191,18114.0,18117.0,no,Violet-green Swallow,medium,,alex,20260526
+6195,18141.0,18144.0,yes,,,,brookie,20260523
+6196,18144.0,18147.0,yes,,,Faint call,brookie,20260524
+6198,18156.0,18159.0,no,Violet-green Swallow,high,Different species entirely,brookie,20260525
+6199,18162.0,18165.0,no,Barn Owl,medium,Possibly Barn Owl,brookie,20260522
+6200,18165.0,18168.0,no,Barn Owl,high,,alex,20260523
+6201,18168.0,18171.0,no,Violet-green Swallow,low,Partially obscured by wind,casey,20260523
+6206,18195.0,18198.0,no,Barn Owl,high,Frequency range incorrect,brookie,20260523
+6210,18216.0,18219.0,no,Steller's Jay,high,Wrong habitat for species,brookie,20260524
+6211,18219.0,18222.0,yes,,,Good example,brookie,20260525
+6213,18231.0,18234.0,yes,,,,alex,20260523
+6216,18261.0,18264.0,yes,,,,brookie,20260523
+6220,18276.0,18279.0,no,Barn Owl,medium,,jordan,20260522
+6221,18288.0,18291.0,no,Broad-winged Hawk,medium,Distant call,casey,20260523
+6222,18297.0,18300.0,yes,,,Strong vocalization,brookie,20260526
+6223,18303.0,18306.0,no,Barn Owl,medium,,alex,20260527
+6224,18309.0,18312.0,yes,,,,brookie,20260524
+6229,18336.0,18339.0,yes,,,,jordan,20260523
+6230,18339.0,18342.0,no,Violet-green Swallow,high,Frequency range incorrect,brookie,20260523
+6236,18390.0,18393.0,no,Violet-green Swallow,low,,alex,20260527
+6237,18393.0,18396.0,yes,,,Uncertain - needs second review,sam,20260522
+6239,18399.0,18402.0,yes,,,,alex,20260524
+6240,18426.0,18429.0,no,Barn Owl,high,,jordan,20260523
+6242,18432.0,18435.0,no,Barn Owl,medium,,jordan,20260524
+6250,18483.0,18486.0,no,Barn Owl,high,,brookie,20260524
+6254,18501.0,18504.0,yes,,,,casey,20260524
+6261,18552.0,18555.0,no,Olive-crowned Crescentchest,high,,brookie,20260526
+6262,18558.0,18561.0,no,Barn Owl,medium,Distant call,sam,20260522
+6268,18582.0,18585.0,yes,,,,alex,20260527
+6272,18603.0,18606.0,no,Violet-green Swallow,low,Distant call,casey,20260525
+6277,18627.0,18630.0,no,Violet-green Swallow,medium,Not sure but likely wrong,sam,20260523
+6278,18630.0,18633.0,no,Violet-green Swallow,high,Call pattern doesn't match,brookie,20260527
+6280,18636.0,18639.0,yes,,,,casey,20260527
+6281,18639.0,18642.0,no,Violet-green Swallow,high,Likely mechanical noise,brookie,20260527
+6282,18642.0,18645.0,no,Barn Owl,high,,brookie,20260527
+6286,18654.0,18657.0,no,Violet-green Swallow,medium,,brookie,20260524
+6289,18666.0,18669.0,yes,,,,alex,20260525
+6291,18675.0,18678.0,yes,,,Alarm call,alex,20260527
+6293,18687.0,18690.0,no,Tawny Frogmouth,high,Wrong habitat for species,brookie,20260525
+6296,18699.0,18702.0,no,Barn Owl,low,Distant call,brookie,20260526
+6300,18717.0,18720.0,yes,,,Uncertain - needs second review,jordan,20260527
+6302,18726.0,18729.0,no,Barn Owl,low,Uncertain - needs second review,casey,20260527
+6316,18828.0,18831.0,yes,,,,jordan,20260522
+6317,18831.0,18834.0,yes,,,,brookie,20260526
+6319,18840.0,18843.0,no,Barn Owl,high,Clear misidentification,brookie,20260522
+6321,18852.0,18855.0,no,Barn Owl,high,,brookie,20260523
+6325,18879.0,18882.0,yes,,,Contact call,casey,20260526
+6329,18912.0,18915.0,yes,,,,jordan,20260525
+6330,18918.0,18921.0,yes,,,Juvenile begging calls,alex,20260522
+6334,18957.0,18960.0,yes,,,,brookie,20260526
+6335,18978.0,18981.0,yes,,,,sam,20260527
+6336,18984.0,18987.0,no,Mistle Thrush,high,,jordan,20260525
+6337,18987.0,18990.0,yes,,,,jordan,20260522
+6338,18990.0,18993.0,yes,,,Confirmed with visual,jordan,20260523
+6340,19002.0,19005.0,no,Barn Owl,medium,Partially obscured by wind,brookie,20260522
+6343,19014.0,19017.0,yes,,,,brookie,20260526
+6344,19017.0,19020.0,no,Iberian Magpie,low,Some background noise,casey,20260522
+6345,19023.0,19026.0,no,Woodhouse's Scrub-Jay,low,,alex,20260527
+6347,19029.0,19032.0,yes,,,,brookie,20260523
+6349,19041.0,19044.0,no,Violet-green Swallow,low,Not sure but likely wrong,alex,20260525
+6350,19047.0,19050.0,yes,,,,jordan,20260527
+6352,19053.0,19056.0,yes,,,,brookie,20260526
+6354,19059.0,19062.0,no,Violet-green Swallow,low,,alex,20260522
+6359,19095.0,19098.0,yes,,,,brookie,20260527
+6362,19107.0,19110.0,yes,,,Typical call pattern,casey,20260527
+6363,19110.0,19113.0,no,Violet-green Swallow,low,Multiple species present,brookie,20260522
+6367,19134.0,19137.0,no,Lark Sparrow,medium,Distant call,alex,20260524
+6369,19143.0,19146.0,yes,,,,alex,20260527
+6370,19146.0,19149.0,yes,,,,alex,20260525
+6371,19149.0,19152.0,yes,,,,jordan,20260526
+6380,19221.0,19224.0,yes,,,,jordan,20260525
+6384,19248.0,19251.0,yes,,,,alex,20260523
+6385,19254.0,19257.0,yes,,,,casey,20260527
+6386,19260.0,19263.0,yes,,,,jordan,20260525
+6387,19263.0,19266.0,yes,,,,brookie,20260523
+6388,19269.0,19272.0,yes,,,,alex,20260523
+6391,19275.0,19278.0,no,Violet-green Swallow,high,,jordan,20260522
+6397,19317.0,19320.0,yes,,,Dawn chorus interference,brookie,20260522
+6398,19320.0,19323.0,yes,,,,casey,20260523
+6401,19335.0,19338.0,no,Horned Lark,high,Definitely Horned Lark,brookie,20260525
+6402,19341.0,19344.0,no,Iberian Magpie,medium,,alex,20260522
+6403,19344.0,19347.0,yes,,,Multiple species present,alex,20260527
+6409,19362.0,19365.0,yes,,,Flight call,brookie,20260523
+6412,19374.0,19377.0,yes,,,,brookie,20260526
+6413,19380.0,19383.0,yes,,,Clear recording,brookie,20260524
+6421,19416.0,19419.0,no,Violet-green Swallow,medium,,brookie,20260522
+6432,19443.0,19446.0,yes,,,Breeding season call,jordan,20260523
+6433,19446.0,19449.0,no,Violet-green Swallow,high,Likely mechanical noise,alex,20260524
+6439,19467.0,19470.0,no,California Scrub-Jay,high,Likely mechanical noise,brookie,20260526
+6441,19482.0,19485.0,yes,,,,brookie,20260522
+6442,19485.0,19488.0,yes,,,,jordan,20260524
+6443,19485.0,19488.0,yes,,,,brookie,20260526
+6444,19488.0,19491.0,yes,,,,jordan,20260526
+6445,19488.0,19491.0,yes,,,,alex,20260526
+6446,19491.0,19494.0,yes,,,,brookie,20260526
+6448,19500.0,19503.0,no,Red Crossbill,high,Definitely Red Crossbill,brookie,20260522
+6452,19530.0,19533.0,yes,,,,sam,20260527
+6453,19548.0,19551.0,yes,,,,brookie,20260527
+6463,19605.0,19608.0,yes,,,,alex,20260525
+6466,19659.0,19662.0,yes,,,,sam,20260524
+6467,19662.0,19665.0,no,Violet-green Swallow,medium,Some background noise,casey,20260525
+6469,19680.0,19683.0,no,Rock Sparrow,low,,sam,20260526
+6472,19707.0,19710.0,no,Violet-green Swallow,medium,Dawn chorus interference,sam,20260523
+6473,19722.0,19725.0,yes,,,Uncertain - needs second review,alex,20260524
+6474,19758.0,19761.0,yes,,,,brookie,20260526
+6475,19761.0,19764.0,no,Violet-green Swallow,high,Call pattern doesn't match,brookie,20260525
+6477,19929.0,19932.0,yes,,,,jordan,20260525
+6478,19941.0,19944.0,yes,,,,brookie,20260523
+6481,19995.0,19998.0,no,Spotted Towhee,low,Distant call,alex,20260523
+6482,20013.0,20016.0,yes,,,Breeding season call,brookie,20260527
+6485,20082.0,20085.0,yes,,,Uncertain - needs second review,brookie,20260526
+6486,20106.0,20109.0,yes,,,Alarm call,brookie,20260522
+6487,20130.0,20133.0,no,Spotted Towhee,low,Some background noise,alex,20260523
+6488,20133.0,20136.0,yes,,,,casey,20260524
+6489,20142.0,20145.0,yes,,,Faint call,sam,20260524
+6490,20151.0,20154.0,no,Spotted Towhee,low,,sam,20260523
+6492,20163.0,20166.0,yes,,,,sam,20260526
+6493,20190.0,20193.0,yes,,,,brookie,20260526
+6502,20406.0,20409.0,yes,,,,brookie,20260526
+6503,20409.0,20412.0,yes,,,,casey,20260526
+6508,20496.0,20499.0,no,Violet-green Swallow,medium,,brookie,20260524
+6509,20514.0,20517.0,no,Violet-green Swallow,high,,jordan,20260524
+6513,20640.0,20643.0,yes,,,,brookie,20260522
+6514,20643.0,20646.0,yes,,,Typical call pattern,brookie,20260525
+6518,20682.0,20685.0,yes,,,Some background noise,sam,20260523
+6520,20688.0,20691.0,no,Violet-green Swallow,high,,jordan,20260527
+6521,20694.0,20697.0,no,Abert's Towhee,high,Definitely Abert's Towhee,sam,20260525
+6526,20781.0,20784.0,yes,,,Confirmed with visual,sam,20260524
+6528,20787.0,20790.0,no,Barn Owl,high,,jordan,20260526
+6530,20817.0,20820.0,yes,,,,jordan,20260524
+6533,20862.0,20865.0,no,Barn Owl,high,,jordan,20260527
+6535,20898.0,20901.0,yes,,,,sam,20260525
+6538,20910.0,20913.0,no,Violet-green Swallow,medium,,alex,20260525
+6545,21159.0,21162.0,yes,,,,brookie,20260527
+6546,21162.0,21165.0,no,Violet-green Swallow,low,Faint call,sam,20260525
+6547,21177.0,21180.0,yes,,,Flight call,alex,20260525
+6548,21183.0,21186.0,yes,,,Territorial song,sam,20260525
+6551,21252.0,21255.0,yes,,,,brookie,20260525
+6552,21255.0,21258.0,yes,,,,jordan,20260525
+6554,21291.0,21294.0,yes,,,,brookie,20260526
+6555,21324.0,21327.0,yes,,,,alex,20260525
+6560,21435.0,21438.0,no,Southern Wood Cricket,high,Call pattern doesn't match,jordan,20260527
+6565,21468.0,21471.0,yes,,,Territorial song,sam,20260527
+6569,21513.0,21516.0,yes,,,Breeding season call,sam,20260526
+6572,21564.0,21567.0,yes,,,,jordan,20260527
+6573,21567.0,21570.0,yes,,,,alex,20260523
+6578,21585.0,21588.0,yes,,,,casey,20260527
+6586,21711.0,21714.0,no,Barn Owl,medium,Possibly Barn Owl,jordan,20260523
+6587,21714.0,21717.0,no,Barn Owl,medium,,jordan,20260523
+6588,21729.0,21732.0,yes,,,,alex,20260525
+6589,21735.0,21738.0,no,White-fringed Antwren,medium,Partially obscured by wind,sam,20260523
+6592,21801.0,21804.0,no,Violet-green Swallow,low,Partially obscured by wind,brookie,20260524
+6594,21816.0,21819.0,yes,,,,brookie,20260524
+6595,21825.0,21828.0,no,Violet-green Swallow,high,,alex,20260525
+6599,21885.0,21888.0,no,Bachman's Sparrow,high,,jordan,20260526
+6600,21897.0,21900.0,yes,,,,jordan,20260522
+6603,21906.0,21909.0,yes,,,,brookie,20260524
+6607,21921.0,21924.0,yes,,,Alarm call,casey,20260525
+6608,21930.0,21933.0,yes,,,,sam,20260527
+6611,21978.0,21981.0,yes,,,Contact call,sam,20260525
+6612,21981.0,21984.0,yes,,,,jordan,20260527
+6614,22035.0,22038.0,yes,,,,sam,20260526
+6615,22065.0,22068.0,yes,,,,brookie,20260523
+6626,22248.0,22251.0,yes,,,,jordan,20260527
+6627,22254.0,22257.0,yes,,,Juvenile begging calls,brookie,20260525
+6633,22293.0,22296.0,yes,,,Flight call,alex,20260523
+6634,22296.0,22299.0,no,Fireworks,low,Partially obscured by wind,sam,20260523
+6637,22308.0,22311.0,no,Rook,high,Frequency range incorrect,brookie,20260523
+6638,22326.0,22329.0,no,Collared Towhee,low,,alex,20260523
+6641,22356.0,22359.0,yes,,,Territorial song,alex,20260526
+6642,22359.0,22362.0,no,Bell's Vireo,high,,brookie,20260522
+6646,22479.0,22482.0,yes,,,,sam,20260524
+6651,22566.0,22569.0,yes,,,,sam,20260523
+6659,22779.0,22782.0,no,Corn Crake,high,,brookie,20260522
+6660,22800.0,22803.0,yes,,,,jordan,20260522
+6662,22950.0,22953.0,no,Common Nightingale,low,Distant call,casey,20260525
+6665,23007.0,23010.0,yes,,,,brookie,20260527
+6666,23112.0,23115.0,yes,,,,sam,20260527
+6670,23124.0,23127.0,yes,,,Confirmed with visual,sam,20260527
+6674,23139.0,23142.0,yes,,,Uncertain - needs second review,brookie,20260525
+6676,23145.0,23148.0,yes,,,,jordan,20260523
+6677,23148.0,23151.0,yes,,,,sam,20260525
+6680,23157.0,23160.0,yes,,,Alarm call,alex,20260527
+6683,23169.0,23172.0,yes,,,Confirmed with visual,brookie,20260525
+6685,23178.0,23181.0,yes,,,Faint call,brookie,20260526
+6688,23193.0,23196.0,yes,,,,brookie,20260525
+6691,23199.0,23202.0,yes,,,,jordan,20260525
+6692,23205.0,23208.0,yes,,,,jordan,20260525
+6708,23373.0,23376.0,no,Chestnut-bellied Thrush,low,,alex,20260525
+6712,23985.0,23988.0,yes,,,Dawn chorus interference,alex,20260523
+6725,24897.0,24900.0,no,Black Antbird,high,Different species entirely,alex,20260523
+6727,24918.0,24921.0,yes,,,Breeding season call,alex,20260525
+6730,24939.0,24942.0,yes,,,Dawn chorus interference,alex,20260523
+6732,24966.0,24969.0,no,Akohekohe,low,Partially obscured by wind,sam,20260522
+6735,25383.0,25386.0,no,Lesser Spotted Woodpecker,low,,alex,20260526
+6737,25407.0,25410.0,no,Wild Turkey,high,Clear misidentification,jordan,20260523
+6738,25416.0,25419.0,no,Gila Woodpecker,high,Likely mechanical noise,brookie,20260525
+6740,25446.0,25449.0,no,Violet-green Swallow,medium,,alex,20260527
+6747,25728.0,25731.0,yes,,,Distant call,brookie,20260525
+6749,25845.0,25848.0,yes,,,,brookie,20260523
+6753,25920.0,25923.0,no,White-sided Flowerpiercer,low,Some background noise,casey,20260527
+6754,25941.0,25944.0,no,Lazuli Bunting,high,,alex,20260525
+6755,25971.0,25974.0,no,Great Bittern,high,,alex,20260523
+6756,26094.0,26097.0,yes,,,,alex,20260525
+6757,26145.0,26148.0,no,Chipping Sparrow,high,Wrong habitat for species,brookie,20260523
+6758,26154.0,26157.0,yes,,,,jordan,20260525
+6759,26199.0,26202.0,no,Common House-Martin,high,,brookie,20260527
+6760,26238.0,26241.0,yes,,,,alex,20260527
+6761,26241.0,26244.0,no,Black Phoebe,medium,Multiple species present,casey,20260527
+6763,26250.0,26253.0,yes,,,,sam,20260525
+6765,26460.0,26463.0,no,Northern Beardless-Tyrannulet,high,Frequency range incorrect,brookie,20260524
+6766,26559.0,26562.0,no,Akohekohe,high,,brookie,20260523
+6767,26562.0,26565.0,yes,,,Alarm call,casey,20260526
+6769,26652.0,26655.0,no,Violet-green Swallow,high,Different species entirely,brookie,20260527
+6771,26667.0,26670.0,yes,,,,brookie,20260523
+6774,26775.0,26778.0,no,Hazel Grouse,medium,Multiple species present,alex,20260522
+6775,26784.0,26787.0,yes,,,,jordan,20260523
+6781,27174.0,27177.0,yes,,,,alex,20260526
+6782,27438.0,27441.0,yes,,,Breeding season call,sam,20260526
+6787,27582.0,27585.0,no,Clicker Round-winged Katydid,medium,,alex,20260527
+6789,27696.0,27699.0,yes,,,Confirmed with visual,brookie,20260526
+6792,27834.0,27837.0,yes,,,,alex,20260527
+6795,27930.0,27933.0,yes,,,,sam,20260527
+6797,27954.0,27957.0,yes,,,,jordan,20260525
+6799,28266.0,28269.0,no,Spotted Towhee,medium,Distant call,sam,20260526
+6808,28560.0,28563.0,yes,,,Clear recording,casey,20260522
+6811,29142.0,29145.0,yes,,,,jordan,20260522
+6813,29154.0,29157.0,no,Clark's Nutcracker,high,,sam,20260524
+6819,29316.0,29319.0,yes,,,Partially obscured by wind,brookie,20260525
+6823,29382.0,29385.0,yes,,,,jordan,20260527
+6826,29493.0,29496.0,yes,,,,sam,20260527
+6828,29550.0,29553.0,yes,,,,casey,20260523
+6829,29574.0,29577.0,yes,,,,jordan,20260526
+6831,29673.0,29676.0,yes,,,Breeding season call,brookie,20260526
+6835,29769.0,29772.0,no,White-backed Woodpecker,high,Definitely White-backed Woodpecker,brookie,20260523
+6837,29775.0,29778.0,no,Collared Towhee,high,,alex,20260523
+6838,29799.0,29802.0,yes,,,Confirmed with visual,sam,20260527
+6841,29865.0,29868.0,yes,,,Uncertain - needs second review,brookie,20260525
+6843,29892.0,29895.0,no,Wrentit,medium,Uncertain - needs second review,brookie,20260526
+6846,29916.0,29919.0,no,Vesper Sparrow,medium,Distant call,brookie,20260525
+6849,30036.0,30039.0,yes,,,,jordan,20260522
+6860,30228.0,30231.0,yes,,,Typical call pattern,brookie,20260522
+6861,30249.0,30252.0,no,California Towhee,high,,jordan,20260523
+6865,30384.0,30387.0,no,Barn Owl,high,Likely mechanical noise,brookie,20260527
+6868,30414.0,30417.0,no,Barn Owl,high,,jordan,20260522
+6869,30525.0,30528.0,yes,,,Juvenile begging calls,sam,20260526
+6872,30651.0,30654.0,no,Chopi Blackbird,high,,jordan,20260527
+6876,30795.0,30798.0,yes,,,,alex,20260527
+6877,30801.0,30804.0,no,Gila Woodpecker,medium,Possibly Gila Woodpecker,brookie,20260526
+6878,30804.0,30807.0,yes,,,,jordan,20260525
+6880,30819.0,30822.0,yes,,,,sam,20260523
+6881,30822.0,30825.0,yes,,,,brookie,20260526
+6883,30831.0,30834.0,yes,,,Breeding season call,casey,20260526
+6885,30840.0,30843.0,yes,,,Alarm call,sam,20260523
+6887,30858.0,30861.0,yes,,,,alex,20260522
+6888,30861.0,30864.0,yes,,,,sam,20260526
+6891,30915.0,30918.0,yes,,,,brookie,20260524
+6892,30951.0,30954.0,yes,,,,brookie,20260524
+6903,31158.0,31161.0,yes,,,,alex,20260523
+6904,31161.0,31164.0,yes,,,Good example,sam,20260526
+6905,31164.0,31167.0,yes,,,,sam,20260526
+6906,31167.0,31170.0,yes,,,,alex,20260522
+6908,31173.0,31176.0,yes,,,,jordan,20260523
+6911,31191.0,31194.0,yes,,,Territorial song,sam,20260525
+6916,31215.0,31218.0,yes,,,,casey,20260526
+6922,31359.0,31362.0,yes,,,Territorial song,brookie,20260522
+6926,31419.0,31422.0,yes,,,Confirmed with visual,brookie,20260523
+6929,31656.0,31659.0,no,Northern Mockingbird,medium,Partially obscured by wind,sam,20260523
+6932,32097.0,32100.0,yes,,,,brookie,20260527
+6933,32166.0,32169.0,no,Eurasian Thick-knee,high,Call pattern doesn't match,sam,20260522
+6936,32259.0,32262.0,no,Song Thrush,medium,Possibly Song Thrush,casey,20260524
+6937,32262.0,32265.0,no,Violet-green Swallow,high,Clear misidentification,brookie,20260527
+6938,32265.0,32268.0,no,Barn Owl,high,,brookie,20260525
+6940,32298.0,32301.0,no,Violet-green Swallow,medium,Multiple species present,brookie,20260523
+6944,32310.0,32313.0,no,Barn Owl,medium,,brookie,20260523
+6945,32313.0,32316.0,no,Lesser Spotted Woodpecker,high,Frequency range incorrect,sam,20260527
+6946,32316.0,32319.0,no,Barn Owl,low,,sam,20260524
+6947,32319.0,32322.0,yes,,,,sam,20260525
+6949,32337.0,32340.0,no,Yellow-breasted Chat,high,Call pattern doesn't match,alex,20260527
+6954,9054.0,9057.0,yes,,,,alex,20260527
+6955,9057.0,9060.0,no,Chopi Blackbird,high,,brookie,20260526
+6956,9090.0,9093.0,yes,,,Clear recording,brookie,20260524
+6957,10368.0,10371.0,yes,,,Breeding season call,casey,20260523
+6958,10371.0,10374.0,yes,,,,jordan,20260526
+6959,10659.0,10662.0,yes,,,,jordan,20260527
+6960,10662.0,10665.0,no,Rufous Scrub-bird,low,,alex,20260524
+6968,10830.0,10833.0,no,Southern Wood Cricket,high,Call pattern doesn't match,sam,20260524
+6969,15234.0,15237.0,yes,,,,sam,20260527
+6970,15543.0,15546.0,no,Gray Flycatcher,high,Call pattern doesn't match,sam,20260524
+6971,16017.0,16020.0,yes,,,,brookie,20260527
+6973,18246.0,18249.0,no,Flammulated Owl,high,,sam,20260523
+6974,18777.0,18780.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260523
+6977,18816.0,18819.0,yes,,,Juvenile begging calls,alex,20260525
+6979,18870.0,18873.0,no,Gray Flycatcher,high,,jordan,20260525
+6982,18915.0,18918.0,yes,,,Confirmed with visual,brookie,20260524
+6984,18948.0,18951.0,yes,,,,casey,20260526
+6986,18963.0,18966.0,no,Gray Flycatcher,high,,jordan,20260524
+6989,18999.0,19002.0,yes,,,Breeding season call,alex,20260527
+6994,19053.0,19056.0,no,Gray Flycatcher,high,Likely mechanical noise,brookie,20260524
+6998,19137.0,19140.0,no,Mountain Bamboo-Partridge,medium,,alex,20260524
+6999,19158.0,19161.0,no,Lazuli Bunting,medium,Faint call,casey,20260523
+7000,19185.0,19188.0,yes,,,Territorial song,jordan,20260527
+7002,19203.0,19206.0,yes,,,,alex,20260525
+7004,19227.0,19230.0,yes,,,Territorial song,sam,20260523
+7007,19293.0,19296.0,no,Hermit Warbler,medium,,casey,20260524
+7011,19341.0,19344.0,no,Common Yellowthroat,medium,,alex,20260523
+7013,19356.0,19359.0,no,Goeldi's Antbird,medium,Partially obscured by wind,casey,20260523
+7014,19377.0,19380.0,yes,,,,brookie,20260526
+7018,19407.0,19410.0,yes,,,,casey,20260527
+7021,19464.0,19467.0,yes,,,,brookie,20260523
+7022,19464.0,19467.0,yes,,,Partially obscured by wind,alex,20260527
+7023,19476.0,19479.0,yes,,,Multiple species present,brookie,20260525
+7024,19479.0,19482.0,yes,,,Breeding season call,alex,20260524
+7025,19491.0,19494.0,no,Violet-green Swallow,high,Definitely Violet-green Swallow,sam,20260523
+7028,19518.0,19521.0,no,Eurasian Collared-Dove,low,,sam,20260522
+7033,19530.0,19533.0,no,Cordilleran Flycatcher,low,Multiple species present,sam,20260522
+7034,19545.0,19548.0,yes,,,,alex,20260525
+7037,19569.0,19572.0,no,Gray Flycatcher,high,Call pattern doesn't match,sam,20260526
+7042,19641.0,19644.0,yes,,,Clear recording,brookie,20260527
+7047,19674.0,19677.0,yes,,,Contact call,sam,20260526
+7050,19698.0,19701.0,yes,,,Dawn chorus interference,brookie,20260527
+7051,19707.0,19710.0,yes,,,Strong vocalization,alex,20260526
+7052,19713.0,19716.0,yes,,,,sam,20260524
+7053,19731.0,19734.0,no,Gray Flycatcher,low,Some background noise,jordan,20260522
+7054,19734.0,19737.0,yes,,,,jordan,20260527
+7056,19740.0,19743.0,yes,,,,jordan,20260523
+7059,19761.0,19764.0,yes,,,Contact call,jordan,20260524
+7061,19770.0,19773.0,no,Gray Flycatcher,low,Dawn chorus interference,sam,20260524
+7062,19782.0,19785.0,no,Gray Flycatcher,medium,,alex,20260523
+7064,19788.0,19791.0,no,Gray Flycatcher,high,,jordan,20260525
+7065,19800.0,19803.0,yes,,,Dawn chorus interference,brookie,20260524
+7066,19803.0,19806.0,yes,,,Faint call,alex,20260523
+7067,19806.0,19809.0,yes,,,Some background noise,sam,20260526
+7068,19827.0,19830.0,no,Oriental Greenfinch,high,,jordan,20260527
+7069,19836.0,19839.0,no,Gray Flycatcher,medium,,alex,20260523
+7072,19848.0,19851.0,no,Cordilleran Flycatcher,high,,jordan,20260523
+7073,19851.0,19854.0,yes,,,Good example,brookie,20260522
+7074,19857.0,19860.0,no,Cordilleran Flycatcher,medium,Some background noise,casey,20260527
+7075,19863.0,19866.0,no,Cordilleran Flycatcher,low,Faint call,sam,20260526
+7078,19887.0,19890.0,no,Cordilleran Flycatcher,high,,jordan,20260525
+7080,19914.0,19917.0,no,California Towhee,medium,Faint call,brookie,20260523
+7081,19917.0,19920.0,no,Cordilleran Flycatcher,high,,alex,20260523
+7084,19926.0,19929.0,no,Cordilleran Flycatcher,high,Call pattern doesn't match,sam,20260522
+7088,19980.0,19983.0,yes,,,Flight call,alex,20260525
+7090,20082.0,20085.0,no,Eastern Phoebe,medium,,jordan,20260527
+7091,20229.0,20232.0,yes,,,Confirmed with visual,jordan,20260525
+7099,21495.0,21498.0,yes,,,,jordan,20260522
+7100,21558.0,21561.0,no,Spotted Towhee,high,Definitely Spotted Towhee,brookie,20260522
+7103,21750.0,21753.0,yes,,,,alex,20260526
+7108,22086.0,22089.0,no,Little Bittern,high,,jordan,20260525
+7109,22107.0,22110.0,no,Song Thrush,high,Different species entirely,alex,20260526
+7111,22716.0,22719.0,yes,,,,jordan,20260525
+7114,22923.0,22926.0,no,Goeldi's Antbird,medium,Multiple species present,sam,20260526
+7115,23001.0,23004.0,no,Common Yellowthroat,low,Possibly Common Yellowthroat,casey,20260522
+7121,23301.0,23304.0,no,Song Thrush,low,,alex,20260527
+7122,23328.0,23331.0,yes,,,Juvenile begging calls,brookie,20260523
+7125,23406.0,23409.0,yes,,,Faint call,brookie,20260525
+7132,23805.0,23808.0,yes,,,,sam,20260525
+7137,24036.0,24039.0,no,Pacific Chorus Frog,medium,,alex,20260525
+7141,24174.0,24177.0,no,Song Thrush,medium,,jordan,20260522
+7142,24180.0,24183.0,yes,,,,alex,20260524
+7143,24195.0,24198.0,yes,,,Juvenile begging calls,casey,20260527
+7146,24219.0,24222.0,yes,,,,brookie,20260525
+7152,24321.0,24324.0,no,Rufous Scrub-bird,high,Likely mechanical noise,brookie,20260523
+7153,24330.0,24333.0,yes,,,,jordan,20260524
+7155,24375.0,24378.0,yes,,,,alex,20260525
+7163,24450.0,24453.0,no,Southern Wood Cricket,medium,Dawn chorus interference,sam,20260526
+7165,24519.0,24522.0,no,Black Phoebe,low,,jordan,20260523
+7166,24534.0,24537.0,yes,,,,sam,20260525
+7168,24588.0,24591.0,no,Fieldfare,medium,Dawn chorus interference,brookie,20260525
+7169,24651.0,24654.0,no,Song Thrush,low,Some background noise,casey,20260524
+7175,24720.0,24723.0,no,Song Thrush,high,Clear misidentification,sam,20260524
+7176,24744.0,24747.0,yes,,,,sam,20260523
+7177,24771.0,24774.0,no,White-crowned Sparrow,medium,Dawn chorus interference,sam,20260526
+7178,24774.0,24777.0,yes,,,,sam,20260524
+7179,24780.0,24783.0,no,Gray Flycatcher,medium,,brookie,20260522
+7180,24825.0,24828.0,yes,,,,sam,20260525
+7181,24831.0,24834.0,yes,,,Contact call,jordan,20260523
+7184,25047.0,25050.0,yes,,,,jordan,20260525
+7191,25509.0,25512.0,no,Gray Flycatcher,high,Frequency range incorrect,brookie,20260523
+7192,25545.0,25548.0,yes,,,,brookie,20260522
+7202,25959.0,25962.0,no,Song Thrush,high,,jordan,20260527
+7204,25998.0,26001.0,no,Eastern Bluebird,medium,Distant call,sam,20260527
+7213,26127.0,26130.0,no,Brown-headed Cowbird,medium,Dawn chorus interference,brookie,20260524
+7214,26130.0,26133.0,no,Spotted Towhee,low,Possibly Spotted Towhee,sam,20260523
+7217,26148.0,26151.0,no,Cordilleran Flycatcher,medium,Some background noise,casey,20260527
+7222,26589.0,26592.0,yes,,,,casey,20260527
+7224,26601.0,26604.0,yes,,,,jordan,20260527
+7227,26832.0,26835.0,yes,,,,brookie,20260523
+7233,26955.0,26958.0,yes,,,Juvenile begging calls,jordan,20260522
+7234,26961.0,26964.0,yes,,,Juvenile begging calls,sam,20260524
+7237,27000.0,27003.0,no,Spotted Towhee,high,,brookie,20260522
+7239,27186.0,27189.0,yes,,,,sam,20260522
+7245,28200.0,28203.0,no,Cordilleran Flycatcher,high,Different species entirely,brookie,20260526
+7248,28281.0,28284.0,yes,,,,brookie,20260526
+7249,28287.0,28290.0,yes,,,,jordan,20260527
+7253,28323.0,28326.0,no,Tree Swallow,high,Clear misidentification,brookie,20260523
+7254,28332.0,28335.0,no,Spotted Pardalote,low,Uncertain - needs second review,alex,20260524
+7256,28341.0,28344.0,yes,,,,sam,20260522
+7259,28404.0,28407.0,yes,,,,sam,20260525
+7260,28413.0,28416.0,yes,,,Strong vocalization,sam,20260526
+7262,28419.0,28422.0,yes,,,,alex,20260522
+7263,28431.0,28434.0,yes,,,,jordan,20260526
+7265,28458.0,28461.0,no,Bearded Bellbird,low,Partially obscured by wind,sam,20260524
+7266,28461.0,28464.0,yes,,,,brookie,20260524
+7268,28467.0,28470.0,yes,,,,alex,20260526
+7271,28485.0,28488.0,yes,,,Flight call,brookie,20260525
+7272,28503.0,28506.0,yes,,,,alex,20260524
+7275,28536.0,28539.0,yes,,,,jordan,20260525
+7278,28560.0,28563.0,no,Black-throated Gray Warbler,low,Multiple species present,casey,20260522
+7279,28575.0,28578.0,no,Southern Wood Cricket,medium,,sam,20260526
+7288,28626.0,28629.0,no,Western Screech-Owl,medium,Dawn chorus interference,casey,20260526
+7289,28632.0,28635.0,yes,,,,alex,20260524
+7290,28635.0,28638.0,yes,,,,brookie,20260524
+7291,28644.0,28647.0,yes,,,,brookie,20260522
+7300,29094.0,29097.0,yes,,,Juvenile begging calls,brookie,20260526
+7305,29370.0,29373.0,yes,,,Contact call,casey,20260526
+7308,29559.0,29562.0,yes,,,Breeding season call,sam,20260526
+7309,29562.0,29565.0,yes,,,Faint call,sam,20260525
+7314,30186.0,30189.0,yes,,,,jordan,20260525
+7318,30483.0,30486.0,yes,,,Faint call,sam,20260522
+7320,30579.0,30582.0,no,Cordilleran Flycatcher,medium,Multiple species present,brookie,20260525
+7322,30627.0,30630.0,yes,,,Contact call,alex,20260526
+7326,30723.0,30726.0,yes,,,,alex,20260524
+7331,31188.0,31191.0,no,Tawny Frogmouth,medium,Multiple species present,brookie,20260526
+7332,31263.0,31266.0,no,Common Chiffchaff,low,,jordan,20260524
+7334,31302.0,31305.0,no,Downy Woodpecker,high,,alex,20260523
+7336,31326.0,31329.0,yes,,,,alex,20260524
+7339,31368.0,31371.0,no,Spotted Towhee,medium,Faint call,casey,20260524
+7346,31545.0,31548.0,no,Chestnut-backed Antbird,medium,Possibly Chestnut-backed Antbird,casey,20260525
+7347,31596.0,31599.0,no,Spotted Towhee,high,,jordan,20260523
+7349,31611.0,31614.0,yes,,,,sam,20260526
+7352,31665.0,31668.0,no,Spotted Towhee,low,,jordan,20260522
+7354,31701.0,31704.0,no,Clay-colored Sparrow,high,,jordan,20260522
+7356,31716.0,31719.0,no,Northern Mockingbird,high,Call pattern doesn't match,casey,20260527
+7359,31836.0,31839.0,yes,,,,alex,20260523
+7360,31857.0,31860.0,yes,,,Juvenile begging calls,alex,20260523
+7361,31881.0,31884.0,no,Song Thrush,high,Definitely Song Thrush,brookie,20260527
+7362,31884.0,31887.0,yes,,,,jordan,20260523
+7365,32370.0,32373.0,yes,,,Contact call,brookie,20260527
+7368,1668.0,1671.0,yes,,,Breeding season call,casey,20260524
+7369,2358.0,2361.0,yes,,,,brookie,20260527
+7370,2451.0,2454.0,yes,,,,alex,20260526
+7371,2454.0,2457.0,yes,,,,alex,20260526
+7373,6540.0,6543.0,yes,,,,alex,20260524
+7381,16227.0,16230.0,no,Chestnut-backed Chickadee,high,Call pattern doesn't match,sam,20260526
+7382,16368.0,16371.0,yes,,,,alex,20260522
+7383,16509.0,16512.0,no,White-sided Flowerpiercer,low,Some background noise,casey,20260524
+7388,17472.0,17475.0,yes,,,,jordan,20260524
+7389,17493.0,17496.0,no,Cordilleran Flycatcher,low,Possibly Cordilleran Flycatcher,brookie,20260523
+7392,17523.0,17526.0,yes,,,Some background noise,sam,20260527
+7393,17532.0,17535.0,no,Eurasian Oystercatcher,high,,jordan,20260524
+7395,17550.0,17553.0,yes,,,,jordan,20260524
+7399,17610.0,17613.0,no,Red-faced Warbler,high,Frequency range incorrect,brookie,20260523
+7400,17613.0,17616.0,no,Great Tit,low,Some background noise,casey,20260522
+7402,17619.0,17622.0,no,Wrentit,low,,brookie,20260524
+7403,17634.0,17637.0,no,Northern Cardinal,low,Not sure but likely wrong,sam,20260526
+7405,17646.0,17649.0,yes,,,Flight call,sam,20260522
+7406,17649.0,17652.0,yes,,,,sam,20260524
+7409,17664.0,17667.0,yes,,,,alex,20260525
+7410,17676.0,17679.0,yes,,,Breeding season call,casey,20260527
+7411,17685.0,17688.0,no,Dark-eyed Junco,medium,,brookie,20260525
+7412,17697.0,17700.0,yes,,,,sam,20260527
+7414,17733.0,17736.0,yes,,,,brookie,20260522
+7417,17742.0,17745.0,yes,,,Typical call pattern,sam,20260527
+7420,17751.0,17754.0,no,Lark Sparrow,high,,brookie,20260522
+7421,17760.0,17763.0,no,Barn Owl,medium,Partially obscured by wind,alex,20260522
+7422,17763.0,17766.0,yes,,,Uncertain - needs second review,brookie,20260525
+7423,17763.0,17766.0,yes,,,Flight call,brookie,20260526
+7426,17781.0,17784.0,yes,,,,jordan,20260523
+7430,17817.0,17820.0,yes,,,Typical call pattern,brookie,20260524
+7438,17916.0,17919.0,yes,,,,sam,20260527
+7441,17943.0,17946.0,no,Western Screech-Owl,high,,brookie,20260522
+7444,17964.0,17967.0,no,Downy Woodpecker,medium,,sam,20260525
+7449,18012.0,18015.0,yes,,,Breeding season call,alex,20260522
+7452,18042.0,18045.0,yes,,,,sam,20260523
+7455,18048.0,18051.0,no,Bachman's Sparrow,high,Call pattern doesn't match,brookie,20260526
+7459,18072.0,18075.0,no,Lazuli Bunting,medium,Multiple species present,casey,20260524
+7461,18129.0,18132.0,no,Spotted Towhee,high,,jordan,20260527
+7462,18156.0,18159.0,yes,,,,jordan,20260525
+7463,18165.0,18168.0,no,Chestnut-bellied Thrush,medium,Partially obscured by wind,alex,20260523
+7464,18168.0,18171.0,no,Clicker Round-winged Katydid,medium,,sam,20260526
+7469,18222.0,18225.0,no,Brown-backed Solitaire,high,,brookie,20260522
+7470,18240.0,18243.0,no,Olive-crowned Crescentchest,high,,jordan,20260523
+7476,18366.0,18369.0,yes,,,,alex,20260526
+7477,18372.0,18375.0,yes,,,,alex,20260526
+7479,18384.0,18387.0,yes,,,,jordan,20260525
+7480,18396.0,18399.0,no,Western Tanager,medium,Dawn chorus interference,casey,20260522
+7484,18414.0,18417.0,yes,,,,alex,20260522
+7489,18459.0,18462.0,yes,,,,alex,20260522
+7491,18492.0,18495.0,yes,,,Some background noise,alex,20260526
+7493,18501.0,18504.0,no,Clay-colored Sparrow,low,Multiple species present,casey,20260525
+7494,18501.0,18504.0,yes,,,,alex,20260524
+7496,18525.0,18528.0,no,Lesser Spotted Woodpecker,high,Different species entirely,alex,20260522
+7497,18531.0,18534.0,no,California Towhee,medium,Uncertain - needs second review,brookie,20260524
+7498,18534.0,18537.0,yes,,,,sam,20260522
+7502,18585.0,18588.0,yes,,,,alex,20260527
+7503,18606.0,18609.0,no,Brown-headed Cowbird,high,,alex,20260523
+7505,18657.0,18660.0,yes,,,Partially obscured by wind,sam,20260525
+7507,18666.0,18669.0,no,Wrentit,high,,jordan,20260527
+7508,18675.0,18678.0,no,Flammulated Owl,medium,Partially obscured by wind,alex,20260522
+7509,18684.0,18687.0,yes,,,,sam,20260527
+7510,18690.0,18693.0,yes,,,Territorial song,brookie,20260527
+7513,18714.0,18717.0,no,Woodhouse's Scrub-Jay,low,Possibly Woodhouse's Scrub-Jay,sam,20260522
+7515,18723.0,18726.0,yes,,,,jordan,20260527
+7518,18738.0,18741.0,no,Gray Vireo,medium,Dawn chorus interference,alex,20260526
+7525,18789.0,18792.0,yes,,,Breeding season call,alex,20260523
+7531,18843.0,18846.0,no,Collared Flycatcher,medium,Some background noise,casey,20260527
+7533,18852.0,18855.0,yes,,,Territorial song,casey,20260525
+7538,18909.0,18912.0,yes,,,,brookie,20260523
+7539,18915.0,18918.0,yes,,,Alarm call,brookie,20260524
+7541,18924.0,18927.0,no,Warbling Vireo,high,Different species entirely,alex,20260522
+7542,18927.0,18930.0,yes,,,,brookie,20260526
+7543,18936.0,18939.0,yes,,,Good example,alex,20260525
+7555,19026.0,19029.0,no,Striped Cuckoo,low,,alex,20260526
+7559,19050.0,19053.0,yes,,,Juvenile begging calls,sam,20260527
+7561,19065.0,19068.0,no,Common Virtuoso Katydid,low,Some background noise,casey,20260525
+7571,19134.0,19137.0,no,Common Yellowthroat,low,Faint call,sam,20260527
+7572,19140.0,19143.0,yes,,,,jordan,20260526
+7578,19185.0,19188.0,no,Bushtit,high,,brookie,20260523
+7581,19218.0,19221.0,yes,,,,sam,20260524
+7585,19251.0,19254.0,yes,,,,jordan,20260527
+7593,19305.0,19308.0,yes,,,Faint call,brookie,20260526
+7596,19320.0,19323.0,yes,,,,jordan,20260522
+7597,19323.0,19326.0,yes,,,Contact call,casey,20260524
+7601,19341.0,19344.0,no,Common Raven,high,,jordan,20260524
+7605,19374.0,19377.0,yes,,,,jordan,20260526
+7608,19521.0,19524.0,yes,,,,brookie,20260526
+7609,19602.0,19605.0,yes,,,,jordan,20260527
+7613,19794.0,19797.0,no,Eurasian Woodcock,high,Call pattern doesn't match,brookie,20260523
+7616,19806.0,19809.0,yes,,,Good example,sam,20260526
+7617,19815.0,19818.0,yes,,,,brookie,20260526
+7622,19860.0,19863.0,yes,,,,sam,20260525
+7625,19878.0,19881.0,yes,,,Juvenile begging calls,alex,20260524
+7626,19887.0,19890.0,yes,,,Distant call,alex,20260526
+7630,19908.0,19911.0,yes,,,Breeding season call,alex,20260527
+7631,19917.0,19920.0,no,Black-throated Gray Warbler,high,,brookie,20260526
+7632,19920.0,19923.0,no,Hepatic Tanager,low,Distant call,sam,20260522
+7634,19947.0,19950.0,yes,,,,casey,20260525
+7640,19968.0,19971.0,no,White-fringed Antwren,medium,Faint call,sam,20260526
+7641,19971.0,19974.0,yes,,,Juvenile begging calls,sam,20260524
+7643,19983.0,19986.0,yes,,,,jordan,20260524
+7644,19992.0,19995.0,yes,,,,jordan,20260523
+7648,20019.0,20022.0,yes,,,Dawn chorus interference,casey,20260524
+7649,20019.0,20022.0,no,Broad-winged Hawk,medium,Some background noise,jordan,20260522
+7651,20025.0,20028.0,yes,,,,jordan,20260523
+7654,20040.0,20043.0,yes,,,,casey,20260527
+7656,20046.0,20049.0,no,Nelson's Sparrow,medium,Not sure but likely wrong,brookie,20260524
+7662,20115.0,20118.0,no,Bewick's Wren,high,,alex,20260524
+7671,20202.0,20205.0,yes,,,,brookie,20260522
+7672,20205.0,20208.0,yes,,,,jordan,20260524
+7673,20220.0,20223.0,yes,,,,jordan,20260522
+7674,20229.0,20232.0,yes,,,,casey,20260524
+7679,20265.0,20268.0,yes,,,,brookie,20260525
+7682,20283.0,20286.0,yes,,,,alex,20260527
+7685,20292.0,20295.0,yes,,,,jordan,20260523
+7690,20313.0,20316.0,no,Barn Owl,medium,Partially obscured by wind,alex,20260527
+7694,20340.0,20343.0,no,Small Buttonquail,high,Different species entirely,sam,20260524
+7695,20346.0,20349.0,yes,,,,jordan,20260524
+7696,20349.0,20352.0,yes,,,,casey,20260527
+7698,20355.0,20358.0,yes,,,,brookie,20260524
+7703,20370.0,20373.0,yes,,,Strong vocalization,jordan,20260525
+7711,20409.0,20412.0,no,Nelson's Sparrow,high,Definitely Nelson's Sparrow,brookie,20260525
+7712,20427.0,20430.0,yes,,,Breeding season call,brookie,20260524
+7713,20430.0,20433.0,no,Vesper Sparrow,high,,brookie,20260522
+7718,20445.0,20448.0,yes,,,,alex,20260527
+7720,20451.0,20454.0,yes,,,,brookie,20260524
+7724,20472.0,20475.0,yes,,,,brookie,20260523
+7726,20670.0,20673.0,yes,,,,sam,20260524
+7728,20760.0,20763.0,yes,,,Uncertain - needs second review,sam,20260524
+7729,20775.0,20778.0,yes,,,Contact call,sam,20260526
+7732,20991.0,20994.0,no,Bearded Bellbird,medium,,brookie,20260526
+7735,21057.0,21060.0,yes,,,,alex,20260526
+7739,21150.0,21153.0,yes,,,,brookie,20260526
+7740,21159.0,21162.0,yes,,,,jordan,20260523
+7743,21198.0,21201.0,yes,,,,brookie,20260525
+7744,21261.0,21264.0,yes,,,Breeding season call,brookie,20260527
+7747,21309.0,21312.0,yes,,,Distant call,brookie,20260523
+7762,21498.0,21501.0,no,Canyon Towhee,medium,Multiple species present,sam,20260524
+7763,21513.0,21516.0,yes,,,Multiple species present,alex,20260524
+7764,21519.0,21522.0,yes,,,Flight call,sam,20260524
+7765,21531.0,21534.0,yes,,,,jordan,20260523
+7769,21552.0,21555.0,yes,,,Flight call,brookie,20260522
+7770,21555.0,21558.0,yes,,,,jordan,20260524
+7774,21594.0,21597.0,yes,,,,alex,20260526
+7775,21597.0,21600.0,yes,,,,brookie,20260526
+7779,21618.0,21621.0,yes,,,,jordan,20260525
+7780,21621.0,21624.0,yes,,,,brookie,20260527
+7785,21654.0,21657.0,yes,,,Juvenile begging calls,alex,20260526
+7789,21693.0,21696.0,yes,,,Alarm call,casey,20260527
+7795,21744.0,21747.0,yes,,,,sam,20260524
+7800,21768.0,21771.0,yes,,,Clear recording,brookie,20260526
+7802,21777.0,21780.0,yes,,,,jordan,20260525
+7811,21813.0,21816.0,yes,,,,brookie,20260522
+7813,21846.0,21849.0,yes,,,Clear recording,brookie,20260522
+7817,21867.0,21870.0,yes,,,,alex,20260527
+7819,21873.0,21876.0,yes,,,,brookie,20260523
+7827,21927.0,21930.0,yes,,,Contact call,casey,20260523
+7833,21966.0,21969.0,no,Common Virtuoso Katydid,high,,brookie,20260526
+7835,21984.0,21987.0,yes,,,,alex,20260525
+7838,21993.0,21996.0,yes,,,,alex,20260527
+7845,22227.0,22230.0,yes,,,Strong vocalization,sam,20260526
+7846,22518.0,22521.0,yes,,,Breeding season call,sam,20260522
+7848,22785.0,22788.0,yes,,,Alarm call,jordan,20260525
+7849,22917.0,22920.0,yes,,,Alarm call,casey,20260523
+7850,23490.0,23493.0,yes,,,,alex,20260527
+7853,24009.0,24012.0,yes,,,,jordan,20260522
+7858,24561.0,24564.0,no,Eurasian Siskin,medium,Some background noise,casey,20260527
+7863,24789.0,24792.0,yes,,,,brookie,20260527
+7865,24993.0,24996.0,yes,,,,alex,20260522
+7866,25041.0,25044.0,no,Baltimore Oriole,medium,,sam,20260525
+7873,26277.0,26280.0,no,Rock Wren,medium,,jordan,20260526
+7874,26304.0,26307.0,no,Olive-crowned Crescentchest,medium,,alex,20260523
+7886,27246.0,27249.0,no,Northern Beardless-Tyrannulet,low,Possibly Northern Beardless-Tyrannulet,brookie,20260527
+7888,27351.0,27354.0,no,Eurasian Crag-Martin,high,,sam,20260525
+7889,27354.0,27357.0,no,Collared Towhee,low,Dawn chorus interference,casey,20260523
+7890,27366.0,27369.0,no,Chestnut-bellied Thrush,medium,,alex,20260527
+7894,27438.0,27441.0,yes,,,Dawn chorus interference,sam,20260525
+7897,27507.0,27510.0,no,Gray Flycatcher,low,Not sure but likely wrong,casey,20260522
+7900,27888.0,27891.0,yes,,,,sam,20260526
+7905,27903.0,27906.0,yes,,,Alarm call,alex,20260522
+7906,27906.0,27909.0,no,Cedar Waxwing,medium,Dawn chorus interference,brookie,20260523
+7909,27939.0,27942.0,yes,,,Breeding season call,alex,20260523
+7911,27945.0,27948.0,no,Common Nightingale,medium,,sam,20260525
+7920,27996.0,27999.0,yes,,,,casey,20260522
+7924,28146.0,28149.0,yes,,,Flight call,casey,20260523
+7926,28356.0,28359.0,yes,,,,jordan,20260525
+7929,28461.0,28464.0,no,Gray Flycatcher,high,,alex,20260522
+7930,28704.0,28707.0,yes,,,,brookie,20260527
+7931,28764.0,28767.0,yes,,,Typical call pattern,brookie,20260527
+7932,28821.0,28824.0,no,Marbled Murrelet,medium,Distant call,brookie,20260522
+7935,29310.0,29313.0,yes,,,,sam,20260527
+7938,29616.0,29619.0,no,Anna's Hummingbird,high,,jordan,20260526
+7942,29658.0,29661.0,yes,,,,jordan,20260523
+7943,29736.0,29739.0,yes,,,,alex,20260525
+7953,30261.0,30264.0,yes,,,,sam,20260526
+7955,30330.0,30333.0,no,Pinyon Jay,medium,Some background noise,sam,20260525
+7956,30396.0,30399.0,yes,,,Alarm call,brookie,20260523
+7958,30462.0,30465.0,yes,,,,sam,20260523
+7959,30495.0,30498.0,yes,,,,alex,20260527
+7960,30639.0,30642.0,yes,,,Territorial song,casey,20260524
+7964,30675.0,30678.0,yes,,,,sam,20260523
+7965,30678.0,30681.0,yes,,,,jordan,20260524
+7966,30684.0,30687.0,no,Black-headed Grosbeak,high,Clear misidentification,brookie,20260524
+7968,31263.0,31266.0,yes,,,,jordan,20260526
+7969,31578.0,31581.0,yes,,,Partially obscured by wind,brookie,20260527
+7973,31734.0,31737.0,yes,,,Flight call,brookie,20260523
+7974,32016.0,32019.0,no,White-browed Antpitta,high,Different species entirely,brookie,20260522
+7978,32049.0,32052.0,yes,,,,casey,20260522
+7982,32220.0,32223.0,yes,,,,alex,20260523
+7988,32331.0,32334.0,no,Brown-backed Solitaire,high,Call pattern doesn't match,brookie,20260524
+168,,,yes,,,,brookie,20260413
+21,,,yes,,,strange sounds,brookie,20260413
+98,,,yes,,,,brookie,20260413

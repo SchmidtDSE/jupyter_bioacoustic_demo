@@ -1,0 +1,97 @@
+species,detection_id,start_time,end_time,min_frequency,max_frequency,annotator_name,annotate_date
+White-backed Woodpecker,0,4.51,5.85,199.5,6030.1,brookie,20260524
+Handsome Meadow Katydid,1,7.04,8.16,,,brookie,20260524
+Black-headed Grosbeak,2,7.11,8.63,,,brookie,20260527
+Common Poorwill,3,12.46,14.85,35.4,3428.0,brookie,20260527
+Eurasian Woodcock,4,118.08,119.75,288.1,3458.0,brookie,20260525
+Black-headed Grosbeak,5,249.38,250.54,,,brookie,20260525
+Black-headed Grosbeak,6,253.73,254.74,323.1,2363.7,brookie,20260527
+Black-headed Grosbeak,11,276.37,278.12,37.7,6848.1,brookie,20260526
+Black-headed Grosbeak,12,280.3,281.68,,,brookie,20260522
+Lesser Spotted Woodpecker,15,306.33,308.14,,,brookie,20260525
+Rock Wren,17,315.76,317.98,,,brookie,20260525
+Black-headed Grosbeak,18,319.39,320.84,330.9,4920.0,brookie,20260523
+Handsome Meadow Katydid,20,427.94,428.97,374.0,2343.0,brookie,20260526
+Common Virtuoso Katydid,22,460.84,461.92,,,brookie,20260526
+Wrentit,25,621.37,623.34,117.6,2719.3,brookie,20260526
+Wrentit,26,625.19,626.69,,,brookie,20260526
+Wrentit,28,678.63,679.99,157.1,3593.7,brookie,20260523
+Wrentit,29,684.6,686.04,36.3,4749.7,brookie,20260526
+Brown-headed Cowbird,32,841.08,842.55,,,brookie,20260524
+Clark's Nutcracker,33,843.74,844.94,351.8,5670.1,brookie,20260527
+Wrentit,34,850.34,851.71,51.8,7268.8,brookie,20260524
+Wrentit,36,867.21,869.2,,,brookie,20260526
+Wrentit,40,933.69,935.59,252.7,3506.7,brookie,20260522
+Engine,42,1191.85,1193.17,,,brookie,20260523
+Common Poorwill,43,1248.52,1250.62,213.8,2058.0,brookie,20260522
+Rock Sparrow,44,1270.81,1271.91,291.3,2888.6,brookie,20260523
+Western Screech-Owl,46,1545.73,1547.92,19.9,4146.9,brookie,20260527
+Spotted Towhee,47,1686.21,1688.61,203.2,5724.0,brookie,20260523
+Lesser Spotted Woodpecker,48,1828.73,1829.99,440.7,2148.7,brookie,20260527
+Evergreen-forest Warbler,49,2065.6,2066.95,133.4,6724.2,brookie,20260522
+Engine,50,2103.08,2104.98,,,brookie,20260525
+Common Poorwill,51,2137.64,2138.95,,,brookie,20260527
+Wren-like Rushbird,52,3090.66,3092.82,139.6,5848.9,brookie,20260525
+Engine,53,3442.69,3443.79,,,brookie,20260524
+Engine,55,3454.93,3455.95,,,brookie,20260525
+Engine,56,3616.57,3617.76,57.8,7397.0,brookie,20260523
+Engine,57,3619.42,3620.42,269.2,6316.6,brookie,20260527
+Great Bittern,59,3786.39,3788.08,460.4,5738.9,brookie,20260527
+Engine,60,3796.44,3797.61,,,brookie,20260525
+Engine,61,4393.39,4394.73,,,brookie,20260527
+Rook,62,5464.5,5465.59,203.0,7002.4,brookie,20260524
+Engine,65,6300.86,6302.52,232.5,4653.0,brookie,20260523
+Song Thrush,66,9310.59,9311.98,329.4,3702.7,brookie,20260527
+Engine,68,9663.67,9665.76,336.4,3347.8,brookie,20260523
+Engine,69,9681.09,9683.97,384.2,4732.5,brookie,20260527
+Engine,71,11179.44,11180.66,,,brookie,20260523
+Engine,72,11421.01,11423.5,53.3,4550.9,brookie,20260523
+Engine,73,11431.39,11432.67,458.7,2728.2,brookie,20260523
+Pacific-slope Flycatcher,75,3856.34,3857.99,475.0,7348.6,brookie,20260526
+Clark's Nutcracker,76,5497.78,5498.87,223.0,2954.9,brookie,20260525
+Clark's Nutcracker,77,5605.5,5606.92,,,brookie,20260526
+Pacific-slope Flycatcher,78,5691.48,5693.15,117.2,4015.1,brookie,20260526
+Clark's Nutcracker,80,7329.3,7330.95,,,brookie,20260523
+Flammulated Owl,81,10320.82,10322.46,,,brookie,20260523
+Pacific-slope Flycatcher,82,10560.78,10562.72,9.8,7283.9,brookie,20260526
+Pacific-slope Flycatcher,83,11868.01,11869.71,426.7,7720.6,brookie,20260525
+Pacific-slope Flycatcher,87,17497.47,17498.89,244.1,3637.6,brookie,20260525
+Pacific-slope Flycatcher,88,17811.67,17813.57,,,brookie,20260523
+Pacific-slope Flycatcher,89,18523.84,18525.0,453.5,5551.4,brookie,20260527
+Pacific-slope Flycatcher,95,18616.29,18617.39,,,brookie,20260522
+Pacific-slope Flycatcher,98,18642.65,18644.26,,,brookie,20260525
+Pacific-slope Flycatcher,101,18667.9,18668.94,235.2,6494.1,brookie,20260522
+Northern Saw-whet Owl,102,18669.45,18670.56,20.1,2186.2,brookie,20260523
+Pacific-slope Flycatcher,103,18672.04,18673.34,,,brookie,20260527
+Pacific-slope Flycatcher,104,18679.9,18680.95,,,brookie,20260524
+Pacific-slope Flycatcher,105,18682.21,18683.8,,,brookie,20260523
+Anna's Hummingbird,113,18715.16,18716.94,454.0,4251.8,brookie,20260527
+Pacific-slope Flycatcher,115,18721.18,18722.86,,,brookie,20260527
+Pacific-slope Flycatcher,122,18769.7,18770.88,,,brookie,20260526
+Pacific-slope Flycatcher,123,18771.69,18773.25,,,brookie,20260526
+Pacific-slope Flycatcher,125,18822.03,18823.86,,,brookie,20260525
+Oriental Greenfinch,126,18862.78,18863.88,,,brookie,20260523
+Pacific-slope Flycatcher,130,18961.93,18962.95,269.1,4901.0,brookie,20260525
+Pacific-slope Flycatcher,139,19189.18,19190.44,,,brookie,20260522
+Marbled Murrelet,142,19224.9,19226.73,334.1,4018.4,brookie,20260525
+Pacific-slope Flycatcher,144,19239.36,19240.71,170.2,7281.9,brookie,20260527
+Bearded Bellbird,145,19263.02,19265.9,,,brookie,20260527
+Pacific-slope Flycatcher,147,19297.11,19298.32,,,brookie,20260527
+Marbled Murrelet,153,19438.59,19439.63,,,brookie,20260527
+Pacific-slope Flycatcher,157,19504.33,19505.58,171.9,7979.8,brookie,20260526
+Pacific-slope Flycatcher,159,19519.41,19520.57,,,brookie,20260522
+Hermit Thrush,162,19614.63,19616.65,345.1,3149.2,brookie,20260527
+Marbled Murrelet,164,19642.45,19643.99,141.5,2603.2,brookie,20260523
+Pacific-slope Flycatcher,166,19707.72,19709.11,63.3,2273.1,brookie,20260522
+Hermit Thrush,176,21214.39,21215.47,245.4,7236.3,brookie,20260526
+Pacific-slope Flycatcher,177,21588.96,21590.31,126.2,7170.3,brookie,20260522
+Common Raven,181,22143.8,22144.89,26.8,2895.2,brookie,20260526
+Corn Crake,188,23173.99,23174.99,303.2,6744.4,brookie,20260523
+Hermit Warbler,189,23247.76,23249.89,,,brookie,20260526
+White-crowned Sparrow,193,23593.14,23594.19,49.6,6576.4,brookie,20260527
+Hermit Warbler,194,23599.32,23600.43,,,brookie,20260522
+Tree Swallow,7,256.09879032258067,256.22983870967744,1705.1741803278678,5049.436475409836,brookie,20260515
+Spotted Towhee,7,256.47983870967744,256.7258064516129,1508.4528688524604,5639.600409836066,brookie,20260515
+California Towhee,8,258,261,,,brookie,20260515
+Spotted Towhee,9,264.26612903225805,265.26612903225805,,,brookie,20260515
+California Towhee,10,267.91129032258067,268.91129032258067,,,brookie,20260515

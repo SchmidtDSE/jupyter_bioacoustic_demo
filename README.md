@@ -24,22 +24,10 @@ These notebooks demonstrate how to use `BioacousticAnnotator` for:
 ```bash
 git clone https://github.com/SchmidtDSE/jupyter_bioacoustic_demo.git
 cd jupyter_bioacoustic_demo
-pixi run lab
+pixi run jba lab
 ```
 
 This installs `jupyter-bioacoustic`, `ipyleaflet`, `shapely`, `seaborn`, and all other dependencies, then launches JupyterLab with the required `iopub_data_rate_limit` setting.
-
-### Using pip
-
-```bash
-git clone https://github.com/SchmidtDSE/jupyter_bioacoustic_demo.git
-cd jupyter_bioacoustic_demo
-
-pip install jupyter-bioacoustic
-pip install ipyleaflet shapely seaborn requests
-
-jupyter lab --ServerApp.iopub_data_rate_limit=1e10
-```
 
 > Spectrograms are sent as base64 images over Jupyter's IOPub channel, which can exceed the default rate limit. The `iopub_data_rate_limit` flag (or `pixi run lab`) prevents throttling.
 
