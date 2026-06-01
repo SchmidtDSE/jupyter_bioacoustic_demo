@@ -1,3 +1,4 @@
+capture: true
 description:
   title: Info
   text: |-
@@ -11,7 +12,6 @@ description:
     - `bounding_box`: allows the user to tightly annotate (stat/end_time, min/max_frequency) a single sound on an audio clip
     - `multibox`: similar to `bounding_box` but the user is able to draw (and label) multiple bounding-boxes on a single clip
   open: false
-capture: true
 capture_dir: spectrograms
 default_buffer: 0
 info_card_title: 'Model Prediction: [[common_name]]'
@@ -22,6 +22,7 @@ display_columns:
 - audio_url
 data:
   path: data/detections.N-dse.csv
+  index_column: id
 audio:
   column: audio_url
 form_config: annotator_config/forms/simple_annotator.yaml

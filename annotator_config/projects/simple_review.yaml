@@ -2,7 +2,9 @@ project_name: simple review
 config: annotator_config/config/simple_review.yaml
 output:
   path: outputs/simple_review.csv
+  index_column: detection_id
 data:
   path: data/detections.N-dse.csv
+  index_column: id
 audio:
   column: audio_url

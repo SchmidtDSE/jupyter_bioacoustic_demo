@@ -13,12 +13,13 @@ platforms = ["linux-64", "linux-aarch64", "osx-arm64", "osx-64"]
 [tool.pixi.dependencies]
 python = ">=3.11"
 seaborn = "*"
+ffmpeg = ">=8.1.1,<9"
 
 [tool.pixi.pypi-dependencies]
 ##  For Testing release 
-jupyter-bioacoustic = ">=0.8.5, <0.9.0"
+# jupyter-bioacoustic = ">=0.8.5, <0.9.0"
 ##  For development use local path when needed. 
-# jupyter-bioacoustic = { path = "../jupyter_bioacoustic", editable = true }
+jupyter-bioacoustic = { path = "../jupyter_bioacoustic", editable = true }
 ipyleaflet = "*"
 shapely = "*"
 requests = "*"

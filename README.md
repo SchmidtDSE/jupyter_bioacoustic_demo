@@ -28,9 +28,11 @@ cd jupyter_bioacoustic_demo
 pixi run jba lab
 ```
 
-This installs `jupyter-bioacoustic`, `ipyleaflet`, `shapely`, `seaborn`, and all other dependencies, then launches JupyterLab with the required `iopub_data_rate_limit` setting.
+This installs `jupyter-bioacoustic`, `ipyleaflet`, `shapely`, `seaborn`, **ffmpeg**, and all other dependencies, then launches JupyterLab with the required `iopub_data_rate_limit` setting.
 
 > Spectrograms are sent as base64 images over Jupyter's IOPub channel, which can exceed the default rate limit. `jba lab` prevents throttling. If running `jupyter lab` directly use `iopub_data_rate_limit` flag (`jupyter lab '--ServerApp.iopub_data_rate_limit=1e10`).
+
+> **ffmpeg.** These demos load remote audio, which uses `ffmpeg`/`ffprobe` for fast partial (byte-range) downloads. The pixi environment installs it for you (it's pinned in `pyproject.toml` under `[tool.pixi.dependencies]` as `ffmpeg = ">=8.1.1,<9"`). If you run the notebooks **outside** pixi (e.g. a plain `pip` env), install ffmpeg yourself — `brew install ffmpeg` (macOS), `sudo apt install ffmpeg` (Debian/Ubuntu), `winget install ffmpeg` (Windows), or `conda install -c conda-forge ffmpeg`. Without it, remote files still load but are fully downloaded and cached on first access.
 
 ## Demo Notebooks
 

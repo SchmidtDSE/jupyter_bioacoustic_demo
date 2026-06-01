@@ -1,10 +1,5 @@
-corrected_species,is_valid
-,yes
-Northern saw-whet owl,no
-Canada goose,no
-,yes
-Canada goose,no
-,yes
-Great horned owl,no
-,yes
-Hermit Thrush,no
+detection_id,corrected_species,is_valid
+1,,yes
+2,Pacific-slope Flycatcher,no
+3,nope,no
+4,nope,no

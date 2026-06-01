@@ -1,5 +1,6 @@
 output:
   path: outputs/model_review.N-dse.dummy-geo.csv
+  index_column: detection_id
 description:
   title: Analysis Workflow
   text: |-
@@ -39,4 +40,6 @@ info_card_text: 'confidence: [[confidence]]  |  rank: [[rank]]'
 default_buffer: 0.5
 capture: Save Spectrogram
 capture_dir: spectrograms
+data:
+  index_column: id
 form_config: annotator_config/forms/model_review_and_geoanalysis.yaml
