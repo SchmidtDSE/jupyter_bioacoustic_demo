@@ -1,9 +1,6 @@
 title:
   value: ANNOTATE
   progress_tracker: true
-pass_value:
-  source_column: id
-  column: detection_id
 annotation:
   tools:
   - fixed_duration:

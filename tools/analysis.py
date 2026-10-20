@@ -258,7 +258,8 @@ def county_accuracy_map(m, input_df: pd.DataFrame, output_df: pd.DataFrame,
     """Add a choropleth layer coloring counties by review accuracy (red=low, green=high)."""
     from ipyleaflet import GeoJSON, WidgetControl
     from ipywidgets import Output, HTML
-    import matplotlib.cm as cm
+    # import matplotlib.cm as cm
+    import matplotlib as mpl
     import matplotlib.colors as mcolors
 
     # Compute per-county accuracy
@@ -286,7 +287,8 @@ def county_accuracy_map(m, input_df: pd.DataFrame, output_df: pd.DataFrame,
                   for c, row in acc_stats.iterrows()}
 
     # Color mapping
-    colormap = cm.get_cmap(cmap_name)
+    # colormap = cm.get_cmap(cmap_name)
+    colormap = mpl.colormaps[cmap_name]
     norm = mcolors.Normalize(vmin=0, vmax=1)
 
     def acc_to_hex(acc):

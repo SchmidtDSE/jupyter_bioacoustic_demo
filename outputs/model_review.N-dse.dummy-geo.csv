@@ -2922,3 +2922,12 @@ detection_id,start_time,end_time,is_valid,verified_common_name,verification_conf
 98,,,yes,,,,brookie,20260413
 118,,,yes,,,,brookie,20260413
 122,,,no,Western Bluebird,medium,,brookie,20260413
+23,,,no,Tree Swallow,,,brookie,20260413
+80,,,yes,,,,brookie,20260413
+5,,,yes,,,,brookie,20260413
+10,,,no,Bewick's Wren,,,brookie,20260413
+136,,,no,Tree Swallow,,,brookie,20260413
+210,,,yes,,,,brookie,20260413
+281,,,no,Tree Swallow,high,,brookie,20260413
+148,,,no,Yellow-breasted Chat,,,brookie,20260413
+156,,,no,Bewick's Wren,medium,,brookie,20260413

@@ -8,6 +8,7 @@ dev*
 *.ipynb
 tmp/
 logs/
+*.log
 
 #***************************************************************************
 # JupyterBioacoustic Extension

@@ -19,10 +19,13 @@ info_card_text: 'confidence: [[confidence]]'
 display_columns:
 - deployment_code
 - recording_start_datetime
+- confidence
 - audio_url
 data:
   path: data/detections.N-dse.csv
   index_column: id
 audio:
   column: audio_url
+sort: confidence
+sort_order: desc
 form_config: annotator_config/forms/simple_annotator.yaml
