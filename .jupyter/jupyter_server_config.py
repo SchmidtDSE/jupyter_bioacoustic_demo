@@ -1,0 +1,1 @@
+c.ServerApp.iopub_data_rate_limit = 1e10
